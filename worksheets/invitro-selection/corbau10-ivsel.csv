@@ -1,0 +1,5 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Corbau10,Lersivirine,SupT1,250nM,NL4-3,NL4-3,,1,9,9w,RT,V108I+E138K,"Table 6, Figure S1"
+Corbau10,Lersivirine,SupT1,500nM,NL4-3,NL4-3,,1,11,11w,RT,V108I+E138K+F227FL,"Table 6, Figure S1"
+Corbau10,Lersivirine,SupT1,400nM,NL4-3,NL4-3,,2,11,11w,RT,V108I+E138K+F227FL+M230MI,"Table 6, Figure S1"
+Corbau10,EFV,SupT1,Unknown,NL4-3,NL4-3,,1,11,11w,RT,L100I+K103Q+H221HY,Table 6

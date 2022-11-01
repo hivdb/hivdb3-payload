@@ -1,0 +1,5 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Jones09,GS-9160,MT-2,64nM,IIIB,IIIB,,1,5,56d,IN,E92V,Table 7
+Jones09,GS-9160,MT-2,128nM,IIIB,IIIB,,1,6,76d,IN,L74M+E92V,Table 7
+Jones09,GS-9160,MT-2,256nM,IIIB,IIIB,,1,8,99d,IN,L74M+E92V,Table 7
+Jones09,GS-9160,MT-2,512nM,IIIB,IIIB,,1,9,115d,IN,L74M+E92V,Table 7

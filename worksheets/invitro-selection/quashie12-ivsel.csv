@@ -1,0 +1,18 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Quashie12,DTG,CBMC,0.05uM,Consensus B,Strain 5331,I72V,1,Unknown,20w,IN,R263K,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,BK132,M154I+V201I,1,Unknown,20w,IN,W243GW+R263K,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,Strain 5326,V72I+I203M,1,Unknown,20w,IN,S153Y+R166KR+R263KR,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,pNL4-3,I72V+I113V+L234V,1,Unknown,20w,IN,M50IM+V151I+R263K,Table 1
+Quashie12,DTG,CBMC,0.01uM,Consensus B,Strain 12197 RAL TI WT for INI,I203M,1,Unknown,20w,IN,R263K+D288E,Table 1
+Quashie12,DTG,CBMC,0.025uM,Consensus B,Strain 6399,V72I+T125A+V201I,1,Unknown,20w,IN,E69EK+G118R,Table 1
+Quashie12,DTG,CBMC,0.01uM,Consensus B,96USSN20,V72I+T125A+V201I,1,Unknown,20w,IN,R263K,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,Strain 4742,V72I+Q95P+T125A+V201I+I203M,1,Unknown,20w,IN,G118R,Table 1
+Quashie12,DTG,CBMC,0.01uM,Consensus B,96USNG31,V72I+T125A+V201I,1,Unknown,20w,IN,S153ST,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,BK132,M154I+V201I,1,Unknown,37w,IN,E138EK+R263K,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,Strain 5326,V72I+I203M,1,Unknown,37w,IN,S153Y,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,pNL4-3,I72V+I113V+L234V,1,Unknown,37w,IN,M50I+V151I+R263K,Table 1
+Quashie12,DTG,CBMC,0.025uM,Consensus B,Strain 12197 RAL TI WT for INI,I203M,1,Unknown,34w,IN,R263K+D288E,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,Strain 6399,V72I+T125A+V201I,1,Unknown,37w,IN,G118R,Table 1
+Quashie12,DTG,CBMC,0.1uM,Consensus B,96USSN20,V72I+T125A+V201I,1,Unknown,37w,IN,H51HY+R263K,Table 1
+Quashie12,DTG,CBMC,0.05uM,Consensus B,Strain 4742,V72I+Q95P+T125A+V201I+I203M,1,Unknown,37w,IN,H51Y+G118R,Table 1
+Quashie12,DTG,CBMC,0.025uM,Consensus B,96USNG31,V72I+T125A+V201I,1,Unknown,37w,IN,H51Y+G193EG,Table 1

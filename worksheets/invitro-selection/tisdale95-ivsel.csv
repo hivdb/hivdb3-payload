@@ -1,0 +1,19 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Tisdale95,A-77003,MT-4,1500nM,HXB2,HXB2,,1,2,Unknown,PR,R8Q+M46I,Figure 1
+Tisdale95,A-77003,MT-4,6000nM,HXB2,HXB2,,1,5,Unknown,PR,R8K+M46I,Figure 1
+Tisdale95,A-77003,MT-4,12000nM,HXB2,HXB2,,1,6,Unknown,PR,R8K+M46I+G48V,"Figure 1, 2"
+Tisdale95,XM323,MT-4,800nM,HXB2,HXB2,,1,1,Unknown,PR,I84V,Figure 1
+Tisdale95,XM323,MT-4,6400nM,HXB2,HXB2,,1,4,Unknown,PR,L10F+K45I+I84V,Figure 1
+Tisdale95,XM323,MT-4,25600nM,HXB2,HXB2,,1,6,Unknown,PR,L10F+I84V,"Figure 1, 2"
+Tisdale95,SQV,MT-4,320nM,HXB2,HXB2,,1,4,Unknown,PR,G48V,Figure 1
+Tisdale95,SQV,MT-4,1280nM,HXB2,HXB2,,1,6,Unknown,PR,G48V+L90M,"Figure 1, 2"
+Tisdale95,SQV,MT-4,160nM,RTMC,RTMC,,1,3,Unknown,PR,G48V,Figure 1
+Tisdale95,SQV,MT-4,640nM,RTMC,RTMC,,1,5,Unknown,PR,G48V+I84V+L90M,Figure 1
+Tisdale95,SQV,MT-4,1280nM,RTMC,RTMC,,1,6,Unknown,PR,G48V+I84V+L90M,"Figure 1, 2"
+Tisdale95,Amprenavir,MT-4,400nM,HXB2,HXB2,,1,2,Unknown,PR,I50V,Figure 1
+Tisdale95,Amprenavir,MT-4,800nM,HXB2,HXB2,,1,4,Unknown,PR,M46L+I50V,Figure 1
+Tisdale95,Amprenavir,MT-4,1600nM,HXB2,HXB2,,1,6,Unknown,PR,M46IL+I50V+D60N,"Figure 1, 2"
+Tisdale95,IDV,MT-4,160nM,HXB2,HXB2,,1,3,Unknown,PR,V82A,Figure 1
+Tisdale95,IDV,MT-4,320nM,HXB2,HXB2,,1,5,Unknown,PR,M46L+V82A,Figure 1
+Tisdale95,IDV,MT-4,640nM,HXB2,HXB2,,1,6,Unknown,PR,V32I+M46L+V82A,Figure 1
+Tisdale95,IDV,MT-4,2560nM,HXB2,HXB2,,1,8,Unknown,PR,V32I+M46L+A71V+V82A,"Figure 1, 2"

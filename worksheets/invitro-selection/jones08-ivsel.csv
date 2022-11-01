@@ -1,0 +1,8 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Jones08,EVG,Unknown,25nM,IIIB,IIIB,,1,7,66d,IN,T66I,Figure 1
+Jones08,EVG,Unknown,400nM,IIIB,IIIB,,1,11,104d,IN,T66I+R263K,Figure 1
+Jones08,EVG,Unknown,1600nM,IIIB,IIIB,,1,13,149d,IN,T66I+R263K,Figure 1
+Jones08,EVG,Unknown,6.25nM,IIIB,IIIB,,2,3,18d,IN,T66TI,Figure 2
+Jones08,EVG,Unknown,50nM,IIIB,IIIB,,2,6,38d,IN,T66IT+F121FY,Figure 2
+Jones08,EVG,Unknown,400nM,IIIB,IIIB,,2,9,70d,IN,T66I+F121FY+S153SY,Figure 2
+Jones08,EVG,Unknown,3200nM,IIIB,IIIB,,2,12,123d,IN,T66I+F121FY+S153SY,Figure 2

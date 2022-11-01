@@ -1,0 +1,6 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Fikkert03,L-708906,MT-4,27.5uM,IIIB,IIIB,,1,25,~88d,IN,T66TI,Table 1
+Fikkert03,L-708906,MT-4,27.5uM,IIIB,IIIB,,1,35,~123d,IN,T66I+L74LM,Table 1
+Fikkert03,L-708906,MT-4,27.5uM,IIIB,IIIB,,1,40,~140d,IN,T66I+L74M+S230SR,Table 1
+Fikkert03,L-708906,MT-4,27.5uM,IIIB,IIIB,,1,60,~210d,IN,T66I+L74M+S230R,Table 1
+Fikkert03,L-708906,MT-4,27.5uM,IIIB,IIIB,,1,70,~245d,IN,T66I+L74M+S230R,Table 1

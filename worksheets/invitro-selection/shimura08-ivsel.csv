@@ -1,0 +1,12 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Shimura08,EVG,MT-2,4nM,IIIB,IIIB,,1,12,Unknown,IN,Q146P+N232D,Figure 3A
+Shimura08,EVG,MT-2,32nM,IIIB,IIIB,,1,32,Unknown,IN,T66I+Q146P,Figure 3A
+Shimura08,EVG,MT-2,128nM,IIIB,IIIB,,1,48,Unknown,IN,T66I+Q146P+S147G,Figure 3A
+Shimura08,EVG,MT-2,256nM,IIIB,IIIB,,1,54,Unknown,IN,T66I+Q95QK+E138EK+Q146P+S147G,Figure 3A
+Shimura08,EVG,MT-2,512nM,IIIB,IIIB,,1,64,Unknown,IN,T66I+Q95K+E138EK+Q146P+S147G,Figure 3A
+Shimura08,EVG,MT-2,2048nM,IIIB,IIIB,,1,80,Unknown,IN,T66I+Q95K+E138K+Q146P+S147G,Figure 3A
+Shimura08,EVG,MT-2,10nM,IIIB,IIIB,,2,30,Unknown,IN,E92EQ,Figure 3B
+Shimura08,EVG,MT-2,20nM,IIIB,IIIB,,2,38,Unknown,IN,E92Q,Figure 3B
+Shimura08,EVG,MT-2,640nM,IIIB,IIIB,,2,60,Unknown,IN,H51HY+E92Q+S147SG,Figure 3B
+Shimura08,EVG,MT-2,1280nM,IIIB,IIIB,,2,70,Unknown,IN,H51HY+E92Q+S147G+E157EQ,Figure 3B
+Shimura08,EVG,MT-2,1280nM,IIIB,IIIB,,2,80,Unknown,IN,H51Y+E92Q+S147G+E157EQ,Figure 3B

@@ -1,0 +1,8 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Larder93,NVP,MT-2,0.2uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,1,Unknown,RT,V106V+Y181YC,"Figure 1a, 1b"
+Larder93,NVP,MT-2,0.3uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,2,Unknown,RT,V106V+Y181CY,"Figure 1a, 1b"
+Larder93,NVP,MT-2,5.0uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,4,Unknown,RT,V106V+Y181C,Figure 1a
+Larder93,NVP+AZT,MT-2,1.0uM+0.4uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,3,Unknown,RT,V106VA+Y181CY,Figure 1b
+Larder93,NVP+AZT,MT-2,5.0uM+1.0uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,4,Unknown,RT,V106VA+Y181CY,Figure 1b
+Larder93,NVP+AZT+DDI,MT-2,0.3uM+0.2uM+5.0uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,2,Unknown,RT,V106A+Y181Y,Figure 1c
+Larder93,NVP+AZT+DDI,MT-2,0.5uM+0.5uM+5.0uM,HXB2,HIVRTMZ (41L+74V+215Y),41L+74V+215Y,1,3,Unknown,RT,V106A+Y181Y,Figure 1c

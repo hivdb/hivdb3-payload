@@ -1,0 +1,3 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Keulen97,3TC,SupT1,1uM,HXB2,HXB2,,1,Unknown,5d,RT,M184ITV,Table 1
+Keulen97,3TC,SupT1,10uM,HXB2,HXB2,,1,Unknown,5d,RT,M184IT,Table 1

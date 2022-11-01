@@ -1,0 +1,30 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Oliveira16,DTG,CBMC,10nM,NL4-3,NL4-3,,1,Unknown,12w,IN,None,Table 1
+Oliveira16,DTG,CBMC,25nM,NL4-3,NL4-3,,1,Unknown,17w,IN,S153FS+R263KR,Table 1
+Oliveira16,DTG,CBMC,25nM,NL4-3,NL4-3,,1,Unknown,22w,IN,R263K,Table 1
+Oliveira16,EVG,CBMC,100nM,NL4-3,NL4-3,,1,Unknown,12w,IN,T66I+Q146QR+R263KR,Table 1
+Oliveira16,EVG,CBMC,1000nM,NL4-3,NL4-3,,1,Unknown,22w,IN,T66I+E92Q+S147GS,Table 1
+Oliveira16,RAL,CBMC,100nM,NL4-3,NL4-3,,1,Unknown,12w,IN,T97AT+Q148KQ,Table 1
+Oliveira16,RAL,CBMC,2500nM,NL4-3,NL4-3,,1,Unknown,22w,IN,T97A+Y143R,Table 1
+Oliveira16,DTG,CBMC,10nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,12w,IN,None,Table 1
+Oliveira16,DTG,CBMC,25nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,22w,IN,None,Table 1
+Oliveira16,DTG,CBMC,25nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,26w,IN,None,Table 1
+Oliveira16,EVG,CBMC,5nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,12w,IN,T66IT,Table 1
+Oliveira16,EVG,CBMC,5nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,22w,IN,T66I,Table 1
+Oliveira16,RAL,CBMC,10nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,12w,IN,None,Table 1
+Oliveira16,RAL,CBMC,10nM,NL4-3,NL4-3 (M184I),M184I,1,Unknown,22w,IN,T66IT+V79IV,Table 1
+Oliveira16,DTG,CBMC,10nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,12w,IN,None,Table 1
+Oliveira16,DTG,CBMC,25nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,22w,IN,None,Table 1
+Oliveira16,DTG,CBMC,25nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,26w,IN,None,Table 1
+Oliveira16,EVG,CBMC,25nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,12w,IN,T66I+S147GS,Table 1
+Oliveira16,EVG,CBMC,500nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,22w,IN,T66I+S147G+D232N,Table 1
+Oliveira16,RAL,CBMC,50nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,12w,IN,N155H,Table 1
+Oliveira16,RAL,CBMC,1000nM,NL4-3,NL4-3 (M184V),M184V,1,Unknown,22w,IN,N155H+G163R,Table 1
+Oliveira16,DTG,CBMC,10nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,12w,IN,None,Table 1
+Oliveira16,DTG,CBMC,10nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,22w,IN,None,Table 1
+Oliveira16,DTG,CBMC,10nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,26w,IN,None,Table 1
+Oliveira16,EVG,CBMC,50nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,12w,IN,T66I+Q146QR,Table 1
+Oliveira16,EVG,CBMC,100nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,22w,IN,T66I+Q146R,Table 1
+Oliveira16,RAL,CBMC,10nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,12w,IN,None,Table 1
+Oliveira16,RAL,CBMC,50nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,22w,IN,ND,Table 1
+Oliveira16,RAL,CBMC,50nM,NL4-3,NL4-3 (K65R),K65R,1,Unknown,26w,IN,A128T+Y143H,Table 1

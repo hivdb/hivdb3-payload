@@ -1,0 +1,13 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Link20,Lenacapavir,MT-2,0.8nM,HXB2,HXB2,,1,4,22d,CA,N74D,Figure 3a
+Link20,Lenacapavir,MT-2,6.4nM,HXB2,HXB2,,1,7,84d,CA,Q67H+N74D,Figure 3a
+Link20,Lenacapavir,MT-2,51.2nM,HXB2,HXB2,,1,10,105d,CA,Q67H+N74D,Figure 3a
+Link20,Lenacapavir,PBMC,0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,1,~10,35d,CA,Q67H,Figure 3c
+Link20,Lenacapavir,PBMC,0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,2,~10,35d,CA,N74D,Figure 3c
+Link20,Lenacapavir,PBMC,0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,3,~10,35d,CA,L56I,Figure 3c
+Link20,Lenacapavir,PBMC,0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,4,~10,35d,CA,Q67H+N74S,Figure 3c
+Link20,Lenacapavir,PBMC,0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,5,~10,35d,CA,Q67H+T107N,Figure 3c
+Link20,Lenacapavir,PBMC,1.9nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,1,~10,35d,CA,N74D,Figure 3c
+Link20,Lenacapavir,PBMC,3.7nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,1,~10,35d,CA,N74D,Figure 3c
+Link20,Lenacapavir,PBMC,3.7nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,2,~10,35d,CA,M66I,Figure 3c
+Link20,Lenacapavir,PBMC,3.7nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576","BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",,3,~10,35d,CA,K70N,Figure 3c

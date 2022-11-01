@@ -1,0 +1,8 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+DeMeyer05,DRV,MT-4-LTR-EGFP,30nM,LAI,LAI,,1,14,45d,PR,R41T,"Table 4, figure 4"
+DeMeyer05,DRV,MT-4-LTR-EGFP,100nM,LAI,LAI,,1,29,97d,PR,R41T+K70E,"Table 4, figure 4"
+DeMeyer05,DRV,MT-4-LTR-EGFP,100nM,LAI,LAI,,1,54,188d,PR,R41T+K70E,"Table 4, figure 4"
+DeMeyer05,DRV,MT-4-LTR-EGFP,200nM,LAI,LAI,,1,75,260d,PR,R41T+K70E,"Table 4, figure 4"
+DeMeyer05,Amprenavir,MT-4-LTR-EGFP,18000nM,LAI,LAI,,1,42,~147d,PR,L10F+V32I+L33F+M46I+I47V+I50V,Figure 4
+DeMeyer05,NFV,MT-4-LTR-EGFP,9000nM,LAI,LAI,,1,40,~140d,PR,L10F+D30N+R41RK+K45IK+M46I+V77I+I84V+N88D,Figure 4
+DeMeyer05,LPV,MT-4-LTR-EGFP,2000nM,LAI,LAI,,1,56,~196d,PR,L10F+S37SN+M46I+I54V+L63PL+V82A+T91A,Figure 4

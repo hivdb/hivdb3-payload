@@ -1,0 +1,9 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Gong00,ATV,MT-2,25nM,RF,RF,,1,Unknown,1mo,PR,N88S,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ATV,MT-2,100nM,RF,RF,,1,Unknown,2.4mo,PR,M46I+N88S,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ATV,MT-2,225nM,RF,RF,,1,Unknown,3.5mo,PR,V32I+M46I+A71V+N88S,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ATV,MT-2,500nM,RF,RF,,1,Unknown,4.8mo,PR,V32I+L33F+M46I+A71V+I84V+N88S,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ATV,MT-2,28nM,BRU,BRU,,1,Unknown,2.6mo,PR,L10YF+I50L+L63LP+A71V+N88S,"Table 2, figure 3 and p. 2321, para. 6"
+Gong00,ATV,MT-2,500nM,BRU,BRU,,1,Unknown,4.7mo,PR,L10YF+M46MI+I50L+L63PL+A71V+N88S,"Table 2, figure 3 and p. 2321, para. 6"
+Gong00,ATV,MT-2,40nM,NL4-3,NL4-3,,1,Unknown,3.9mo,PR,V32I+M46I+I84V,"Table 2, figure 4 and p. 2322, para. 1"
+Gong00,ATV,MT-2,200nM,NL4-3,NL4-3,,1,Unknown,4.6mo,PR,V32I+M46I+I84V+L89ML,"Table 2, figure 4 and p. 2322, para. 1"

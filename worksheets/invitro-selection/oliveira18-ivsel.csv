@@ -1,0 +1,90 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Oliveira18,DTG,CBMC,0.005uM,KX714021,Strain 5326,,1,Unknown,8w,IN,None,Figure 1
+Oliveira18,DTG,CBMC,0.01uM,KX714021,Strain 5326,,1,Unknown,16w,IN,None,Figure 1
+Oliveira18,DTG,CBMC,0.01-0-025uM,KX714021,Strain 5326,,1,Unknown,24-30w,IN,None,Figure 1
+Oliveira18,DTG,CBMC,0.025uM,KX714021,Strain 5326,,1,Unknown,43-46w,IN,H51HY,"Figure 1, table 3"
+Oliveira18,DTG,CBMC,0.005uM,MG805953,96USSN20,,1,Unknown,8w,IN,None,Figure 1
+Oliveira18,DTG,CBMC,0.025uM,MG805953,96USSN20,,1,Unknown,16w,IN,R263K,Figure 1
+Oliveira18,DTG,CBMC,0.025uM,MG805953,96USSN20,,1,Unknown,24-30w,IN,R263K,Figure 1
+Oliveira18,DTG,CBMC,0.05uM,MG805953,96USSN20,,1,Unknown,43-46w,IN,R263K,"Figure 1, table 3"
+Oliveira18,BIC,CBMC,0.005uM,KX714021,Strain 5326,,1,Unknown,8w,IN,None,Figure 1
+Oliveira18,BIC,CBMC,0.01uM,KX714021,Strain 5326,,1,Unknown,16w,IN,S153Y,Figure 1
+Oliveira18,BIC,CBMC,0.025uM,KX714021,Strain 5326,,1,Unknown,24-30w,IN,S153Y,Figure 1
+Oliveira18,BIC,CBMC,0.025uM,KX714021,Strain 5326,,1,Unknown,43-46w,IN,S153Y,"Figure 1, table 3"
+Oliveira18,BIC,CBMC,0.005uM,MG805953,96USSN20,,1,Unknown,8w,IN,None,Figure 1
+Oliveira18,BIC,CBMC,0.025uM,MG805953,96USSN20,,1,Unknown,16w,IN,E157K,Figure 1
+Oliveira18,BIC,CBMC,0.025uM,MG805953,96USSN20,,1,Unknown,24-30w,IN,E157K+S153FS,Figure 1
+Oliveira18,BIC,CBMC,0.025uM,MG805953,96USSN20,,1,Unknown,43-46w,IN,E157K+S153FS,"Figure 1, table 3"
+Oliveira18,CAB,CBMC,0.0025uM,KX714021,Strain 5326,,1,Unknown,8w,IN,S153FS,Figure 1
+Oliveira18,CAB,CBMC,0.01uM,KX714021,Strain 5326,,1,Unknown,16w,IN,Q148K,Figure 1
+Oliveira18,CAB,CBMC,0.25uM,KX714021,Strain 5326,,1,Unknown,24-30w,IN,T97AT+G140S+S147GS+Q148K,Figure 1
+Oliveira18,CAB,CBMC,1uM,KX714021,Strain 5326,,1,Unknown,43-46w,IN,L74M+G140S+S147G+Q148K,"Figure 1, table 3"
+Oliveira18,CAB,CBMC,0.005uM,MG805953,96USSN20,,1,Unknown,8w,IN,R263KR,Figure 1
+Oliveira18,CAB,CBMC,0.01uM,MG805953,96USSN20,,1,Unknown,16w,IN,R263KR+Q148R+E138EK,Figure 1
+Oliveira18,CAB,CBMC,0.1uM,MG805953,96USSN20,,1,Unknown,24-30w,IN,L74LM+R263K+Q148R+E138K,Figure 1
+Oliveira18,CAB,CBMC,0.5uM,MG805953,96USSN20,,1,Unknown,43-46w,IN,L74LM+R263K+Q148R+E138K,"Figure 1, table 3"
+Oliveira18,EVG,CBMC,0.01uM,KX714021,Strain 5326,,1,Unknown,8w,IN,None,Figure 1
+Oliveira18,EVG,CBMC,0.05uM,KX714021,Strain 5326,,1,Unknown,16w,IN,None,Figure 1
+Oliveira18,EVG,CBMC,0.25uM,KX714021,Strain 5326,,1,Unknown,24-30w,IN,R263K+S153A,Figure 1
+Oliveira18,EVG,CBMC,1uM,KX714021,Strain 5326,,1,Unknown,43-46w,IN,R263K+S153A,"Figure 1, table 3"
+Oliveira18,EVG,CBMC,0.01uM,MG805953,96USSN20,,1,Unknown,8w,IN,T66I,Figure 1
+Oliveira18,EVG,CBMC,1uM,MG805953,96USSN20,,1,Unknown,16w,IN,T66I+S147G+G163GR,Figure 1
+Oliveira18,EVG,CBMC,2.5uM,MG805953,96USSN20,,1,Unknown,24-30w,IN,T66I+S147G+G163GR,Figure 1
+Oliveira18,EVG,CBMC,2.5uM,MG805953,96USSN20,,1,Unknown,43-46w,IN,T66I+Q146R+S147G+Q95R,"Figure 1, table 3"
+Oliveira18,DTG,CBMC,Unknown,KT988124,Strain 14514,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,BIC,CBMC,Unknown,KT988124,Strain 14514,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,CAB,CBMC,Unknown,KT988124,Strain 14514,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,EVG,CBMC,Unknown,KT988124,Strain 14514,,1,Unknown,26-40w,IN,T66I,Table 3
+Oliveira18,RAL,CBMC,Unknown,KT988124,Strain 14514,,1,Unknown,26-40w,IN,ND,Table 3
+Oliveira18,DTG,CBMC,Unknown,KX7140173,Strain 10387,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,BIC,CBMC,Unknown,KX7140173,Strain 10387,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,CAB,CBMC,Unknown,KX7140173,Strain 10387,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,EVG,CBMC,Unknown,KX7140173,Strain 10387,,1,Unknown,26-40w,IN,T66I,Table 3
+Oliveira18,RAL,CBMC,Unknown,KX7140173,Strain 10387,,1,Unknown,26-40w,IN,E92Q,Table 3
+Oliveira18,DTG,CBMC,Unknown,KX714014,Strain 10249,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,BIC,CBMC,Unknown,KX714014,Strain 10249,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,CAB,CBMC,Unknown,KX714014,Strain 10249,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,EVG,CBMC,Unknown,KX714014,Strain 10249,,1,Unknown,26-40w,IN,E92Q,Table 3
+Oliveira18,RAL,CBMC,Unknown,KX714014,Strain 10249,,1,Unknown,26-40w,IN,None,Table 3
+Oliveira18,DTG,CBMC,Unknown,KX714018,Strain 14624,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,BIC,CBMC,Unknown,KX714018,Strain 14624,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,CAB,CBMC,Unknown,KX714018,Strain 14624,,1,Unknown,46w,IN,H51HY,Table 3
+Oliveira18,EVG,CBMC,Unknown,KX714018,Strain 14624,,1,Unknown,26-40w,IN,T66I,Table 3
+Oliveira18,RAL,CBMC,Unknown,KX714018,Strain 14624,,1,Unknown,26-40w,IN,T97A+N155H,Table 3
+Oliveira18,DTG,CBMC,Unknown,KT988125,Strain 14637,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,BIC,CBMC,Unknown,KT988125,Strain 14637,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,CAB,CBMC,Unknown,KT988125,Strain 14637,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,EVG,CBMC,Unknown,KT988125,Strain 14637,,1,Unknown,26-40w,IN,T66I+E157Q+R263K,Table 3
+Oliveira18,RAL,CBMC,Unknown,KT988125,Strain 14637,,1,Unknown,26-40w,IN,N155H,Table 3
+Oliveira18,DTG,CBMC,Unknown,KT988126,Strain 14947,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,BIC,CBMC,Unknown,KT988126,Strain 14947,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,CAB,CBMC,Unknown,KT988126,Strain 14947,,1,Unknown,46w,IN,R263K+S153A,Table 3
+Oliveira18,EVG,CBMC,Unknown,KT988126,Strain 14947,,1,Unknown,26-40w,IN,T66I+E138EK+S147G+Q148R,Table 3
+Oliveira18,RAL,CBMC,Unknown,KT988126,Strain 14947,,1,Unknown,26-40w,IN,Y143R+L74M+E92V+F121Y+G163GR,Table 3
+Oliveira18,RAL,CBMC,Unknown,KX714021,Strain 5326,,1,Unknown,26-40w,IN,Y143R+L74M+T97A+E157Q,Table 3
+Oliveira18,DTG,CBMC,Unknown,MG805951,Strain 4742,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,BIC,CBMC,Unknown,MG805951,Strain 4742,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,CAB,CBMC,Unknown,MG805951,Strain 4742,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,EVG,CBMC,Unknown,MG805951,Strain 4742,,1,Unknown,26-40w,IN,E92EG+R263KR,Table 3
+Oliveira18,RAL,CBMC,Unknown,MG805951,Strain 4742,,1,Unknown,26-40w,IN,T66K,Table 3
+Oliveira18,DTG,CBMC,Unknown,MG805955,Strain 10947,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,BIC,CBMC,Unknown,MG805955,Strain 10947,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,CAB,CBMC,Unknown,MG805955,Strain 10947,,1,Unknown,46w,IN,S147G,Table 3
+Oliveira18,EVG,CBMC,Unknown,MG805955,Strain 10947,,1,Unknown,26-40w,IN,E92V+R263K,Table 3
+Oliveira18,RAL,CBMC,Unknown,MG805955,Strain 10947,,1,Unknown,26-40w,IN,ND,Table 3
+Oliveira18,DTG,CBMC,Unknown,MG805950,Strain 6343,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,BIC,CBMC,Unknown,MG805950,Strain 6343,,1,Unknown,46w,IN,S153Y,Table 3
+Oliveira18,CAB,CBMC,Unknown,MG805950,Strain 6343,,1,Unknown,46w,IN,S153Y+G163R,Table 3
+Oliveira18,EVG,CBMC,Unknown,MG805950,Strain 6343,,1,Unknown,26-40w,IN,T66I+R263K,Table 3
+Oliveira18,RAL,CBMC,Unknown,MG805950,Strain 6343,,1,Unknown,26-40w,IN,ND,Table 3
+Oliveira18,DTG,CBMC,Unknown,MG805952,Strain 14515,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,BIC,CBMC,Unknown,MG805952,Strain 14515,,1,Unknown,46w,IN,R263K,Table 3
+Oliveira18,CAB,CBMC,Unknown,MG805952,Strain 14515,,1,Unknown,46w,IN,None,Table 3
+Oliveira18,EVG,CBMC,Unknown,MG805952,Strain 14515,,1,Unknown,26-40w,IN,T66I+H51HY,Table 3
+Oliveira18,RAL,CBMC,Unknown,MG805952,Strain 14515,,1,Unknown,26-40w,IN,ND,Table 3
+Oliveira18,RAL,CBMC,Unknown,MG805953,96USSN20,,1,Unknown,26-40w,IN,L74M+V79I+E138K+G140A+Q148R,Table 3
+Oliveira18,DTG,CBMC,Unknown,NL4-3,NL4-3,,1,Unknown,46w,IN,R263K+M50I,Table 3
+Oliveira18,BIC,CBMC,Unknown,NL4-3,NL4-3,,1,Unknown,46w,IN,R263K+M50I,Table 3
+Oliveira18,CAB,CBMC,Unknown,NL4-3,NL4-3,,1,Unknown,46w,IN,S153F,Table 3
+Oliveira18,EVG,CBMC,Unknown,NL4-3,NL4-3,,1,Unknown,26-40w,IN,T66I+T97A+S147G+S119R+S153A,Table 3
+Oliveira18,RAL,CBMC,Unknown,NL4-3,NL4-3,,1,Unknown,26-40w,IN,T66I+T97A+G163R+D232N,Table 3

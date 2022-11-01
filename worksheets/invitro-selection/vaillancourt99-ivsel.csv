@@ -1,0 +1,16 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Vaillancourt99,SQV,CEMx174,0.016uM,pNL4-3,pNL4-3,,1,4,Unknown,PR,I84V,Table 1
+Vaillancourt99,SQV,CEMx174,0.188uM,pNL4-3,pNL4-3,,1,10,Unknown,PR,G48V+A71V+I84V,Table 1
+Vaillancourt99,SQV,CEMx174,1.86uM,pNL4-3,pNL4-3,,1,15,Unknown,PR,G48V+A71V+I84V+L90LM,Table 1
+Vaillancourt99,SQV,CEMx174,4.2uM,pNL4-3,pNL4-3,,1,17,Unknown,PR,G48V+I54V+A71V+I84V+L90M,Table 1
+Vaillancourt99,SQV,CEMx174,5uM,pNL4-3,pNL4-3,,1,27,Unknown,PR,L10I+G48V+I54V+L63P+A71V+V82T+I84V+L90M,Table 1
+Vaillancourt99,SQV,CEMx174,0.024uM,pNL4-3,pNL4-3,,2,5,Unknown,PR,I84V,Table 1
+Vaillancourt99,SQV,CEMx174,0.054uM,pNL4-3,pNL4-3,,2,7,Unknown,PR,G48V,Table 1
+Vaillancourt99,SQV,CEMx174,0.183uM,pNL4-3,pNL4-3,,2,10,Unknown,PR,G48V+A71V+I84V,Table 1
+Vaillancourt99,SQV,CEMx174,1.4uM,pNL4-3,pNL4-3,,2,15,Unknown,PR,G48V+A71V+I84V+L90M,Table 1
+Vaillancourt99,SQV,CEMx174,0.032uM,pNL4-3,pNL4-3,,3,5,Unknown,PR,G48V,Table 1
+Vaillancourt99,SQV,CEMx174,0.13uM,pNL4-3,pNL4-3,,3,7,Unknown,PR,G48V+A71V+I84V,Table 1
+Vaillancourt99,SQV,CEMx174,1.12uM,pNL4-3,pNL4-3,,3,10,Unknown,PR,G48V+A71V+I84V+L90M,Table 1
+Vaillancourt99,SQV,CEMx174,0.016uM,pNL4-3,pNL4-3,,4,4,Unknown,PR,G48V,Table 1
+Vaillancourt99,SQV,CEMx174,0.18uM,pNL4-3,pNL4-3,,4,10,Unknown,PR,G48V+L90M,Table 1
+Vaillancourt99,SQV,CEMx174,1.4uM,pNL4-3,pNL4-3,,4,15,Unknown,PR,L10I+L24I+G48V+I54V+L63P+A71V+V82T+I84V,Table 1

@@ -1,0 +1,5 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Jacobsen95,SQV,CEM,40nM,GB8,GB8,,1,7,Unknown,PR,G48G+L90L,Figure 3
+Jacobsen95,SQV,CEM,80nM,GB8,GB8,,1,8,Unknown,PR,G48G+L90L,Figure 3
+Jacobsen95,SQV,CEM,320nM,GB8,GB8,,1,11,Unknown,PR,G48V+L90M,Figure 1
+Jacobsen95,SQV,CEM,640nM,GB8,GB8,,1,14,Unknown,PR,G48V+L90M,"p. 530, para. 2"

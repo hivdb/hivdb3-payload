@@ -1,0 +1,5 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Hombrouck08,L-870810,MT-4,0.13uM,IIIB,IIIB,,1,20,~70d,IN,E92Q+S230N,Figure 2
+Hombrouck08,L-870810,MT-4,0.62uM,IIIB,IIIB,,1,40,~140d,IN,L74ML+E92Q+S230N,Figure 2
+Hombrouck08,L-870810,MT-4,1.1uM,IIIB,IIIB,,1,50,~175d,IN,L74M+E92Q+S230N,Figure 2
+Hombrouck08,L-870810,MT-4,1.8uM,IIIB,IIIB,,1,60,~210d,IN,L74M+E92Q+S230N,Figure 2

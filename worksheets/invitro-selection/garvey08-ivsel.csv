@@ -1,0 +1,10 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Garvey08,GSK-364735,MT-2,Unknown,IIIB,IIIB,,1,Unknown,18d,IN,T124A,Table 2
+Garvey08,GSK-364735,MT-2,Unknown,IIIB,IIIB,,1,Unknown,42d,IN,T124A+F121Y+Q148R,Table 2
+Garvey08,GSK-364735,MT-2,Unknown,IIIB,IIIB,,1,Unknown,56d,IN,E10D+N17S+F121Y+T124A+Q146R+Q148R,Table 2
+Garvey08,EVG,MT-2,Unknown,IIIB,IIIB,,1,Unknown,13d,IN,V151I,Table 2
+Garvey08,EVG,MT-2,Unknown,IIIB,IIIB,,1,Unknown,18d,IN,T66I+T124A+P145S+Q148K,Table 2
+Garvey08,EVG,MT-2,Unknown,IIIB,IIIB,,1,Unknown,42d,IN,T66AIK+T124A+P145S+Q148KR,Table 2
+Garvey08,EVG,MT-2,Unknown,IIIB,IIIB,,1,Unknown,56d,IN,T66IK+V72A+E92QV+T124A+A128T+P145S+Q146LS+Q148KR,Table 2
+Garvey08,3TC,MT-2,Unknown,IIIB,IIIB,,1,Unknown,13d,RT,M184I,Table 2
+Garvey08,3TC,MT-2,Unknown,IIIB,IIIB,,1,Unknown,18d,RT,M184IV,Table 2

@@ -1,0 +1,23 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Margot06,FTC,MT-2,0.8uM,IIIB,IIIB,,1,Unknown,14d,RT,M184IMV,Table 1
+Margot06,FTC,MT-2,3.2uM+6.3uM,LAI,LAI,,2,Unknown,18d,RT,M184IM,Table 1
+Margot06,3TC,MT-2,4uM,LAI,LAI,,1,Unknown,11d,RT,M184IM,Table 1
+Margot06,TDF,MT-2,56uM,IIIB,IIIB,,1,Unknown,56d,RT,K65R,Table 1
+Margot06,TDF,MT-2,28uM,LAI,LAI,,2,Unknown,44d,RT,K65RK,Table 1
+Margot06,ABC,MT-2,6.4uM,LAI,LAI,,1,Unknown,44d,RT,M184I,Table 1
+Margot06,FTC+TDF,MT-2,1.6uM+7uM,IIIB,IIIB,,1,Unknown,24d,RT,M184IM,Table 1
+Margot06,FTC+TDF,MT-2,1.6uM+7uM,LAI,LAI,,2,Unknown,40d,RT,M184IM,Table 1
+Margot06,FTC+TDF,MT-2,1.8uM+0.25uM,LAI,LAI,,3,Unknown,18d,RT,M184I,Table 1
+Margot06,3TC+ABC,MT-2,2uM+0.2uM,LAI,LAI,,1,Unknown,18d,RT,M184IM,Table 1
+Margot06,FTC,MT-2,230uM,IIIB,IIIB,,1,Unknown,48d,RT,M184VI,Table 1
+Margot06,FTC,MT-2,230uM,LAI,LAI,,2,Unknown,58d,RT,M184V,Table 1
+Margot06,3TC,MT-2,512uM,LAI,LAI,,1,Unknown,58d,RT,M184I,Table 1
+Margot06,TDF,MT-2,112uM,IIIB,IIIB,,1,Unknown,99d,RT,K65R,Table 1
+Margot06,TDF,MT-2,168uM,LAI,LAI,,2,Unknown,328d,RT,K65R+S68K+H221Y,Table 1
+Margot06,ABC,MT-2,51.2uM,LAI,LAI,,1,Unknown,203d,RT,K65R+Y115F+M184V+H221Y,Table 1
+Margot06,FTC+TDF,MT-2,12.8uM+56uM,IIIB,IIIB,,1,Unknown,133d,RT,K65R,Table 1
+Margot06,FTC+TDF,MT-2,25.6uM+112uM,LAI,LAI,,2,Unknown,288d,RT,K65N+K70R,Table 1
+Margot06,FTC+TDF,MT-2,230uM+32uM,LAI,LAI,,3,Unknown,71d,RT,K65R+M184V,Table 1
+Margot06,FTC+TDF,MT-2,51.2uM+28uM,IIIB,IIIB (M184I/L214F),M184I+L214F,1,Unknown,42d,RT,K65R+M184I+L214F,Table 1
+Margot06,FTC+TDF,MT-2,230uM+28uM,IIIB,IIIB (K65R),K65R,1,Unknown,54d,RT,K65R+M184V,Table 1
+Margot06,3TC+ABC,MT-2,512uM+51.2uM,LAI,LAI,,1,Unknown,329d,RT,L74V+Q161L+M184V+T200A+H221Y,Table 1
