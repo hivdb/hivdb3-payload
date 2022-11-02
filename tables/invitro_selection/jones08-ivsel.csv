@@ -1,0 +1,8 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Jones08,ivsel:Jones08|exp:1|p7,IIIB,Unknown,1,=,7,False,=,66,day,False,Figure 1
+Jones08,ivsel:Jones08|exp:1|p11,IIIB,Unknown,1,=,11,False,=,104,day,False,Figure 1
+Jones08,ivsel:Jones08|exp:1|p13,IIIB,Unknown,1,=,13,False,=,149,day,False,Figure 1
+Jones08,ivsel:Jones08|exp:2|p3,IIIB,Unknown,2,=,3,False,=,18,day,False,Figure 2
+Jones08,ivsel:Jones08|exp:2|p6,IIIB,Unknown,2,=,6,False,=,38,day,False,Figure 2
+Jones08,ivsel:Jones08|exp:2|p9,IIIB,Unknown,2,=,9,False,=,70,day,False,Figure 2
+Jones08,ivsel:Jones08|exp:2|p12,IIIB,Unknown,2,=,12,False,=,123,day,False,Figure 2

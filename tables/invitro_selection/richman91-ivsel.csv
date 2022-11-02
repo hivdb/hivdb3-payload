@@ -1,0 +1,10 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Richman91,ivsel:Richman91|BRU|exp:1|p1|dose:10uM,BRU,CEM,1,=,1,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|BRU|exp:1|p3|dose:10uM,BRU,CEM,1,=,3,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|BRU|exp:1|p5|dose:10uM,BRU,CEM,1,=,5,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|BRU|exp:1|p1|dose:1uM,BRU,CEM,1,=,1,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|BRU|exp:1|p17|dose:1uM,BRU,CEM,1,=,17,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|A018A|exp:1|p1|dose:10uM,A018A,CEM,1,=,1,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|A018A|exp:1|p5|dose:10uM,A018A,CEM,1,=,5,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|A018A|exp:1|p1|dose:1uM,A018A,CEM,1,=,1,False,NULL,NULL,NULL,True,Table 2
+Richman91,ivsel:Richman91|A018A|exp:1|p5|dose:1uM,A018A,CEM,1,=,5,False,NULL,NULL,NULL,True,Table 2

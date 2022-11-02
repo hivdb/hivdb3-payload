@@ -1,0 +1,9 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Gong00,ivsel:Gong00|exp:1|1mo,RF,MT-2,1,NULL,NULL,True,=,1,month,False,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ivsel:Gong00|exp:1|2.4mo,RF,MT-2,1,NULL,NULL,True,=,2.4,month,False,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ivsel:Gong00|exp:1|3.5mo,RF,MT-2,1,NULL,NULL,True,=,3.5,month,False,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ivsel:Gong00|exp:1|4.8mo,RF,MT-2,1,NULL,NULL,True,=,4.8,month,False,"Table 2, figure 2 and p. 2321, para. 5"
+Gong00,ivsel:Gong00|exp:1|2.6mo,BRU,MT-2,1,NULL,NULL,True,=,2.6,month,False,"Table 2, figure 3 and p. 2321, para. 6"
+Gong00,ivsel:Gong00|exp:1|4.7mo,BRU,MT-2,1,NULL,NULL,True,=,4.7,month,False,"Table 2, figure 3 and p. 2321, para. 6"
+Gong00,ivsel:Gong00|exp:1|3.9mo,NL4-3,MT-2,1,NULL,NULL,True,=,3.9,month,False,"Table 2, figure 4 and p. 2322, para. 1"
+Gong00,ivsel:Gong00|exp:1|4.6mo,NL4-3,MT-2,1,NULL,NULL,True,=,4.6,month,False,"Table 2, figure 4 and p. 2322, para. 1"

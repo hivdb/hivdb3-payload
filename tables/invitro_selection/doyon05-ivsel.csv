@@ -1,0 +1,7 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Doyon05,ivsel:Doyon05|exp:1|p16,pNL4-3,C8166,1,=,16,False,~,56,day,False,Table 1
+Doyon05,ivsel:Doyon05|exp:1|p33,pNL4-3,C8166,1,=,33,False,~,116,day,False,Table 1
+Doyon05,ivsel:Doyon05|exp:1|p39,pNL4-3,C8166,1,=,39,False,~,137,day,False,Table 1
+Doyon05,ivsel:Doyon05|exp:1|p49,pNL4-3,C8166,1,=,49,False,~,172,day,False,Table 1
+Doyon05,ivsel:Doyon05|exp:1|p68,pNL4-3,C8166,1,=,68,False,~,238,day,False,Table 1
+Doyon05,ivsel:Doyon05|exp:1|p73,pNL4-3,C8166,1,=,73,False,~,256,day,False,Table 1

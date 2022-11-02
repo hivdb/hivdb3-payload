@@ -1,0 +1,12 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Carrillo98,ivsel:Carrillo98|exp:1|p6,pNL4-3,MT-4,1,=,6,False,=,58,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p7,pNL4-3,MT-4,1,=,7,False,=,65,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p11,pNL4-3,MT-4,1,=,11,False,=,100,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p12,pNL4-3,MT-4,1,=,12,False,=,107,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p13,pNL4-3,MT-4,1,=,13,False,=,114,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p14,pNL4-3,MT-4,1,=,14,False,=,121,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p15,pNL4-3,MT-4,1,=,15,False,=,128,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p16,pNL4-3,MT-4,1,=,16,False,=,135,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p17,pNL4-3,MT-4,1,=,17,False,=,142,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p25,pNL4-3,MT-4,1,=,25,False,=,268,day,False,"Table 1, 2"
+Carrillo98,ivsel:Carrillo98|exp:1|p29,pNL4-3,MT-4,1,=,29,False,=,332,day,False,"Table 1, 2"

@@ -1,0 +1,16 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Vaillancourt99,ivsel:Vaillancourt99|exp:1|p4,pNL4-3,CEMx174,1,=,4,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:1|p10,pNL4-3,CEMx174,1,=,10,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:1|p15,pNL4-3,CEMx174,1,=,15,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:1|p17,pNL4-3,CEMx174,1,=,17,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:1|p27,pNL4-3,CEMx174,1,=,27,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:2|p5,pNL4-3,CEMx174,2,=,5,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:2|p7,pNL4-3,CEMx174,2,=,7,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:2|p10,pNL4-3,CEMx174,2,=,10,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:2|p15,pNL4-3,CEMx174,2,=,15,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:3|p5,pNL4-3,CEMx174,3,=,5,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:3|p7,pNL4-3,CEMx174,3,=,7,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:3|p10,pNL4-3,CEMx174,3,=,10,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:4|p4,pNL4-3,CEMx174,4,=,4,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:4|p10,pNL4-3,CEMx174,4,=,10,False,NULL,NULL,NULL,True,Table 1
+Vaillancourt99,ivsel:Vaillancourt99|exp:4|p15,pNL4-3,CEMx174,4,=,15,False,NULL,NULL,NULL,True,Table 1

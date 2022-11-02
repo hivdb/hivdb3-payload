@@ -1,0 +1,14 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Goethals08,ivsel:Goethals08|exp:1|p5,IIIB,MT-4-LTR-EGFP,1,=,5,False,~,18,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p7,IIIB,MT-4-LTR-EGFP,1,=,7,False,~,25,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p9,IIIB,MT-4-LTR-EGFP,1,=,9,False,~,32,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p11,IIIB,MT-4-LTR-EGFP,1,=,11,False,~,39,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p13,IIIB,MT-4-LTR-EGFP,1,=,13,False,~,46,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p15,IIIB,MT-4-LTR-EGFP,1,=,15,False,~,53,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p18,IIIB,MT-4-LTR-EGFP,1,=,18,False,~,63,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p22,IIIB,MT-4-LTR-EGFP,1,=,22,False,~,77,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p25,IIIB,MT-4-LTR-EGFP,1,=,25,False,~,88,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p28,IIIB,MT-4-LTR-EGFP,1,=,28,False,~,98,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p31,IIIB,MT-4-LTR-EGFP,1,=,31,False,~,109,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p35,IIIB,MT-4-LTR-EGFP,1,=,35,False,~,123,day,False,Table 1
+Goethals08,ivsel:Goethals08|exp:1|p41,IIIB,MT-4-LTR-EGFP,1,=,41,False,~,144,day,False,Table 1

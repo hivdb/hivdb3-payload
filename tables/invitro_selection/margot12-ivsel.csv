@@ -1,0 +1,12 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Margot12,ivsel:Margot12|EVG|exp:1|p8,IIIB,MT-2,1,=,8,False,=,73,day,False,Figure 2A
+Margot12,ivsel:Margot12|EVG|exp:1|p11,IIIB,MT-2,1,=,11,False,=,115,day,False,Figure 2A
+Margot12,ivsel:Margot12|EVG|exp:1|p12,IIIB,MT-2,1,=,12,False,=,171,day,False,Figure 2A and table 1
+Margot12,ivsel:Margot12|EVG|exp:2|p3,IIIB,MT-2,2,=,3,False,=,17,day,False,Figure 2C
+Margot12,ivsel:Margot12|EVG|exp:2|p4,IIIB,MT-2,2,=,4,False,=,24,day,False,Figure 2C
+Margot12,ivsel:Margot12|EVG|exp:2|p6,IIIB,MT-2,2,=,6,False,=,38,day,False,Figure 2C
+Margot12,ivsel:Margot12|EVG|exp:2|p7,IIIB,MT-2,2,=,7,False,=,46,day,False,Figure 2C
+Margot12,ivsel:Margot12|EVG|exp:2|p9,IIIB,MT-2,2,=,9,False,=,70,day,False,Figure 2C
+Margot12,ivsel:Margot12|EVG|exp:2|p11,IIIB,MT-2,2,=,11,False,=,97,day,False,Figure 2C
+Margot12,ivsel:Margot12|EVG|exp:2|p12,IIIB,MT-2,2,=,12,False,=,121,day,False,Figure 2C and table 1
+Margot12,ivsel:Margot12|RAL|exp:1|p11,IIIB,MT-2,1,=,11,False,=,132,day,False,Table 1

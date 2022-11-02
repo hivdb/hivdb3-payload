@@ -1,0 +1,5 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Hombrouck08,ivsel:Hombrouck08|exp:1|p20,IIIB,MT-4,1,=,20,False,~,70,day,False,Figure 2
+Hombrouck08,ivsel:Hombrouck08|exp:1|p40,IIIB,MT-4,1,=,40,False,~,140,day,False,Figure 2
+Hombrouck08,ivsel:Hombrouck08|exp:1|p50,IIIB,MT-4,1,=,50,False,~,175,day,False,Figure 2
+Hombrouck08,ivsel:Hombrouck08|exp:1|p60,IIIB,MT-4,1,=,60,False,~,210,day,False,Figure 2

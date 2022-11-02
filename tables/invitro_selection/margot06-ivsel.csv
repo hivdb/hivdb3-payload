@@ -1,0 +1,23 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Margot06,ivsel:Margot06|exp:1|14d,IIIB,MT-2,1,NULL,NULL,True,=,14,day,False,Table 1
+Margot06,ivsel:Margot06|exp:2|18d,LAI,MT-2,2,NULL,NULL,True,=,18,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|11d,LAI,MT-2,1,NULL,NULL,True,=,11,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|56d,IIIB,MT-2,1,NULL,NULL,True,=,56,day,False,Table 1
+Margot06,ivsel:Margot06|exp:2|44d,LAI,MT-2,2,NULL,NULL,True,=,44,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|44d,LAI,MT-2,1,NULL,NULL,True,=,44,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|24d,IIIB,MT-2,1,NULL,NULL,True,=,24,day,False,Table 1
+Margot06,ivsel:Margot06|exp:2|40d,LAI,MT-2,2,NULL,NULL,True,=,40,day,False,Table 1
+Margot06,ivsel:Margot06|exp:3|18d,LAI,MT-2,3,NULL,NULL,True,=,18,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|18d,LAI,MT-2,1,NULL,NULL,True,=,18,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|48d,IIIB,MT-2,1,NULL,NULL,True,=,48,day,False,Table 1
+Margot06,ivsel:Margot06|exp:2|58d,LAI,MT-2,2,NULL,NULL,True,=,58,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|58d,LAI,MT-2,1,NULL,NULL,True,=,58,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|99d,IIIB,MT-2,1,NULL,NULL,True,=,99,day,False,Table 1
+Margot06,ivsel:Margot06|exp:2|328d,LAI,MT-2,2,NULL,NULL,True,=,328,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|203d,LAI,MT-2,1,NULL,NULL,True,=,203,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|133d,IIIB,MT-2,1,NULL,NULL,True,=,133,day,False,Table 1
+Margot06,ivsel:Margot06|exp:2|288d,LAI,MT-2,2,NULL,NULL,True,=,288,day,False,Table 1
+Margot06,ivsel:Margot06|exp:3|71d,LAI,MT-2,3,NULL,NULL,True,=,71,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|42d,IIIB (M184I/L214F),MT-2,1,NULL,NULL,True,=,42,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|54d,IIIB (K65R),MT-2,1,NULL,NULL,True,=,54,day,False,Table 1
+Margot06,ivsel:Margot06|exp:1|329d,LAI,MT-2,1,NULL,NULL,True,=,329,day,False,Table 1

@@ -1,0 +1,22 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Stone04,ivsel:Stone04|exp:1|p2|dose:36uM,HXB2,MT-4,1,=,2,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p4|dose:36uM,HXB2,MT-4,1,=,4,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p4|dose:73uM,HXB2,MT-4,1,=,4,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p8|dose:73uM,HXB2,MT-4,1,=,8,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p3|dose:60uM,HXB2,MT-4,1,=,3,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p5|dose:18uM+20uM,HXB2,MT-4,1,=,5,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p7|dose:18uM+20uM,HXB2,MT-4,1,=,7,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p3|dose:15uM+21uM,HXB2,MT-4,1,=,3,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p7|dose:30uM+41uM,HXB2,MT-4,1,=,7,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:2|p7|dose:30uM+41uM,HXB2,MT-4,2,=,7,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p5|dose:41uM,HXB2,MT-4,1,=,5,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p5|dose:77uM,HXB2 (41L/184V/215Y),MT-4,1,=,5,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p7|dose:77uM,HXB2 (41L/184V/215Y),MT-4,1,=,7,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p4|dose:39uM+9uM,HXB2 (41L/184V/215Y),MT-4,1,=,4,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p6|dose:39uM+9uM,HXB2 (41L/184V/215Y),MT-4,1,=,6,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p5|dose:74uM,HXB2 (41L/184V/215Y),MT-4,1,=,5,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p6|dose:76uM,HXB2 (21I/65KR/74V/184V),MT-4,1,=,6,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p3|dose:76uM+12uM,HXB2 (21I/65KR/74V/184V),MT-4,1,=,3,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p5|dose:76uM+25uM,HXB2 (21I/65KR/74V/184V),MT-4,1,=,5,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p3|dose:49uM,HXB2 (21I/65KR/74V/184V),MT-4,1,=,3,False,NULL,NULL,NULL,True,Table 1
+Stone04,ivsel:Stone04|exp:1|p5|dose:49uM,HXB2 (21I/65KR/74V/184V),MT-4,1,=,5,False,NULL,NULL,NULL,True,Table 1

@@ -1,0 +1,17 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Vingerhoets05,ivsel:Vingerhoets05|LAI|exp:1|dose:200nM,LAI,MT-4-LTR-EGFP,1,NULL,NULL,True,=,25,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|LAI|exp:2|dose:40nM,LAI,MT-4-LTR-EGFP,2,NULL,NULL,True,=,11,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|LAI|exp:3|dose:40nM,LAI,MT-4-LTR-EGFP,3,NULL,NULL,True,=,13,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM,HXB2 (K103N),MT-4-LTR-EGFP,1,NULL,NULL,True,=,11,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM,HXB2 (K103N),MT-4-LTR-EGFP,1,NULL,NULL,True,=,28,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N)|exp:2|dose:40nM,HXB2 (K103N),MT-4-LTR-EGFP,2,NULL,NULL,True,=,13,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:40nM,HXB2 (Y181C),MT-4-LTR-EGFP,1,NULL,NULL,True,=,7,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:200nM,HXB2 (Y181C),MT-4-LTR-EGFP,1,NULL,NULL,True,=,11,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:40nM,HXB2 (Y181C),MT-4-LTR-EGFP,2,NULL,NULL,True,=,9,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:200nM,HXB2 (Y181C),MT-4-LTR-EGFP,2,NULL,NULL,True,=,13,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:40nM,HXB2 (K103N/Y181C),MT-4-LTR-EGFP,1,NULL,NULL,True,=,7,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:200nM,HXB2 (K103N/Y181C),MT-4-LTR-EGFP,1,NULL,NULL,True,=,7,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:1000nM,HXB2 (K103N/Y181C),MT-4-LTR-EGFP,1,NULL,NULL,True,=,11,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:40nM,HXB2 (K103N/Y181C),MT-4-LTR-EGFP,2,NULL,NULL,True,=,6,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:200nM,HXB2 (K103N/Y181C),MT-4-LTR-EGFP,2,NULL,NULL,True,=,9,day,False,Table 1
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:1000nM,HXB2 (K103N/Y181C),MT-4-LTR-EGFP,2,NULL,NULL,True,=,13,day,False,Table 1

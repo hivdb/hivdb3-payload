@@ -1,0 +1,90 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Oliveira18,ivsel:Oliveira18|Strain 5326|DTG|exp:1|8w,Strain 5326,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|DTG|exp:1|16w,Strain 5326,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|DTG|exp:1|24-30w,Strain 5326,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|DTG|exp:1|43-46w,Strain 5326,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|96USSN20|DTG|exp:1|8w,96USSN20,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|DTG|exp:1|16w,96USSN20,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|DTG|exp:1|24-30w,96USSN20,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|DTG|exp:1|43-46w,96USSN20,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|Strain 5326|BIC|exp:1|8w,Strain 5326,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|BIC|exp:1|16w,Strain 5326,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|BIC|exp:1|24-30w,Strain 5326,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|BIC|exp:1|43-46w,Strain 5326,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|96USSN20|BIC|exp:1|8w,96USSN20,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|BIC|exp:1|16w,96USSN20,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|BIC|exp:1|24-30w,96USSN20,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|BIC|exp:1|43-46w,96USSN20,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|Strain 5326|CAB|exp:1|8w,Strain 5326,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|CAB|exp:1|16w,Strain 5326,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|CAB|exp:1|24-30w,Strain 5326,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|CAB|exp:1|43-46w,Strain 5326,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|96USSN20|CAB|exp:1|8w,96USSN20,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|CAB|exp:1|16w,96USSN20,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|CAB|exp:1|24-30w,96USSN20,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|CAB|exp:1|43-46w,96USSN20,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|Strain 5326|EVG|exp:1|8w,Strain 5326,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|EVG|exp:1|16w,Strain 5326,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|EVG|exp:1|24-30w,Strain 5326,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|Strain 5326|EVG|exp:1|43-46w,Strain 5326,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|96USSN20|EVG|exp:1|8w,96USSN20,CBMC,1,NULL,NULL,True,=,8,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|EVG|exp:1|16w,96USSN20,CBMC,1,NULL,NULL,True,=,16,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|EVG|exp:1|24-30w,96USSN20,CBMC,1,NULL,NULL,True,~,27,week,False,Figure 1
+Oliveira18,ivsel:Oliveira18|96USSN20|EVG|exp:1|43-46w,96USSN20,CBMC,1,NULL,NULL,True,~,44.5,week,False,"Figure 1, table 3"
+Oliveira18,ivsel:Oliveira18|Strain 14514|DTG|exp:1|46w,Strain 14514,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14514|BIC|exp:1|46w,Strain 14514,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14514|CAB|exp:1|46w,Strain 14514,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14514|EVG|exp:1|26-40w,Strain 14514,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14514|RAL|exp:1|26-40w,Strain 14514,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10387|DTG|exp:1|46w,Strain 10387,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10387|BIC|exp:1|46w,Strain 10387,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10387|CAB|exp:1|46w,Strain 10387,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10387|EVG|exp:1|26-40w,Strain 10387,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10387|RAL|exp:1|26-40w,Strain 10387,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10249|DTG|exp:1|46w,Strain 10249,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10249|BIC|exp:1|46w,Strain 10249,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10249|CAB|exp:1|46w,Strain 10249,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10249|EVG|exp:1|26-40w,Strain 10249,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10249|RAL|exp:1|26-40w,Strain 10249,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14624|DTG|exp:1|46w,Strain 14624,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14624|BIC|exp:1|46w,Strain 14624,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14624|CAB|exp:1|46w,Strain 14624,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14624|EVG|exp:1|26-40w,Strain 14624,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14624|RAL|exp:1|26-40w,Strain 14624,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14637|DTG|exp:1|46w,Strain 14637,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14637|BIC|exp:1|46w,Strain 14637,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14637|CAB|exp:1|46w,Strain 14637,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14637|EVG|exp:1|26-40w,Strain 14637,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14637|RAL|exp:1|26-40w,Strain 14637,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14947|DTG|exp:1|46w,Strain 14947,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14947|BIC|exp:1|46w,Strain 14947,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14947|CAB|exp:1|46w,Strain 14947,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14947|EVG|exp:1|26-40w,Strain 14947,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14947|RAL|exp:1|26-40w,Strain 14947,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 5326|RAL|exp:1|26-40w,Strain 5326,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 4742|DTG|exp:1|46w,Strain 4742,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 4742|BIC|exp:1|46w,Strain 4742,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 4742|CAB|exp:1|46w,Strain 4742,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 4742|EVG|exp:1|26-40w,Strain 4742,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 4742|RAL|exp:1|26-40w,Strain 4742,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10947|DTG|exp:1|46w,Strain 10947,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10947|BIC|exp:1|46w,Strain 10947,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10947|CAB|exp:1|46w,Strain 10947,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10947|EVG|exp:1|26-40w,Strain 10947,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 10947|RAL|exp:1|26-40w,Strain 10947,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 6343|DTG|exp:1|46w,Strain 6343,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 6343|BIC|exp:1|46w,Strain 6343,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 6343|CAB|exp:1|46w,Strain 6343,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 6343|EVG|exp:1|26-40w,Strain 6343,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 6343|RAL|exp:1|26-40w,Strain 6343,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14515|DTG|exp:1|46w,Strain 14515,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14515|BIC|exp:1|46w,Strain 14515,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14515|CAB|exp:1|46w,Strain 14515,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14515|EVG|exp:1|26-40w,Strain 14515,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|Strain 14515|RAL|exp:1|26-40w,Strain 14515,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|96USSN20|RAL|exp:1|26-40w,96USSN20,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|NL4-3|DTG|exp:1|46w,NL4-3,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|NL4-3|BIC|exp:1|46w,NL4-3,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|NL4-3|CAB|exp:1|46w,NL4-3,CBMC,1,NULL,NULL,True,=,46,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|NL4-3|EVG|exp:1|26-40w,NL4-3,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3
+Oliveira18,ivsel:Oliveira18|NL4-3|RAL|exp:1|26-40w,NL4-3,CBMC,1,NULL,NULL,True,~,33,week,False,Table 3

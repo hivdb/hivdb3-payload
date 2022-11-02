@@ -1,0 +1,6 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Fikkert03,ivsel:Fikkert03|exp:1|p25,IIIB,MT-4,1,=,25,False,~,88,day,False,Table 1
+Fikkert03,ivsel:Fikkert03|exp:1|p35,IIIB,MT-4,1,=,35,False,~,123,day,False,Table 1
+Fikkert03,ivsel:Fikkert03|exp:1|p40,IIIB,MT-4,1,=,40,False,~,140,day,False,Table 1
+Fikkert03,ivsel:Fikkert03|exp:1|p60,IIIB,MT-4,1,=,60,False,~,210,day,False,Table 1
+Fikkert03,ivsel:Fikkert03|exp:1|p70,IIIB,MT-4,1,=,70,False,~,245,day,False,Table 1

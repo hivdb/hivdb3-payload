@@ -1,0 +1,12 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Shimura08,ivsel:Shimura08|exp:1|p12,IIIB,MT-2,1,=,12,False,NULL,NULL,NULL,True,Figure 3A
+Shimura08,ivsel:Shimura08|exp:1|p32,IIIB,MT-2,1,=,32,False,NULL,NULL,NULL,True,Figure 3A
+Shimura08,ivsel:Shimura08|exp:1|p48,IIIB,MT-2,1,=,48,False,NULL,NULL,NULL,True,Figure 3A
+Shimura08,ivsel:Shimura08|exp:1|p54,IIIB,MT-2,1,=,54,False,NULL,NULL,NULL,True,Figure 3A
+Shimura08,ivsel:Shimura08|exp:1|p64,IIIB,MT-2,1,=,64,False,NULL,NULL,NULL,True,Figure 3A
+Shimura08,ivsel:Shimura08|exp:1|p80,IIIB,MT-2,1,=,80,False,NULL,NULL,NULL,True,Figure 3A
+Shimura08,ivsel:Shimura08|exp:2|p30,IIIB,MT-2,2,=,30,False,NULL,NULL,NULL,True,Figure 3B
+Shimura08,ivsel:Shimura08|exp:2|p38,IIIB,MT-2,2,=,38,False,NULL,NULL,NULL,True,Figure 3B
+Shimura08,ivsel:Shimura08|exp:2|p60,IIIB,MT-2,2,=,60,False,NULL,NULL,NULL,True,Figure 3B
+Shimura08,ivsel:Shimura08|exp:2|p70,IIIB,MT-2,2,=,70,False,NULL,NULL,NULL,True,Figure 3B
+Shimura08,ivsel:Shimura08|exp:2|p80,IIIB,MT-2,2,=,80,False,NULL,NULL,NULL,True,Figure 3B

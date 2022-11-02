@@ -1,0 +1,14 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Yant19,ivsel:Yant19|MT-2|exp:1,IIIB,MT-2,1,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|MT-2|exp:2,IIIB,MT-2,2,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|MT-2|exp:3,IIIB,MT-2,3,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|MT-2|exp:4,IIIB,MT-2,4,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|MT-2|exp:5,IIIB,MT-2,5,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|MT-2|exp:6,IIIB,MT-2,6,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:1,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,1,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:2,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,2,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:3,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,3,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:4,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,4,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:5,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,5,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:6,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,6,~,10,False,=,35,day,False,SuppTable 2
+Yant19,ivsel:Yant19|PBMC|exp:7,"BaL,92US657,92HT593.1,Strain 7467,Strain 7576",PBMC,7,~,10,False,=,35,day,False,SuppTable 2

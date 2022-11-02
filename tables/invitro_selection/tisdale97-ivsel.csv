@@ -1,0 +1,6 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Tisdale97,ivsel:Tisdale97|exp:1|p4,HXB2,MT-4,1,=,4,False,NULL,NULL,NULL,True,Table 1 and figure 1
+Tisdale97,ivsel:Tisdale97|exp:1|p6,HXB2,MT-4,1,=,6,False,NULL,NULL,NULL,True,Table 1 and figure 1
+Tisdale97,ivsel:Tisdale97|exp:2|p4,HXB2,MT-4,2,=,4,False,NULL,NULL,NULL,True,Table 1 and figure 1
+Tisdale97,ivsel:Tisdale97|exp:2|p6,HXB2,MT-4,2,=,6,False,NULL,NULL,NULL,True,Table 1 and figure 1
+Tisdale97,ivsel:Tisdale97|exp:1|p8,RTMC,MT-4,1,=,8,False,NULL,NULL,NULL,True,Table 1 and figure 1

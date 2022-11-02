@@ -1,0 +1,13 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Link20,ivsel:Link20|exp:1|dose:0.8nM,HXB2,MT-2,1,=,4,False,=,22,day,False,Figure 3a
+Link20,ivsel:Link20|exp:1|dose:6.4nM,HXB2,MT-2,1,=,7,False,=,84,day,False,Figure 3a
+Link20,ivsel:Link20|exp:1|dose:51.2nM,HXB2,MT-2,1,=,10,False,=,105,day,False,Figure 3a
+Link20,ivsel:Link20|exp:1|dose:0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,1,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:2|dose:0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,2,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:3|dose:0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,3,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:4|dose:0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,4,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:5|dose:0.92nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,5,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:1|dose:1.9nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,1,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:1|dose:3.7nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,1,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:2|dose:3.7nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,2,~,10,False,=,35,day,False,Figure 3c
+Link20,ivsel:Link20|exp:3|dose:3.7nM,"BaL,92US657,91US0006,Strain 7406,Strain 7467,Strain 7576",PBMC,3,~,10,False,=,35,day,False,Figure 3c

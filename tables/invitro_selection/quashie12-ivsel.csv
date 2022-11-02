@@ -1,0 +1,18 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Quashie12,ivsel:Quashie12|Strain 5331|exp:1|20w,Strain 5331,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|BK132|exp:1|20w,BK132,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 5326|exp:1|20w,Strain 5326,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|pNL4-3|exp:1|20w,pNL4-3,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 12197 RAL TI WT for INI|exp:1|20w,Strain 12197 RAL TI WT for INI,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 6399|exp:1|20w,Strain 6399,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|96USSN20|exp:1|20w,96USSN20,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 4742|exp:1|20w,Strain 4742,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|96USNG31|exp:1|20w,96USNG31,CBMC,1,NULL,NULL,True,=,20,week,False,Table 1
+Quashie12,ivsel:Quashie12|BK132|exp:1|37w,BK132,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 5326|exp:1|37w,Strain 5326,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Quashie12,ivsel:Quashie12|pNL4-3|exp:1|37w,pNL4-3,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 12197 RAL TI WT for INI|exp:1|34w,Strain 12197 RAL TI WT for INI,CBMC,1,NULL,NULL,True,=,34,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 6399|exp:1|37w,Strain 6399,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Quashie12,ivsel:Quashie12|96USSN20|exp:1|37w,96USSN20,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Quashie12,ivsel:Quashie12|Strain 4742|exp:1|37w,Strain 4742,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Quashie12,ivsel:Quashie12|96USNG31|exp:1|37w,96USNG31,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1

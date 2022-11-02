@@ -1,0 +1,5 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Jacobsen95,ivsel:Jacobsen95|exp:1|p7,GB8,CEM,1,=,7,False,NULL,NULL,NULL,True,Figure 3
+Jacobsen95,ivsel:Jacobsen95|exp:1|p8,GB8,CEM,1,=,8,False,NULL,NULL,NULL,True,Figure 3
+Jacobsen95,ivsel:Jacobsen95|exp:1|p11,GB8,CEM,1,=,11,False,NULL,NULL,NULL,True,Figure 1
+Jacobsen95,ivsel:Jacobsen95|exp:1|p14,GB8,CEM,1,=,14,False,NULL,NULL,NULL,True,"p. 530, para. 2"

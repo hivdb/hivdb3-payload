@@ -1,0 +1,13 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Depatureaux15,ivsel:Depatureaux15|Strain 5326|RAL|exp:1,Strain 5326,CBMC,1,NULL,NULL,True,=,40,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|Strain 11367|RAL|exp:1,Strain 11367,CBMC,1,NULL,NULL,True,=,40,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|MVPS180|RAL|exp:1,MVPS180,CBMC,1,NULL,NULL,True,=,40,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|BCF11|RAL|exp:1,BCF11,CBMC,1,NULL,NULL,True,=,49,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|Strain 5326|EVG|exp:1,Strain 5326,CBMC,1,NULL,NULL,True,=,40,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|Strain 11367|EVG|exp:1,Strain 11367,CBMC,1,NULL,NULL,True,=,40,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|MVPS180|EVG|exp:1,MVPS180,CBMC,1,NULL,NULL,True,=,30,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|BCF11|EVG|exp:1,BCF11,CBMC,1,NULL,NULL,True,=,30,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|Strain 5326|DTG|exp:1,Strain 5326,CBMC,1,NULL,NULL,True,=,40,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|Strain 11367|DTG|exp:1,Strain 11367,CBMC,1,NULL,NULL,True,=,42,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|MVPS180|DTG|exp:1,MVPS180,CBMC,1,NULL,NULL,True,=,53,week,False,Table 2
+Depatureaux15,ivsel:Depatureaux15|BCF11|DTG|exp:1,BCF11,CBMC,1,NULL,NULL,True,=,49,week,False,Table 2

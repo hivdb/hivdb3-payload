@@ -1,0 +1,19 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Wu12,ivsel:Wu12|exp:1|p10,CNGZD,TZM-bl,1,=,10,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2|p10,CNGZD,TZM-bl,2,=,10,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:3|p10,CNGZD,TZM-bl,3,=,10,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:1|p15,CNGZD,TZM-bl,1,=,15,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2a|p15,CNGZD,TZM-bl,2a,=,15,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2b|p15,CNGZD,TZM-bl,2b,=,15,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:3|p15,CNGZD,TZM-bl,3,=,15,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:4|p15,CNGZD,TZM-bl,4,=,15,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:1|p20,CNGZD,TZM-bl,1,=,20,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2a|p20,CNGZD,TZM-bl,2a,=,20,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2b|p20,CNGZD,TZM-bl,2b,=,20,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:3|p20,CNGZD,TZM-bl,3,=,20,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:4|p20,CNGZD,TZM-bl,4,=,20,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:1|p25,CNGZD,TZM-bl,1,=,25,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2a|p25,CNGZD,TZM-bl,2a,=,25,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:2b|p25,CNGZD,TZM-bl,2b,=,25,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:3|p25,CNGZD,TZM-bl,3,=,25,False,NULL,NULL,NULL,True,Figure 4
+Wu12,ivsel:Wu12|exp:4|p25,CNGZD,TZM-bl,4,=,25,False,NULL,NULL,NULL,True,Figure 4

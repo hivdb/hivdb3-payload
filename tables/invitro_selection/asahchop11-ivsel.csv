@@ -1,0 +1,49 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Asahchop11,ivsel:Asahchop11|BK132|ETR|exp:1|11-13w,BK132,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w,Strain 5326,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 5331|ETR|exp:1|11-13w,Strain 5331,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 6383|ETR|exp:1|11-13w,Strain 6383,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 6399|ETR|exp:1|11-13w,Strain 6399,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Mole 03|ETR|exp:1|11-13w,Mole 03,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|BG 05|ETR|exp:1|11-13w,BG 05,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 10680|ETR|exp:1|11-13w,Strain 10680,CBMC,1,NULL,NULL,True,~,12,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|BK132|ETR|exp:1|18-20w,BK132,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 5326|ETR|exp:1|18-20w,Strain 5326,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 5331|ETR|exp:1|18-20w,Strain 5331,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 6383|ETR|exp:1|18-20w,Strain 6383,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 6399|ETR|exp:1|18-20w,Strain 6399,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Mole 03|ETR|exp:1|18-20w,Mole 03,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|BG 05|ETR|exp:1|18-20w,BG 05,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 10680|ETR|exp:1|18-20w,Strain 10680,CBMC,1,NULL,NULL,True,~,19,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|BK132|ETR|exp:1|25-30w,BK132,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 5326|ETR|exp:1|25-30w,Strain 5326,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 5331|ETR|exp:1|25-30w,Strain 5331,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 6383|ETR|exp:1|25-30w,Strain 6383,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 6399|ETR|exp:1|25-30w,Strain 6399,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Mole 03|ETR|exp:1|25-30w,Mole 03,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|BG 05|ETR|exp:1|25-30w,BG 05,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|Strain 10680|ETR|exp:1|25-30w,Strain 10680,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 1
+Asahchop11,ivsel:Asahchop11|BK132|EFV|exp:1|11-13w,BK132,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 5326|EFV|exp:1|11-13w,Strain 5326,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 5331|EFV|exp:1|11-13w,Strain 5331,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 6383|EFV|exp:1|11-13w,Strain 6383,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 6399|EFV|exp:1|11-13w,Strain 6399,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Mole 03|EFV|exp:1|11-13w,Mole 03,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|BG 05|EFV|exp:1|11-13w,BG 05,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 10680|EFV|exp:1|11-13w,Strain 10680,CBMC,1,NULL,NULL,True,~,12,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|BK132|EFV|exp:1|18-20w,BK132,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 5326|EFV|exp:1|18-20w,Strain 5326,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 5331|EFV|exp:1|18-20w,Strain 5331,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 6383|EFV|exp:1|18-20w,Strain 6383,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 6399|EFV|exp:1|18-20w,Strain 6399,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Mole 03|EFV|exp:1|18-20w,Mole 03,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|BG 05|EFV|exp:1|18-20w,BG 05,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 10680|EFV|exp:1|18-20w,Strain 10680,CBMC,1,NULL,NULL,True,~,19,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|BK132|EFV|exp:1|25-30w,BK132,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 5326|EFV|exp:1|25-30w,Strain 5326,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 5331|EFV|exp:1|25-30w,Strain 5331,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 6383|EFV|exp:1|25-30w,Strain 6383,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,Strain 6399,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,Mole 03,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,BG 05,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
+Asahchop11,ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,Strain 10680,CBMC,1,NULL,NULL,True,~,27.5,week,False,Table 2
