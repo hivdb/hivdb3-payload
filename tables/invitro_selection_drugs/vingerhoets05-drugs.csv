@@ -1,0 +1,17 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Vingerhoets05,ivsel:Vingerhoets05|LAI|exp:1|dose:200nM,ETR,=,200.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|LAI|exp:2|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|LAI|exp:3|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM,ETR,=,200.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N)|exp:2|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:200nM,ETR,=,200.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:200nM,ETR,=,200.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:200nM,ETR,=,200.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:1000nM,ETR,=,1000.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:40nM,ETR,=,40.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:200nM,ETR,=,200.0,nM,False
+Vingerhoets05,ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:1000nM,ETR,=,1000.0,nM,False

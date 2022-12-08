@@ -1,0 +1,10 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Garvey08,ivsel:Garvey08|GSK-364735|exp:1|18d,GSK-364735,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|GSK-364735|exp:1|42d,GSK-364735,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|GSK-364735|exp:1|56d,GSK-364735,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|EVG|exp:1|13d,EVG,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|EVG|exp:1|18d,EVG,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|EVG|exp:1|42d,EVG,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|EVG|exp:1|56d,EVG,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|3TC|exp:1|13d,3TC,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|3TC|exp:1|18d,3TC,NULL,NULL,NULL,True

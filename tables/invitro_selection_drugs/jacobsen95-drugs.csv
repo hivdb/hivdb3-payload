@@ -1,0 +1,5 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Jacobsen95,ivsel:Jacobsen95|exp:1|p7,SQV,=,40.0,nM,False
+Jacobsen95,ivsel:Jacobsen95|exp:1|p8,SQV,=,80.0,nM,False
+Jacobsen95,ivsel:Jacobsen95|exp:1|p11,SQV,=,320.0,nM,False
+Jacobsen95,ivsel:Jacobsen95|exp:1|p14,SQV,=,640.0,nM,False

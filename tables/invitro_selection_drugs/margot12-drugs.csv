@@ -1,0 +1,12 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Margot12,ivsel:Margot12|EVG|exp:1|p8,EVG,=,102.5,nM,False
+Margot12,ivsel:Margot12|EVG|exp:1|p11,EVG,=,820.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:1|p12,EVG,=,1640.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p3,EVG,=,6.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p4,EVG,=,12.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p6,EVG,=,48.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p7,EVG,=,96.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p9,EVG,=,384.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p11,EVG,=,1536.0,nM,False
+Margot12,ivsel:Margot12|EVG|exp:2|p12,EVG,=,3072.0,nM,False
+Margot12,ivsel:Margot12|RAL|exp:1|p11,RAL,=,5120.0,nM,False

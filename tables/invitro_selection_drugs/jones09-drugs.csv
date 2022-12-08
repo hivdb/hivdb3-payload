@@ -1,0 +1,5 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Jones09,ivsel:Jones09|exp:1|p5,GS-9160,=,64.0,nM,False
+Jones09,ivsel:Jones09|exp:1|p6,GS-9160,=,128.0,nM,False
+Jones09,ivsel:Jones09|exp:1|p8,GS-9160,=,256.0,nM,False
+Jones09,ivsel:Jones09|exp:1|p9,GS-9160,=,512.0,nM,False

@@ -1,0 +1,9 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Gong00,ivsel:Gong00|exp:1|1mo,ATV,=,25.0,nM,False
+Gong00,ivsel:Gong00|exp:1|2.4mo,ATV,=,100.0,nM,False
+Gong00,ivsel:Gong00|exp:1|3.5mo,ATV,=,225.0,nM,False
+Gong00,ivsel:Gong00|exp:1|4.8mo,ATV,=,500.0,nM,False
+Gong00,ivsel:Gong00|exp:1|2.6mo,ATV,=,28.0,nM,False
+Gong00,ivsel:Gong00|exp:1|4.7mo,ATV,=,500.0,nM,False
+Gong00,ivsel:Gong00|exp:1|3.9mo,ATV,=,40.0,nM,False
+Gong00,ivsel:Gong00|exp:1|4.6mo,ATV,=,200.0,nM,False

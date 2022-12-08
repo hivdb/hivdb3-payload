@@ -1,0 +1,49 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Asahchop11,ivsel:Asahchop11|BK132|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5331|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6383|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6399|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Mole 03|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BG 05|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 10680|ETR|exp:1|11-13w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BK132|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5326|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5331|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6383|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6399|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Mole 03|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BG 05|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 10680|ETR|exp:1|18-20w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BK132|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5326|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5331|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6383|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6399|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Mole 03|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BG 05|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 10680|ETR|exp:1|25-30w,ETR,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BK132|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5326|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5331|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6383|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6399|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Mole 03|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BG 05|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 10680|EFV|exp:1|11-13w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BK132|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5326|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5331|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6383|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6399|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Mole 03|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BG 05|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 10680|EFV|exp:1|18-20w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BK132|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5326|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 5331|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6383|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True
+Asahchop11,ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,EFV,NULL,NULL,NULL,True

@@ -1,0 +1,14 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Yant19,ivsel:Yant19|MT-2|exp:1,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|MT-2|exp:2,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|MT-2|exp:3,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|MT-2|exp:4,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|MT-2|exp:5,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|MT-2|exp:6,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:1,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:2,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:3,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:4,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:5,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:6,GS-CA1,=,7.09,nM,False
+Yant19,ivsel:Yant19|PBMC|exp:7,GS-CA1,=,7.09,nM,False

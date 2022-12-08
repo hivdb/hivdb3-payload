@@ -1,0 +1,18 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Quashie12,ivsel:Quashie12|Strain 5331|exp:1|20w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|BK132|exp:1|20w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|Strain 5326|exp:1|20w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|pNL4-3|exp:1|20w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|Strain 12197 RAL TI WT for INI|exp:1|20w,DTG,=,0.01,µm,False
+Quashie12,ivsel:Quashie12|Strain 6399|exp:1|20w,DTG,=,0.025,µm,False
+Quashie12,ivsel:Quashie12|96USSN20|exp:1|20w,DTG,=,0.01,µm,False
+Quashie12,ivsel:Quashie12|Strain 4742|exp:1|20w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|96USNG31|exp:1|20w,DTG,=,0.01,µm,False
+Quashie12,ivsel:Quashie12|BK132|exp:1|37w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|Strain 5326|exp:1|37w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|pNL4-3|exp:1|37w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|Strain 12197 RAL TI WT for INI|exp:1|34w,DTG,=,0.025,µm,False
+Quashie12,ivsel:Quashie12|Strain 6399|exp:1|37w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|96USSN20|exp:1|37w,DTG,=,0.1,µm,False
+Quashie12,ivsel:Quashie12|Strain 4742|exp:1|37w,DTG,=,0.05,µm,False
+Quashie12,ivsel:Quashie12|96USNG31|exp:1|37w,DTG,=,0.025,µm,False

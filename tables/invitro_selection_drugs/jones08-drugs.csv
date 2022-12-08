@@ -1,0 +1,8 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Jones08,ivsel:Jones08|exp:1|p7,EVG,=,25.0,nM,False
+Jones08,ivsel:Jones08|exp:1|p11,EVG,=,400.0,nM,False
+Jones08,ivsel:Jones08|exp:1|p13,EVG,=,1600.0,nM,False
+Jones08,ivsel:Jones08|exp:2|p3,EVG,=,6.25,nM,False
+Jones08,ivsel:Jones08|exp:2|p6,EVG,=,50.0,nM,False
+Jones08,ivsel:Jones08|exp:2|p9,EVG,=,400.0,nM,False
+Jones08,ivsel:Jones08|exp:2|p12,EVG,=,3200.0,nM,False

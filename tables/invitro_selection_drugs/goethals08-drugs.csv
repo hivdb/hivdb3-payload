@@ -1,0 +1,14 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Goethals08,ivsel:Goethals08|exp:1|p5,EVG,=,0.01,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p7,EVG,=,0.02,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p9,EVG,=,0.04,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p11,EVG,=,0.08,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p13,EVG,=,0.16,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p15,EVG,=,0.32,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p18,EVG,=,0.64,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p22,EVG,=,1.28,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p25,EVG,=,1.28,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p28,EVG,=,1.28,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p31,EVG,=,2.56,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p35,EVG,=,5.12,µm,False
+Goethals08,ivsel:Goethals08|exp:1|p41,EVG,=,10.24,µm,False

@@ -1,0 +1,7 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Doyon05,ivsel:Doyon05|exp:1|p16,TPV,=,800.0,nM,False
+Doyon05,ivsel:Doyon05|exp:1|p33,TPV,=,1000.0,nM,False
+Doyon05,ivsel:Doyon05|exp:1|p39,TPV,=,2000.0,nM,False
+Doyon05,ivsel:Doyon05|exp:1|p49,TPV,=,5000.0,nM,False
+Doyon05,ivsel:Doyon05|exp:1|p68,TPV,=,10000.0,nM,False
+Doyon05,ivsel:Doyon05|exp:1|p73,TPV,=,20000.0,nM,False

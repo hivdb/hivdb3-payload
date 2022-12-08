@@ -1,0 +1,5 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Corbau10,ivsel:Corbau10|Lersivirine|exp:1|p9,Lersivirine,=,250.0,nM,False
+Corbau10,ivsel:Corbau10|Lersivirine|exp:1|p11,Lersivirine,=,500.0,nM,False
+Corbau10,ivsel:Corbau10|Lersivirine|exp:2|p11,Lersivirine,=,400.0,nM,False
+Corbau10,ivsel:Corbau10|EFV|exp:1|p11,EFV,NULL,NULL,NULL,True

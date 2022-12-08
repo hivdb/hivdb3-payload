@@ -1,0 +1,14 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Larder93,ivsel:Larder93|NVP|exp:1|p1,NVP,=,0.2,µm,False
+Larder93,ivsel:Larder93|NVP|exp:1|p2,NVP,=,0.3,µm,False
+Larder93,ivsel:Larder93|NVP|exp:1|p4,NVP,=,5.0,µm,False
+Larder93,ivsel:Larder93|NVP+AZT|exp:1|p3,NVP,=,1.0,µm,False
+Larder93,ivsel:Larder93|NVP+AZT|exp:1|p3,AZT,=,0.4,µm,False
+Larder93,ivsel:Larder93|NVP+AZT|exp:1|p4,NVP,=,5.0,µm,False
+Larder93,ivsel:Larder93|NVP+AZT|exp:1|p4,AZT,=,1.0,µm,False
+Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,NVP,=,0.3,µm,False
+Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,AZT,=,0.2,µm,False
+Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,DDI,=,5.0,µm,False
+Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,NVP,=,0.5,µm,False
+Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,AZT,=,0.5,µm,False
+Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,DDI,=,5.0,µm,False

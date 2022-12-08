@@ -1,7 +1,7 @@
 ﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
 Oliveira18,DTG,CBMC,0.005uM,KX714021,Strain 5326,,1,Unknown,8w,IN,None,Figure 1
 Oliveira18,DTG,CBMC,0.01uM,KX714021,Strain 5326,,1,Unknown,16w,IN,None,Figure 1
-Oliveira18,DTG,CBMC,0.01-0-025uM,KX714021,Strain 5326,,1,Unknown,24-30w,IN,None,Figure 1
+Oliveira18,DTG,CBMC,0.01-0.025uM,KX714021,Strain 5326,,1,Unknown,24-30w,IN,None,Figure 1
 Oliveira18,DTG,CBMC,0.025uM,KX714021,Strain 5326,,1,Unknown,43-46w,IN,H51HY,"Figure 1, table 3"
 Oliveira18,DTG,CBMC,0.005uM,MG805953,96USSN20,,1,Unknown,8w,IN,None,Figure 1
 Oliveira18,DTG,CBMC,0.025uM,MG805953,96USSN20,,1,Unknown,16w,IN,R263K,Figure 1

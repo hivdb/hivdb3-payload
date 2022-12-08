@@ -1,0 +1,2 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Wainberg99,ivsel:Wainberg99|exp:1,TDF,=,2.0,µm,False

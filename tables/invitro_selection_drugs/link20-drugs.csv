@@ -1,0 +1,13 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Link20,ivsel:Link20|exp:1|dose:0.8nM,LEN,=,0.8,nM,False
+Link20,ivsel:Link20|exp:1|dose:6.4nM,LEN,=,6.4,nM,False
+Link20,ivsel:Link20|exp:1|dose:51.2nM,LEN,=,51.2,nM,False
+Link20,ivsel:Link20|exp:1|dose:0.92nM,LEN,=,0.92,nM,False
+Link20,ivsel:Link20|exp:2|dose:0.92nM,LEN,=,0.92,nM,False
+Link20,ivsel:Link20|exp:3|dose:0.92nM,LEN,=,0.92,nM,False
+Link20,ivsel:Link20|exp:4|dose:0.92nM,LEN,=,0.92,nM,False
+Link20,ivsel:Link20|exp:5|dose:0.92nM,LEN,=,0.92,nM,False
+Link20,ivsel:Link20|exp:1|dose:1.9nM,LEN,=,1.9,nM,False
+Link20,ivsel:Link20|exp:1|dose:3.7nM,LEN,=,3.7,nM,False
+Link20,ivsel:Link20|exp:2|dose:3.7nM,LEN,=,3.7,nM,False
+Link20,ivsel:Link20|exp:3|dose:3.7nM,LEN,=,3.7,nM,False

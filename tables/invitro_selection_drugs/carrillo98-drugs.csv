@@ -1,0 +1,12 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Carrillo98,ivsel:Carrillo98|exp:1|p6,LPV,=,0.12,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p7,LPV,=,0.15,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p11,LPV,=,0.42,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p12,LPV,=,0.62,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p13,LPV,=,0.8,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p14,LPV,=,1.1,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p15,LPV,=,1.5,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p16,LPV,=,2.0,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p17,LPV,=,3.0,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p25,LPV,=,3.0,µm,False
+Carrillo98,ivsel:Carrillo98|exp:1|p29,LPV,=,5.0,µm,False

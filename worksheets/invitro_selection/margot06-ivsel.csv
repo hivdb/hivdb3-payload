@@ -1,6 +1,6 @@
 ﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
 Margot06,FTC,MT-2,0.8uM,IIIB,IIIB,,1,Unknown,14d,RT,M184IMV,Table 1
-Margot06,FTC,MT-2,3.2uM+6.3uM,LAI,LAI,,2,Unknown,18d,RT,M184IM,Table 1
+Margot06,FTC,MT-2,3.2uM,LAI,LAI,,2,Unknown,18d,RT,M184IM,Table 1
 Margot06,3TC,MT-2,4uM,LAI,LAI,,1,Unknown,11d,RT,M184IM,Table 1
 Margot06,TDF,MT-2,56uM,IIIB,IIIB,,1,Unknown,56d,RT,K65R,Table 1
 Margot06,TDF,MT-2,28uM,LAI,LAI,,2,Unknown,44d,RT,K65RK,Table 1

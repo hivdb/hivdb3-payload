@@ -1,0 +1,12 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Shimura08,ivsel:Shimura08|exp:1|p12,EVG,=,4.0,nM,False
+Shimura08,ivsel:Shimura08|exp:1|p32,EVG,=,32.0,nM,False
+Shimura08,ivsel:Shimura08|exp:1|p48,EVG,=,128.0,nM,False
+Shimura08,ivsel:Shimura08|exp:1|p54,EVG,=,256.0,nM,False
+Shimura08,ivsel:Shimura08|exp:1|p64,EVG,=,512.0,nM,False
+Shimura08,ivsel:Shimura08|exp:1|p80,EVG,=,2048.0,nM,False
+Shimura08,ivsel:Shimura08|exp:2|p30,EVG,=,10.0,nM,False
+Shimura08,ivsel:Shimura08|exp:2|p38,EVG,=,20.0,nM,False
+Shimura08,ivsel:Shimura08|exp:2|p60,EVG,=,640.0,nM,False
+Shimura08,ivsel:Shimura08|exp:2|p70,EVG,=,1280.0,nM,False
+Shimura08,ivsel:Shimura08|exp:2|p80,EVG,=,1280.0,nM,False
