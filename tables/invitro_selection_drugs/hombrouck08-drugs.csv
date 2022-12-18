@@ -1,5 +1,5 @@
 ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
-Hombrouck08,ivsel:Hombrouck08|exp:1|p20,L-870810,=,0.13,µm,False
-Hombrouck08,ivsel:Hombrouck08|exp:1|p40,L-870810,=,0.62,µm,False
-Hombrouck08,ivsel:Hombrouck08|exp:1|p50,L-870810,=,1.1,µm,False
-Hombrouck08,ivsel:Hombrouck08|exp:1|p60,L-870810,=,1.8,µm,False
+Hombrouck08,ivsel:Hombrouck08|exp:1|p20,L-870810,=,0.13,µM,False
+Hombrouck08,ivsel:Hombrouck08|exp:1|p40,L-870810,=,0.62,µM,False
+Hombrouck08,ivsel:Hombrouck08|exp:1|p50,L-870810,=,1.1,µM,False
+Hombrouck08,ivsel:Hombrouck08|exp:1|p60,L-870810,=,1.8,µM,False

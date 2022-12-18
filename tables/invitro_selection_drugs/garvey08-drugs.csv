@@ -1,7 +1,7 @@
 ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
-Garvey08,ivsel:Garvey08|GSK-364735|exp:1|18d,GSK-364735,NULL,NULL,NULL,True
-Garvey08,ivsel:Garvey08|GSK-364735|exp:1|42d,GSK-364735,NULL,NULL,NULL,True
-Garvey08,ivsel:Garvey08|GSK-364735|exp:1|56d,GSK-364735,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|Naphthyridinone|exp:1|18d,Naphthyridinone,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|Naphthyridinone|exp:1|42d,Naphthyridinone,NULL,NULL,NULL,True
+Garvey08,ivsel:Garvey08|Naphthyridinone|exp:1|56d,Naphthyridinone,NULL,NULL,NULL,True
 Garvey08,ivsel:Garvey08|EVG|exp:1|13d,EVG,NULL,NULL,NULL,True
 Garvey08,ivsel:Garvey08|EVG|exp:1|18d,EVG,NULL,NULL,NULL,True
 Garvey08,ivsel:Garvey08|EVG|exp:1|42d,EVG,NULL,NULL,NULL,True

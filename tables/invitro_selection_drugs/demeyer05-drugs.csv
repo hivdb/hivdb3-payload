@@ -3,6 +3,6 @@ DeMeyer05,ivsel:DeMeyer05|exp:1|p14,DRV,=,30.0,nM,False
 DeMeyer05,ivsel:DeMeyer05|exp:1|p29,DRV,=,100.0,nM,False
 DeMeyer05,ivsel:DeMeyer05|exp:1|p54,DRV,=,100.0,nM,False
 DeMeyer05,ivsel:DeMeyer05|exp:1|p75,DRV,=,200.0,nM,False
-DeMeyer05,ivsel:DeMeyer05|exp:1|p42,Amprenavir,=,18000.0,nM,False
+DeMeyer05,ivsel:DeMeyer05|exp:1|p42,APV,=,18000.0,nM,False
 DeMeyer05,ivsel:DeMeyer05|exp:1|p40,NFV,=,9000.0,nM,False
 DeMeyer05,ivsel:DeMeyer05|exp:1|p56,LPV,=,2000.0,nM,False

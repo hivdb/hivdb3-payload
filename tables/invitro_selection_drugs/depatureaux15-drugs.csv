@@ -1,13 +1,13 @@
 ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
-Depatureaux15,ivsel:Depatureaux15|Strain 5326|RAL|exp:1,RAL,=,20.0,µm,False
-Depatureaux15,ivsel:Depatureaux15|Strain 11367|RAL|exp:1,RAL,=,0.25,µm,False
-Depatureaux15,ivsel:Depatureaux15|MVPS180|RAL|exp:1,RAL,=,5.0,µm,False
-Depatureaux15,ivsel:Depatureaux15|BCF11|RAL|exp:1,RAL,=,5.0,µm,False
-Depatureaux15,ivsel:Depatureaux15|Strain 5326|EVG|exp:1,EVG,=,1.0,µm,False
-Depatureaux15,ivsel:Depatureaux15|Strain 11367|EVG|exp:1,EVG,=,0.25,µm,False
-Depatureaux15,ivsel:Depatureaux15|MVPS180|EVG|exp:1,EVG,=,2.5,µm,False
-Depatureaux15,ivsel:Depatureaux15|BCF11|EVG|exp:1,EVG,=,1.0,µm,False
-Depatureaux15,ivsel:Depatureaux15|Strain 5326|DTG|exp:1,DTG,=,0.1,µm,False
-Depatureaux15,ivsel:Depatureaux15|Strain 11367|DTG|exp:1,DTG,=,0.05,µm,False
-Depatureaux15,ivsel:Depatureaux15|MVPS180|DTG|exp:1,DTG,=,0.05,µm,False
-Depatureaux15,ivsel:Depatureaux15|BCF11|DTG|exp:1,DTG,=,0.05,µm,False
+Depatureaux15,ivsel:Depatureaux15|Strain 5326|RAL|exp:1,RAL,=,20.0,µM,False
+Depatureaux15,ivsel:Depatureaux15|Strain 11367|RAL|exp:1,RAL,=,0.25,µM,False
+Depatureaux15,ivsel:Depatureaux15|MVPS180|RAL|exp:1,RAL,=,5.0,µM,False
+Depatureaux15,ivsel:Depatureaux15|BCF11|RAL|exp:1,RAL,=,5.0,µM,False
+Depatureaux15,ivsel:Depatureaux15|Strain 5326|EVG|exp:1,EVG,=,1.0,µM,False
+Depatureaux15,ivsel:Depatureaux15|Strain 11367|EVG|exp:1,EVG,=,0.25,µM,False
+Depatureaux15,ivsel:Depatureaux15|MVPS180|EVG|exp:1,EVG,=,2.5,µM,False
+Depatureaux15,ivsel:Depatureaux15|BCF11|EVG|exp:1,EVG,=,1.0,µM,False
+Depatureaux15,ivsel:Depatureaux15|Strain 5326|DTG|exp:1,DTG,=,0.1,µM,False
+Depatureaux15,ivsel:Depatureaux15|Strain 11367|DTG|exp:1,DTG,=,0.05,µM,False
+Depatureaux15,ivsel:Depatureaux15|MVPS180|DTG|exp:1,DTG,=,0.05,µM,False
+Depatureaux15,ivsel:Depatureaux15|BCF11|DTG|exp:1,DTG,=,0.05,µM,False

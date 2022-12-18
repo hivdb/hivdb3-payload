@@ -1,0 +1,3614 @@
+isolate_name,gene,genbank_accn
+ivsel:Keulen97|exp:1|dose:1uM,PR,NULL
+ivsel:Keulen97|exp:1|dose:1uM,RT,NULL
+ivsel:Keulen97|exp:1|dose:1uM,IN,NULL
+ivsel:Keulen97|exp:1|dose:1uM,CA,NULL
+ivsel:Keulen97|exp:1|dose:10uM,PR,NULL
+ivsel:Keulen97|exp:1|dose:10uM,RT,NULL
+ivsel:Keulen97|exp:1|dose:10uM,IN,NULL
+ivsel:Keulen97|exp:1|dose:10uM,CA,NULL
+ivsel:Vaillancourt99|exp:1|p4,PR,NULL
+ivsel:Vaillancourt99|exp:1|p4,RT,NULL
+ivsel:Vaillancourt99|exp:1|p4,IN,NULL
+ivsel:Vaillancourt99|exp:1|p4,CA,NULL
+ivsel:Vaillancourt99|exp:1|p10,PR,NULL
+ivsel:Vaillancourt99|exp:1|p10,RT,NULL
+ivsel:Vaillancourt99|exp:1|p10,IN,NULL
+ivsel:Vaillancourt99|exp:1|p10,CA,NULL
+ivsel:Vaillancourt99|exp:1|p15,PR,NULL
+ivsel:Vaillancourt99|exp:1|p15,RT,NULL
+ivsel:Vaillancourt99|exp:1|p15,IN,NULL
+ivsel:Vaillancourt99|exp:1|p15,CA,NULL
+ivsel:Vaillancourt99|exp:1|p17,PR,NULL
+ivsel:Vaillancourt99|exp:1|p17,RT,NULL
+ivsel:Vaillancourt99|exp:1|p17,IN,NULL
+ivsel:Vaillancourt99|exp:1|p17,CA,NULL
+ivsel:Vaillancourt99|exp:1|p27,PR,NULL
+ivsel:Vaillancourt99|exp:1|p27,RT,NULL
+ivsel:Vaillancourt99|exp:1|p27,IN,NULL
+ivsel:Vaillancourt99|exp:1|p27,CA,NULL
+ivsel:Vaillancourt99|exp:2|p5,PR,NULL
+ivsel:Vaillancourt99|exp:2|p5,RT,NULL
+ivsel:Vaillancourt99|exp:2|p5,IN,NULL
+ivsel:Vaillancourt99|exp:2|p5,CA,NULL
+ivsel:Vaillancourt99|exp:2|p7,PR,NULL
+ivsel:Vaillancourt99|exp:2|p7,RT,NULL
+ivsel:Vaillancourt99|exp:2|p7,IN,NULL
+ivsel:Vaillancourt99|exp:2|p7,CA,NULL
+ivsel:Vaillancourt99|exp:2|p10,PR,NULL
+ivsel:Vaillancourt99|exp:2|p10,RT,NULL
+ivsel:Vaillancourt99|exp:2|p10,IN,NULL
+ivsel:Vaillancourt99|exp:2|p10,CA,NULL
+ivsel:Vaillancourt99|exp:2|p15,PR,NULL
+ivsel:Vaillancourt99|exp:2|p15,RT,NULL
+ivsel:Vaillancourt99|exp:2|p15,IN,NULL
+ivsel:Vaillancourt99|exp:2|p15,CA,NULL
+ivsel:Vaillancourt99|exp:3|p5,PR,NULL
+ivsel:Vaillancourt99|exp:3|p5,RT,NULL
+ivsel:Vaillancourt99|exp:3|p5,IN,NULL
+ivsel:Vaillancourt99|exp:3|p5,CA,NULL
+ivsel:Vaillancourt99|exp:3|p7,PR,NULL
+ivsel:Vaillancourt99|exp:3|p7,RT,NULL
+ivsel:Vaillancourt99|exp:3|p7,IN,NULL
+ivsel:Vaillancourt99|exp:3|p7,CA,NULL
+ivsel:Vaillancourt99|exp:3|p10,PR,NULL
+ivsel:Vaillancourt99|exp:3|p10,RT,NULL
+ivsel:Vaillancourt99|exp:3|p10,IN,NULL
+ivsel:Vaillancourt99|exp:3|p10,CA,NULL
+ivsel:Vaillancourt99|exp:4|p4,PR,NULL
+ivsel:Vaillancourt99|exp:4|p4,RT,NULL
+ivsel:Vaillancourt99|exp:4|p4,IN,NULL
+ivsel:Vaillancourt99|exp:4|p4,CA,NULL
+ivsel:Vaillancourt99|exp:4|p10,PR,NULL
+ivsel:Vaillancourt99|exp:4|p10,RT,NULL
+ivsel:Vaillancourt99|exp:4|p10,IN,NULL
+ivsel:Vaillancourt99|exp:4|p10,CA,NULL
+ivsel:Vaillancourt99|exp:4|p15,PR,NULL
+ivsel:Vaillancourt99|exp:4|p15,RT,NULL
+ivsel:Vaillancourt99|exp:4|p15,IN,NULL
+ivsel:Vaillancourt99|exp:4|p15,CA,NULL
+ivsel:Fikkert03|exp:1|p25,PR,NULL
+ivsel:Fikkert03|exp:1|p25,RT,NULL
+ivsel:Fikkert03|exp:1|p25,IN,NULL
+ivsel:Fikkert03|exp:1|p25,CA,NULL
+ivsel:Fikkert03|exp:1|p35,PR,NULL
+ivsel:Fikkert03|exp:1|p35,RT,NULL
+ivsel:Fikkert03|exp:1|p35,IN,NULL
+ivsel:Fikkert03|exp:1|p35,CA,NULL
+ivsel:Fikkert03|exp:1|p40,PR,NULL
+ivsel:Fikkert03|exp:1|p40,RT,NULL
+ivsel:Fikkert03|exp:1|p40,IN,NULL
+ivsel:Fikkert03|exp:1|p40,CA,NULL
+ivsel:Fikkert03|exp:1|p60,PR,NULL
+ivsel:Fikkert03|exp:1|p60,RT,NULL
+ivsel:Fikkert03|exp:1|p60,IN,NULL
+ivsel:Fikkert03|exp:1|p60,CA,NULL
+ivsel:Fikkert03|exp:1|p70,PR,NULL
+ivsel:Fikkert03|exp:1|p70,RT,NULL
+ivsel:Fikkert03|exp:1|p70,IN,NULL
+ivsel:Fikkert03|exp:1|p70,CA,NULL
+HIVRTMZ (41L+74V+215Y),PR,NULL
+HIVRTMZ (41L+74V+215Y),RT,NULL
+HIVRTMZ (41L+74V+215Y),IN,NULL
+HIVRTMZ (41L+74V+215Y),CA,NULL
+ivsel:Larder93|NVP|exp:1|p1,PR,NULL
+ivsel:Larder93|NVP|exp:1|p1,RT,NULL
+ivsel:Larder93|NVP|exp:1|p1,IN,NULL
+ivsel:Larder93|NVP|exp:1|p1,CA,NULL
+ivsel:Larder93|NVP|exp:1|p2,PR,NULL
+ivsel:Larder93|NVP|exp:1|p2,RT,NULL
+ivsel:Larder93|NVP|exp:1|p2,IN,NULL
+ivsel:Larder93|NVP|exp:1|p2,CA,NULL
+ivsel:Larder93|NVP|exp:1|p4,PR,NULL
+ivsel:Larder93|NVP|exp:1|p4,RT,NULL
+ivsel:Larder93|NVP|exp:1|p4,IN,NULL
+ivsel:Larder93|NVP|exp:1|p4,CA,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p3,PR,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p3,RT,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p3,IN,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p3,CA,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p4,PR,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p4,RT,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p4,IN,NULL
+ivsel:Larder93|NVP+AZT|exp:1|p4,CA,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,PR,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,RT,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,IN,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,CA,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,PR,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,RT,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,IN,NULL
+ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p4,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p4,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p4,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p4,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p10,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p10,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p10,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p10,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p15,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p15,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p15,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p15,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p17,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p17,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p17,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p17,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p18,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p18,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p18,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p18,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p27,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p27,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p27,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p27,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p37,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p37,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p37,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p37,CA,NULL
+ivsel:Watkins03|SQV|exp:1|p47,PR,NULL
+ivsel:Watkins03|SQV|exp:1|p47,RT,NULL
+ivsel:Watkins03|SQV|exp:1|p47,IN,NULL
+ivsel:Watkins03|SQV|exp:1|p47,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p10,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p10,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p10,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p10,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p12,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p12,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p12,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p12,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p14,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p14,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p14,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p14,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p15,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p15,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p15,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p15,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p24,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p24,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p24,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p24,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p34,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p34,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p34,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p34,CA,NULL
+ivsel:Watkins03|RTV|exp:1|p44,PR,NULL
+ivsel:Watkins03|RTV|exp:1|p44,RT,NULL
+ivsel:Watkins03|RTV|exp:1|p44,IN,NULL
+ivsel:Watkins03|RTV|exp:1|p44,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p10,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p10,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p10,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p10,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p13,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p13,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p13,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p13,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p16,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p16,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p16,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p16,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p17,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p17,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p17,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p17,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p25,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p25,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p25,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p25,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p35,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p35,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p35,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p35,CA,NULL
+ivsel:Watkins03|IDV|exp:1|p45,PR,NULL
+ivsel:Watkins03|IDV|exp:1|p45,RT,NULL
+ivsel:Watkins03|IDV|exp:1|p45,IN,NULL
+ivsel:Watkins03|IDV|exp:1|p45,CA,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p4,PR,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p4,RT,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p4,IN,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p4,CA,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p10,PR,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p10,RT,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p10,IN,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p10,CA,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p15,PR,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p15,RT,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p15,IN,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p15,CA,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p16,PR,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p16,RT,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p16,IN,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p16,CA,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p17,PR,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p17,RT,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p17,IN,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p17,CA,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p27,PR,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p27,RT,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p27,IN,NULL
+ivsel:Watkins03|SQV+RTV|exp:1|p27,CA,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p10,PR,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p10,RT,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p10,IN,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p10,CA,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p14,PR,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p14,RT,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p14,IN,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p14,CA,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p16,PR,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p16,RT,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p16,IN,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p16,CA,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p17,PR,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p17,RT,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p17,IN,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p17,CA,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p27,PR,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p27,RT,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p27,IN,NULL
+ivsel:Watkins03|RTV+IDV|exp:1|p27,CA,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p11,PR,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p11,RT,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p11,IN,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p11,CA,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p15,PR,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p15,RT,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p15,IN,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p15,CA,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p18,PR,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p18,RT,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p18,IN,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p18,CA,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p19,PR,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p19,RT,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p19,IN,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p19,CA,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p29,PR,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p29,RT,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p29,IN,NULL
+ivsel:Watkins03|IDV+SQV|exp:1|p29,CA,NULL
+ivsel:Doyon05|exp:1|p16,PR,NULL
+ivsel:Doyon05|exp:1|p16,RT,NULL
+ivsel:Doyon05|exp:1|p16,IN,NULL
+ivsel:Doyon05|exp:1|p16,CA,NULL
+ivsel:Doyon05|exp:1|p33,PR,NULL
+ivsel:Doyon05|exp:1|p33,RT,NULL
+ivsel:Doyon05|exp:1|p33,IN,NULL
+ivsel:Doyon05|exp:1|p33,CA,NULL
+ivsel:Doyon05|exp:1|p39,PR,NULL
+ivsel:Doyon05|exp:1|p39,RT,NULL
+ivsel:Doyon05|exp:1|p39,IN,NULL
+ivsel:Doyon05|exp:1|p39,CA,NULL
+ivsel:Doyon05|exp:1|p49,PR,NULL
+ivsel:Doyon05|exp:1|p49,RT,NULL
+ivsel:Doyon05|exp:1|p49,IN,NULL
+ivsel:Doyon05|exp:1|p49,CA,NULL
+ivsel:Doyon05|exp:1|p68,PR,NULL
+ivsel:Doyon05|exp:1|p68,RT,NULL
+ivsel:Doyon05|exp:1|p68,IN,NULL
+ivsel:Doyon05|exp:1|p68,CA,NULL
+ivsel:Doyon05|exp:1|p73,PR,NULL
+ivsel:Doyon05|exp:1|p73,RT,NULL
+ivsel:Doyon05|exp:1|p73,IN,NULL
+ivsel:Doyon05|exp:1|p73,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~4,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~4,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~4,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~4,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~8,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~8,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~8,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~8,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~16,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~16,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~16,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~16,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~20,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~20,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~20,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~20,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~24,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~24,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~24,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~24,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~28,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~28,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~28,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~28,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~32,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~32,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~32,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:2|p~32,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~8,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~8,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~8,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~8,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~12,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~12,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~12,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~12,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~16,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~16,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~16,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~16,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~20,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~20,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~20,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~20,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~24,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~24,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~24,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~24,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~28,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~28,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~28,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~28,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~32,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~32,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~32,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3a|p~32,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~4,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~4,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~4,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~4,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~8,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~8,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~8,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~8,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~12,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~12,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~12,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~12,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~16,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~16,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~16,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~16,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~20,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~20,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~20,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~20,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~24,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~24,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~24,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~24,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~28,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~28,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~28,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~28,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~32,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~32,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~32,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:3b|p~32,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~8,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~8,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~8,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~8,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~12,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~12,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~12,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~12,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~16,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~16,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~16,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~16,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~20,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~20,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~20,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~20,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~24,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~24,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~24,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~24,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~28,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~28,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~28,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~28,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~32,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~32,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~32,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4a|p~32,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~4,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~4,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~4,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~4,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~8,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~8,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~8,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~8,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~12,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~12,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~12,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~12,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~16,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~16,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~16,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~16,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~20,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~20,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~20,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~20,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~24,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~24,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~24,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~24,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~28,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~28,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~28,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~28,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~32,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~32,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~32,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4b|p~32,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~4,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~4,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~4,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~4,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~8,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~8,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~8,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~8,CA,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~12,PR,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~12,RT,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~12,IN,NULL
+ivsel:Yoshinaga15|CAB|exp:4c|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1a|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1b|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1c|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:1d|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2a|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2b|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2c|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2d|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:2e|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3a|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3a|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3a|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3a|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3b|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3c|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3d|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:3e|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4a|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4b1|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4b2|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4c1|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4c2|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~24,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~24,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~24,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4d|p~24,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~16,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~16,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~16,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~16,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~20,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~20,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~20,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4e|p~20,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~8,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~12,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~12,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~12,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4f|p~12,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~4,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~4,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~4,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~4,CA,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~8,PR,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~8,RT,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~8,IN,NULL
+ivsel:Yoshinaga15|RAL|exp:4g|p~8,CA,NULL
+ivsel:Tsiang16|BIC|exp:1|p3,PR,NULL
+ivsel:Tsiang16|BIC|exp:1|p3,RT,NULL
+ivsel:Tsiang16|BIC|exp:1|p3,IN,NULL
+ivsel:Tsiang16|BIC|exp:1|p3,CA,NULL
+ivsel:Tsiang16|BIC|exp:1|p5,PR,NULL
+ivsel:Tsiang16|BIC|exp:1|p5,RT,NULL
+ivsel:Tsiang16|BIC|exp:1|p5,IN,NULL
+ivsel:Tsiang16|BIC|exp:1|p5,CA,NULL
+ivsel:Tsiang16|BIC|exp:1|p6,PR,NULL
+ivsel:Tsiang16|BIC|exp:1|p6,RT,NULL
+ivsel:Tsiang16|BIC|exp:1|p6,IN,NULL
+ivsel:Tsiang16|BIC|exp:1|p6,CA,NULL
+ivsel:Tsiang16|BIC|exp:1|p8,PR,NULL
+ivsel:Tsiang16|BIC|exp:1|p8,RT,NULL
+ivsel:Tsiang16|BIC|exp:1|p8,IN,NULL
+ivsel:Tsiang16|BIC|exp:1|p8,CA,NULL
+ivsel:Tsiang16|BIC|exp:1|p9,PR,NULL
+ivsel:Tsiang16|BIC|exp:1|p9,RT,NULL
+ivsel:Tsiang16|BIC|exp:1|p9,IN,NULL
+ivsel:Tsiang16|BIC|exp:1|p9,CA,NULL
+ivsel:Tsiang16|BIC|exp:1|p10,PR,NULL
+ivsel:Tsiang16|BIC|exp:1|p10,RT,NULL
+ivsel:Tsiang16|BIC|exp:1|p10,IN,NULL
+ivsel:Tsiang16|BIC|exp:1|p10,CA,NULL
+ivsel:Tsiang16|DTG|exp:1|p4,PR,NULL
+ivsel:Tsiang16|DTG|exp:1|p4,RT,NULL
+ivsel:Tsiang16|DTG|exp:1|p4,IN,NULL
+ivsel:Tsiang16|DTG|exp:1|p4,CA,NULL
+ivsel:Tsiang16|DTG|exp:1|p5,PR,NULL
+ivsel:Tsiang16|DTG|exp:1|p5,RT,NULL
+ivsel:Tsiang16|DTG|exp:1|p5,IN,NULL
+ivsel:Tsiang16|DTG|exp:1|p5,CA,NULL
+ivsel:Tsiang16|DTG|exp:1|p7,PR,NULL
+ivsel:Tsiang16|DTG|exp:1|p7,RT,NULL
+ivsel:Tsiang16|DTG|exp:1|p7,IN,NULL
+ivsel:Tsiang16|DTG|exp:1|p7,CA,NULL
+ivsel:Tsiang16|DTG|exp:1|p9,PR,NULL
+ivsel:Tsiang16|DTG|exp:1|p9,RT,NULL
+ivsel:Tsiang16|DTG|exp:1|p9,IN,NULL
+ivsel:Tsiang16|DTG|exp:1|p9,CA,NULL
+ivsel:Tsiang16|DTG|exp:1|p10,PR,NULL
+ivsel:Tsiang16|DTG|exp:1|p10,RT,NULL
+ivsel:Tsiang16|DTG|exp:1|p10,IN,NULL
+ivsel:Tsiang16|DTG|exp:1|p10,CA,NULL
+ivsel:Tsiang16|EVG|exp:1|p2,PR,NULL
+ivsel:Tsiang16|EVG|exp:1|p2,RT,NULL
+ivsel:Tsiang16|EVG|exp:1|p2,IN,NULL
+ivsel:Tsiang16|EVG|exp:1|p2,CA,NULL
+ivsel:Tsiang16|EVG|exp:1|p4,PR,NULL
+ivsel:Tsiang16|EVG|exp:1|p4,RT,NULL
+ivsel:Tsiang16|EVG|exp:1|p4,IN,NULL
+ivsel:Tsiang16|EVG|exp:1|p4,CA,NULL
+ivsel:Tsiang16|EVG|exp:1|p6,PR,NULL
+ivsel:Tsiang16|EVG|exp:1|p6,RT,NULL
+ivsel:Tsiang16|EVG|exp:1|p6,IN,NULL
+ivsel:Tsiang16|EVG|exp:1|p6,CA,NULL
+ivsel:Tsiang16|EVG|exp:1|p7,PR,NULL
+ivsel:Tsiang16|EVG|exp:1|p7,RT,NULL
+ivsel:Tsiang16|EVG|exp:1|p7,IN,NULL
+ivsel:Tsiang16|EVG|exp:1|p7,CA,NULL
+ivsel:Tsiang16|EVG|exp:1|p9,PR,NULL
+ivsel:Tsiang16|EVG|exp:1|p9,RT,NULL
+ivsel:Tsiang16|EVG|exp:1|p9,IN,NULL
+ivsel:Tsiang16|EVG|exp:1|p9,CA,NULL
+ivsel:Tsiang16|EVG|exp:1|p10,PR,NULL
+ivsel:Tsiang16|EVG|exp:1|p10,RT,NULL
+ivsel:Tsiang16|EVG|exp:1|p10,IN,NULL
+ivsel:Tsiang16|EVG|exp:1|p10,CA,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:10uM,PR,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:10uM,RT,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:10uM,IN,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:10uM,CA,NULL
+ivsel:Richman91|BRU|exp:1|p3|dose:10uM,PR,NULL
+ivsel:Richman91|BRU|exp:1|p3|dose:10uM,RT,NULL
+ivsel:Richman91|BRU|exp:1|p3|dose:10uM,IN,NULL
+ivsel:Richman91|BRU|exp:1|p3|dose:10uM,CA,NULL
+ivsel:Richman91|BRU|exp:1|p5|dose:10uM,PR,NULL
+ivsel:Richman91|BRU|exp:1|p5|dose:10uM,RT,NULL
+ivsel:Richman91|BRU|exp:1|p5|dose:10uM,IN,NULL
+ivsel:Richman91|BRU|exp:1|p5|dose:10uM,CA,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:1uM,PR,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:1uM,RT,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:1uM,IN,NULL
+ivsel:Richman91|BRU|exp:1|p1|dose:1uM,CA,NULL
+ivsel:Richman91|BRU|exp:1|p17|dose:1uM,PR,NULL
+ivsel:Richman91|BRU|exp:1|p17|dose:1uM,RT,NULL
+ivsel:Richman91|BRU|exp:1|p17|dose:1uM,IN,NULL
+ivsel:Richman91|BRU|exp:1|p17|dose:1uM,CA,NULL
+ivsel:Richman91|A018A|exp:1|p1|dose:10uM,RT,NULL
+ivsel:Richman91|A018A|exp:1|p5|dose:10uM,RT,NULL
+ivsel:Richman91|A018A|exp:1|p1|dose:1uM,RT,NULL
+ivsel:Richman91|A018A|exp:1|p5|dose:1uM,RT,NULL
+ivsel:Feng15|R8|DOR|exp:1|1seq,RT,NULL
+ivsel:Feng15|R8|DOR|exp:1|2seq,RT,NULL
+ivsel:Feng15|R8|DOR|exp:2|1seq,RT,NULL
+ivsel:Feng15|R8|DOR|exp:2|2seq,RT,NULL
+ivsel:Feng15|R8|DOR|exp:2|3seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:1|1seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:1|2seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:2|1seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:2|2seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:2|3seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:3|1seq,RT,NULL
+ivsel:Feng15|R8|EFV|exp:3|2seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:1|1seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:1|2seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:1|3seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:2|1seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:2|2seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:3|1seq,RT,NULL
+ivsel:Feng15|R8|RPV|exp:3|2seq,RT,NULL
+ivsel:Feng15|92RW026|DOR|exp:1|1seq,RT,NULL
+ivsel:Feng15|92RW026|DOR|exp:1|2seq,RT,NULL
+ivsel:Feng15|92RW026|DOR|exp:2|1seq,RT,NULL
+ivsel:Feng15|92RW026|DOR|exp:2|2seq,RT,NULL
+ivsel:Feng15|92RW026|DOR|exp:2|3seq,RT,NULL
+ivsel:Feng15|92RW026|EFV|exp:1|1seq,RT,NULL
+ivsel:Feng15|92RW026|EFV|exp:1|2seq,RT,NULL
+ivsel:Feng15|92RW026|EFV|exp:2|1seq,RT,NULL
+ivsel:Feng15|92RW026|EFV|exp:2|2seq,RT,NULL
+ivsel:Feng15|92RW026|RPV|exp:1|1seq,RT,NULL
+ivsel:Feng15|92RW026|RPV|exp:1|2seq,RT,NULL
+ivsel:Feng15|92RW026|RPV|exp:1|3seq,RT,NULL
+ivsel:Feng15|92RW026|RPV|exp:2|1seq,RT,NULL
+ivsel:Feng15|92RW026|RPV|exp:2|2seq,RT,NULL
+ivsel:Feng15|93MW959|DOR|exp:1|1seq,RT,NULL
+ivsel:Feng15|93MW959|DOR|exp:1|2seq,RT,NULL
+ivsel:Feng15|93MW959|DOR|exp:2|1seq,RT,NULL
+ivsel:Feng15|93MW959|DOR|exp:2|2seq,RT,NULL
+ivsel:Feng15|93MW959|EFV|exp:1|1seq,RT,NULL
+ivsel:Feng15|93MW959|EFV|exp:1|2seq,RT,NULL
+ivsel:Feng15|93MW959|EFV|exp:1|3seq,RT,NULL
+ivsel:Feng15|93MW959|EFV|exp:2|1seq,RT,NULL
+ivsel:Feng15|93MW959|EFV|exp:2|2seq,RT,NULL
+ivsel:Feng15|93MW959|RPV|exp:1|1seq,RT,NULL
+ivsel:Feng15|93MW959|RPV|exp:1|2seq,RT,NULL
+ivsel:Feng15|93MW959|RPV|exp:2|1seq,RT,NULL
+ivsel:Feng15|93MW959|RPV|exp:2|2seq,RT,NULL
+ivsel:Feng15|93MW959|RPV|exp:3|1seq,RT,NULL
+ivsel:Feng15|93MW959|RPV|exp:3|2seq,RT,NULL
+ivsel:Gong00|exp:1|1mo,PR,NULL
+ivsel:Gong00|exp:1|1mo,RT,NULL
+ivsel:Gong00|exp:1|1mo,IN,NULL
+ivsel:Gong00|exp:1|1mo,CA,NULL
+ivsel:Gong00|exp:1|2.4mo,PR,NULL
+ivsel:Gong00|exp:1|2.4mo,RT,NULL
+ivsel:Gong00|exp:1|2.4mo,IN,NULL
+ivsel:Gong00|exp:1|2.4mo,CA,NULL
+ivsel:Gong00|exp:1|3.5mo,PR,NULL
+ivsel:Gong00|exp:1|3.5mo,RT,NULL
+ivsel:Gong00|exp:1|3.5mo,IN,NULL
+ivsel:Gong00|exp:1|3.5mo,CA,NULL
+ivsel:Gong00|exp:1|4.8mo,PR,NULL
+ivsel:Gong00|exp:1|4.8mo,RT,NULL
+ivsel:Gong00|exp:1|4.8mo,IN,NULL
+ivsel:Gong00|exp:1|4.8mo,CA,NULL
+ivsel:Gong00|exp:1|2.6mo,PR,NULL
+ivsel:Gong00|exp:1|2.6mo,RT,NULL
+ivsel:Gong00|exp:1|2.6mo,IN,NULL
+ivsel:Gong00|exp:1|2.6mo,CA,NULL
+ivsel:Gong00|exp:1|4.7mo,PR,NULL
+ivsel:Gong00|exp:1|4.7mo,RT,NULL
+ivsel:Gong00|exp:1|4.7mo,IN,NULL
+ivsel:Gong00|exp:1|4.7mo,CA,NULL
+ivsel:Gong00|exp:1|3.9mo,PR,NULL
+ivsel:Gong00|exp:1|3.9mo,RT,NULL
+ivsel:Gong00|exp:1|3.9mo,IN,NULL
+ivsel:Gong00|exp:1|3.9mo,CA,NULL
+ivsel:Gong00|exp:1|4.6mo,PR,NULL
+ivsel:Gong00|exp:1|4.6mo,RT,NULL
+ivsel:Gong00|exp:1|4.6mo,IN,NULL
+ivsel:Gong00|exp:1|4.6mo,CA,NULL
+ivsel:Margot12|EVG|exp:1|p8,PR,NULL
+ivsel:Margot12|EVG|exp:1|p8,RT,NULL
+ivsel:Margot12|EVG|exp:1|p8,IN,NULL
+ivsel:Margot12|EVG|exp:1|p8,CA,NULL
+ivsel:Margot12|EVG|exp:1|p11,PR,NULL
+ivsel:Margot12|EVG|exp:1|p11,RT,NULL
+ivsel:Margot12|EVG|exp:1|p11,IN,NULL
+ivsel:Margot12|EVG|exp:1|p11,CA,NULL
+ivsel:Margot12|EVG|exp:1|p12,PR,NULL
+ivsel:Margot12|EVG|exp:1|p12,RT,NULL
+ivsel:Margot12|EVG|exp:1|p12,IN,NULL
+ivsel:Margot12|EVG|exp:1|p12,CA,NULL
+ivsel:Margot12|EVG|exp:2|p3,PR,NULL
+ivsel:Margot12|EVG|exp:2|p3,RT,NULL
+ivsel:Margot12|EVG|exp:2|p3,IN,NULL
+ivsel:Margot12|EVG|exp:2|p3,CA,NULL
+ivsel:Margot12|EVG|exp:2|p4,PR,NULL
+ivsel:Margot12|EVG|exp:2|p4,RT,NULL
+ivsel:Margot12|EVG|exp:2|p4,IN,NULL
+ivsel:Margot12|EVG|exp:2|p4,CA,NULL
+ivsel:Margot12|EVG|exp:2|p6,PR,NULL
+ivsel:Margot12|EVG|exp:2|p6,RT,NULL
+ivsel:Margot12|EVG|exp:2|p6,IN,NULL
+ivsel:Margot12|EVG|exp:2|p6,CA,NULL
+ivsel:Margot12|EVG|exp:2|p7,PR,NULL
+ivsel:Margot12|EVG|exp:2|p7,RT,NULL
+ivsel:Margot12|EVG|exp:2|p7,IN,NULL
+ivsel:Margot12|EVG|exp:2|p7,CA,NULL
+ivsel:Margot12|EVG|exp:2|p9,PR,NULL
+ivsel:Margot12|EVG|exp:2|p9,RT,NULL
+ivsel:Margot12|EVG|exp:2|p9,IN,NULL
+ivsel:Margot12|EVG|exp:2|p9,CA,NULL
+ivsel:Margot12|EVG|exp:2|p11,PR,NULL
+ivsel:Margot12|EVG|exp:2|p11,RT,NULL
+ivsel:Margot12|EVG|exp:2|p11,IN,NULL
+ivsel:Margot12|EVG|exp:2|p11,CA,NULL
+ivsel:Margot12|EVG|exp:2|p12,PR,NULL
+ivsel:Margot12|EVG|exp:2|p12,RT,NULL
+ivsel:Margot12|EVG|exp:2|p12,IN,NULL
+ivsel:Margot12|EVG|exp:2|p12,CA,NULL
+ivsel:Margot12|RAL|exp:1|p11,PR,NULL
+ivsel:Margot12|RAL|exp:1|p11,RT,NULL
+ivsel:Margot12|RAL|exp:1|p11,IN,NULL
+ivsel:Margot12|RAL|exp:1|p11,CA,NULL
+NL4-3 (Q148K),RT,NULL
+NL4-3 (Q148K),IN,NULL
+NL4-3 (Q148K),CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1a|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~4,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~4,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~4,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:1b|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2a|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~4,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~4,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~4,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2b|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~4,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~4,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~4,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148K)|exp:2c|p~16,CA,NULL
+NL4-3 (Q148R),RT,NULL
+NL4-3 (Q148R),IN,NULL
+NL4-3 (Q148R),CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1a|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1a|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1a|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1b|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1b|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1b|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1b|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1b|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1b|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148R)|exp:1c|p~16,CA,NULL
+NL4-3 (Q148H),RT,NULL
+NL4-3 (Q148H),IN,NULL
+NL4-3 (Q148H),CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1a|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1a|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1a|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1a|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1a|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1a|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1b|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:1c|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2a|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2b|p~16,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~4,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~4,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~4,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~8,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~8,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~8,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~12,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~12,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~12,CA,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~16,RT,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~16,IN,NULL
+ivsel:Yoshinaga18|NL4-3 (Q148H)|exp:2c|p~16,CA,NULL
+ivsel:Margot06|exp:1|14d,PR,NULL
+ivsel:Margot06|exp:1|14d,RT,NULL
+ivsel:Margot06|exp:1|14d,IN,NULL
+ivsel:Margot06|exp:1|14d,CA,NULL
+ivsel:Margot06|exp:2|18d,PR,NULL
+ivsel:Margot06|exp:2|18d,RT,NULL
+ivsel:Margot06|exp:2|18d,IN,NULL
+ivsel:Margot06|exp:2|18d,CA,NULL
+ivsel:Margot06|exp:1|11d,PR,NULL
+ivsel:Margot06|exp:1|11d,RT,NULL
+ivsel:Margot06|exp:1|11d,IN,NULL
+ivsel:Margot06|exp:1|11d,CA,NULL
+ivsel:Margot06|exp:1|56d,PR,NULL
+ivsel:Margot06|exp:1|56d,RT,NULL
+ivsel:Margot06|exp:1|56d,IN,NULL
+ivsel:Margot06|exp:1|56d,CA,NULL
+ivsel:Margot06|exp:2|44d,PR,NULL
+ivsel:Margot06|exp:2|44d,RT,NULL
+ivsel:Margot06|exp:2|44d,IN,NULL
+ivsel:Margot06|exp:2|44d,CA,NULL
+ivsel:Margot06|exp:1|44d,PR,NULL
+ivsel:Margot06|exp:1|44d,RT,NULL
+ivsel:Margot06|exp:1|44d,IN,NULL
+ivsel:Margot06|exp:1|44d,CA,NULL
+ivsel:Margot06|exp:1|24d,PR,NULL
+ivsel:Margot06|exp:1|24d,RT,NULL
+ivsel:Margot06|exp:1|24d,IN,NULL
+ivsel:Margot06|exp:1|24d,CA,NULL
+ivsel:Margot06|exp:2|40d,PR,NULL
+ivsel:Margot06|exp:2|40d,RT,NULL
+ivsel:Margot06|exp:2|40d,IN,NULL
+ivsel:Margot06|exp:2|40d,CA,NULL
+ivsel:Margot06|exp:3|18d,PR,NULL
+ivsel:Margot06|exp:3|18d,RT,NULL
+ivsel:Margot06|exp:3|18d,IN,NULL
+ivsel:Margot06|exp:3|18d,CA,NULL
+ivsel:Margot06|exp:1|18d,PR,NULL
+ivsel:Margot06|exp:1|18d,RT,NULL
+ivsel:Margot06|exp:1|18d,IN,NULL
+ivsel:Margot06|exp:1|18d,CA,NULL
+ivsel:Margot06|exp:1|48d,PR,NULL
+ivsel:Margot06|exp:1|48d,RT,NULL
+ivsel:Margot06|exp:1|48d,IN,NULL
+ivsel:Margot06|exp:1|48d,CA,NULL
+ivsel:Margot06|exp:2|58d,PR,NULL
+ivsel:Margot06|exp:2|58d,RT,NULL
+ivsel:Margot06|exp:2|58d,IN,NULL
+ivsel:Margot06|exp:2|58d,CA,NULL
+ivsel:Margot06|exp:1|58d,PR,NULL
+ivsel:Margot06|exp:1|58d,RT,NULL
+ivsel:Margot06|exp:1|58d,IN,NULL
+ivsel:Margot06|exp:1|58d,CA,NULL
+ivsel:Margot06|exp:1|99d,PR,NULL
+ivsel:Margot06|exp:1|99d,RT,NULL
+ivsel:Margot06|exp:1|99d,IN,NULL
+ivsel:Margot06|exp:1|99d,CA,NULL
+ivsel:Margot06|exp:2|328d,PR,NULL
+ivsel:Margot06|exp:2|328d,RT,NULL
+ivsel:Margot06|exp:2|328d,IN,NULL
+ivsel:Margot06|exp:2|328d,CA,NULL
+ivsel:Margot06|exp:1|203d,PR,NULL
+ivsel:Margot06|exp:1|203d,RT,NULL
+ivsel:Margot06|exp:1|203d,IN,NULL
+ivsel:Margot06|exp:1|203d,CA,NULL
+ivsel:Margot06|exp:1|133d,PR,NULL
+ivsel:Margot06|exp:1|133d,RT,NULL
+ivsel:Margot06|exp:1|133d,IN,NULL
+ivsel:Margot06|exp:1|133d,CA,NULL
+ivsel:Margot06|exp:2|288d,PR,NULL
+ivsel:Margot06|exp:2|288d,RT,NULL
+ivsel:Margot06|exp:2|288d,IN,NULL
+ivsel:Margot06|exp:2|288d,CA,NULL
+ivsel:Margot06|exp:3|71d,PR,NULL
+ivsel:Margot06|exp:3|71d,RT,NULL
+ivsel:Margot06|exp:3|71d,IN,NULL
+ivsel:Margot06|exp:3|71d,CA,NULL
+IIIB (M184I/L214F),PR,NULL
+IIIB (M184I/L214F),RT,NULL
+IIIB (M184I/L214F),IN,NULL
+IIIB (M184I/L214F),CA,NULL
+ivsel:Margot06|exp:1|42d,PR,NULL
+ivsel:Margot06|exp:1|42d,RT,NULL
+ivsel:Margot06|exp:1|42d,IN,NULL
+ivsel:Margot06|exp:1|42d,CA,NULL
+IIIB (K65R),PR,NULL
+IIIB (K65R),RT,NULL
+IIIB (K65R),IN,NULL
+IIIB (K65R),CA,NULL
+ivsel:Margot06|exp:1|54d,PR,NULL
+ivsel:Margot06|exp:1|54d,RT,NULL
+ivsel:Margot06|exp:1|54d,IN,NULL
+ivsel:Margot06|exp:1|54d,CA,NULL
+ivsel:Margot06|exp:1|329d,PR,NULL
+ivsel:Margot06|exp:1|329d,RT,NULL
+ivsel:Margot06|exp:1|329d,IN,NULL
+ivsel:Margot06|exp:1|329d,CA,NULL
+ivsel:Jones08|exp:1|p7,PR,NULL
+ivsel:Jones08|exp:1|p7,RT,NULL
+ivsel:Jones08|exp:1|p7,IN,NULL
+ivsel:Jones08|exp:1|p7,CA,NULL
+ivsel:Jones08|exp:1|p11,PR,NULL
+ivsel:Jones08|exp:1|p11,RT,NULL
+ivsel:Jones08|exp:1|p11,IN,NULL
+ivsel:Jones08|exp:1|p11,CA,NULL
+ivsel:Jones08|exp:1|p13,PR,NULL
+ivsel:Jones08|exp:1|p13,RT,NULL
+ivsel:Jones08|exp:1|p13,IN,NULL
+ivsel:Jones08|exp:1|p13,CA,NULL
+ivsel:Jones08|exp:2|p3,PR,NULL
+ivsel:Jones08|exp:2|p3,RT,NULL
+ivsel:Jones08|exp:2|p3,IN,NULL
+ivsel:Jones08|exp:2|p3,CA,NULL
+ivsel:Jones08|exp:2|p6,PR,NULL
+ivsel:Jones08|exp:2|p6,RT,NULL
+ivsel:Jones08|exp:2|p6,IN,NULL
+ivsel:Jones08|exp:2|p6,CA,NULL
+ivsel:Jones08|exp:2|p9,PR,NULL
+ivsel:Jones08|exp:2|p9,RT,NULL
+ivsel:Jones08|exp:2|p9,IN,NULL
+ivsel:Jones08|exp:2|p9,CA,NULL
+ivsel:Jones08|exp:2|p12,PR,NULL
+ivsel:Jones08|exp:2|p12,RT,NULL
+ivsel:Jones08|exp:2|p12,IN,NULL
+ivsel:Jones08|exp:2|p12,CA,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|18d,PR,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|18d,RT,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|18d,IN,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|18d,CA,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|42d,PR,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|42d,RT,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|42d,IN,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|42d,CA,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|56d,PR,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|56d,RT,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|56d,IN,NULL
+ivsel:Garvey08|Naphthyridinone|exp:1|56d,CA,NULL
+ivsel:Garvey08|EVG|exp:1|13d,PR,NULL
+ivsel:Garvey08|EVG|exp:1|13d,RT,NULL
+ivsel:Garvey08|EVG|exp:1|13d,IN,NULL
+ivsel:Garvey08|EVG|exp:1|13d,CA,NULL
+ivsel:Garvey08|EVG|exp:1|18d,PR,NULL
+ivsel:Garvey08|EVG|exp:1|18d,RT,NULL
+ivsel:Garvey08|EVG|exp:1|18d,IN,NULL
+ivsel:Garvey08|EVG|exp:1|18d,CA,NULL
+ivsel:Garvey08|EVG|exp:1|42d,PR,NULL
+ivsel:Garvey08|EVG|exp:1|42d,RT,NULL
+ivsel:Garvey08|EVG|exp:1|42d,IN,NULL
+ivsel:Garvey08|EVG|exp:1|42d,CA,NULL
+ivsel:Garvey08|EVG|exp:1|56d,PR,NULL
+ivsel:Garvey08|EVG|exp:1|56d,RT,NULL
+ivsel:Garvey08|EVG|exp:1|56d,IN,NULL
+ivsel:Garvey08|EVG|exp:1|56d,CA,NULL
+ivsel:Garvey08|3TC|exp:1|13d,PR,NULL
+ivsel:Garvey08|3TC|exp:1|13d,RT,NULL
+ivsel:Garvey08|3TC|exp:1|13d,IN,NULL
+ivsel:Garvey08|3TC|exp:1|13d,CA,NULL
+ivsel:Garvey08|3TC|exp:1|18d,PR,NULL
+ivsel:Garvey08|3TC|exp:1|18d,RT,NULL
+ivsel:Garvey08|3TC|exp:1|18d,IN,NULL
+ivsel:Garvey08|3TC|exp:1|18d,CA,NULL
+r13816,PR,NULL
+r13816,RT,NULL
+r13816,IN,NULL
+r13816,CA,NULL
+ivsel:Azijn10|r13816|exp:1|69d,PR,NULL
+ivsel:Azijn10|r13816|exp:1|69d,RT,NULL
+ivsel:Azijn10|r13816|exp:1|69d,IN,NULL
+ivsel:Azijn10|r13816|exp:1|69d,CA,NULL
+ivsel:Azijn10|r13816|exp:2|109d,PR,NULL
+ivsel:Azijn10|r13816|exp:2|109d,RT,NULL
+ivsel:Azijn10|r13816|exp:2|109d,IN,NULL
+ivsel:Azijn10|r13816|exp:2|109d,CA,NULL
+r13817,PR,NULL
+r13817,RT,NULL
+r13817,IN,NULL
+r13817,CA,NULL
+ivsel:Azijn10|r13817|exp:1|107d,PR,NULL
+ivsel:Azijn10|r13817|exp:1|107d,RT,NULL
+ivsel:Azijn10|r13817|exp:1|107d,IN,NULL
+ivsel:Azijn10|r13817|exp:1|107d,CA,NULL
+ivsel:Azijn10|r13817|exp:1|293d,PR,NULL
+ivsel:Azijn10|r13817|exp:1|293d,RT,NULL
+ivsel:Azijn10|r13817|exp:1|293d,IN,NULL
+ivsel:Azijn10|r13817|exp:1|293d,CA,NULL
+r13813,PR,NULL
+r13813,RT,NULL
+r13813,IN,NULL
+r13813,CA,NULL
+ivsel:Azijn10|r13813|exp:1|108d,PR,NULL
+ivsel:Azijn10|r13813|exp:1|108d,RT,NULL
+ivsel:Azijn10|r13813|exp:1|108d,IN,NULL
+ivsel:Azijn10|r13813|exp:1|108d,CA,NULL
+ivsel:Azijn10|IIIB|exp:1|69d,PR,NULL
+ivsel:Azijn10|IIIB|exp:1|69d,RT,NULL
+ivsel:Azijn10|IIIB|exp:1|69d,IN,NULL
+ivsel:Azijn10|IIIB|exp:1|69d,CA,NULL
+ivsel:Azijn10|IIIB|exp:1|90d,PR,NULL
+ivsel:Azijn10|IIIB|exp:1|90d,RT,NULL
+ivsel:Azijn10|IIIB|exp:1|90d,IN,NULL
+ivsel:Azijn10|IIIB|exp:1|90d,CA,NULL
+ivsel:Azijn10|IIIB|exp:1|121d,PR,NULL
+ivsel:Azijn10|IIIB|exp:1|121d,RT,NULL
+ivsel:Azijn10|IIIB|exp:1|121d,IN,NULL
+ivsel:Azijn10|IIIB|exp:1|121d,CA,NULL
+ivsel:Azijn10|IIIB|exp:2|66d,PR,NULL
+ivsel:Azijn10|IIIB|exp:2|66d,RT,NULL
+ivsel:Azijn10|IIIB|exp:2|66d,IN,NULL
+ivsel:Azijn10|IIIB|exp:2|66d,CA,NULL
+ivsel:Azijn10|IIIB|exp:2|108d,PR,NULL
+ivsel:Azijn10|IIIB|exp:2|108d,RT,NULL
+ivsel:Azijn10|IIIB|exp:2|108d,IN,NULL
+ivsel:Azijn10|IIIB|exp:2|108d,CA,NULL
+ivsel:Azijn10|IIIB|exp:2|122d,PR,NULL
+ivsel:Azijn10|IIIB|exp:2|122d,RT,NULL
+ivsel:Azijn10|IIIB|exp:2|122d,IN,NULL
+ivsel:Azijn10|IIIB|exp:2|122d,CA,NULL
+ivsel:Azijn10|IIIB|exp:3|34d,PR,NULL
+ivsel:Azijn10|IIIB|exp:3|34d,RT,NULL
+ivsel:Azijn10|IIIB|exp:3|34d,IN,NULL
+ivsel:Azijn10|IIIB|exp:3|34d,CA,NULL
+ivsel:Azijn10|IIIB|exp:3|59d,PR,NULL
+ivsel:Azijn10|IIIB|exp:3|59d,RT,NULL
+ivsel:Azijn10|IIIB|exp:3|59d,IN,NULL
+ivsel:Azijn10|IIIB|exp:3|59d,CA,NULL
+ivsel:Azijn10|IIIB|exp:4|34d,PR,NULL
+ivsel:Azijn10|IIIB|exp:4|34d,RT,NULL
+ivsel:Azijn10|IIIB|exp:4|34d,IN,NULL
+ivsel:Azijn10|IIIB|exp:4|34d,CA,NULL
+ivsel:Azijn10|IIIB|exp:4|62d,PR,NULL
+ivsel:Azijn10|IIIB|exp:4|62d,RT,NULL
+ivsel:Azijn10|IIIB|exp:4|62d,IN,NULL
+ivsel:Azijn10|IIIB|exp:4|62d,CA,NULL
+ivsel:Azijn10|IIIB|exp:4|90d,PR,NULL
+ivsel:Azijn10|IIIB|exp:4|90d,RT,NULL
+ivsel:Azijn10|IIIB|exp:4|90d,IN,NULL
+ivsel:Azijn10|IIIB|exp:4|90d,CA,NULL
+ivsel:Azijn10|IIIB|exp:5|32d,PR,NULL
+ivsel:Azijn10|IIIB|exp:5|32d,RT,NULL
+ivsel:Azijn10|IIIB|exp:5|32d,IN,NULL
+ivsel:Azijn10|IIIB|exp:5|32d,CA,NULL
+ivsel:Azijn10|IIIB|exp:5|52d,PR,NULL
+ivsel:Azijn10|IIIB|exp:5|52d,RT,NULL
+ivsel:Azijn10|IIIB|exp:5|52d,IN,NULL
+ivsel:Azijn10|IIIB|exp:5|52d,CA,NULL
+ivsel:Azijn10|IIIB|exp:5|70d,PR,NULL
+ivsel:Azijn10|IIIB|exp:5|70d,RT,NULL
+ivsel:Azijn10|IIIB|exp:5|70d,IN,NULL
+ivsel:Azijn10|IIIB|exp:5|70d,CA,NULL
+ivsel:Azijn10|IIIB|exp:6|116d,PR,NULL
+ivsel:Azijn10|IIIB|exp:6|116d,RT,NULL
+ivsel:Azijn10|IIIB|exp:6|116d,IN,NULL
+ivsel:Azijn10|IIIB|exp:6|116d,CA,NULL
+v071130,PR,NULL
+v071130,RT,NULL
+v071130,IN,NULL
+v071130,CA,NULL
+ivsel:Azijn10|v071130|exp:1|128d,PR,NULL
+ivsel:Azijn10|v071130|exp:1|128d,RT,NULL
+ivsel:Azijn10|v071130|exp:1|128d,IN,NULL
+ivsel:Azijn10|v071130|exp:1|128d,CA,NULL
+ivsel:Azijn10|v071130|exp:1|276d,PR,NULL
+ivsel:Azijn10|v071130|exp:1|276d,RT,NULL
+ivsel:Azijn10|v071130|exp:1|276d,IN,NULL
+ivsel:Azijn10|v071130|exp:1|276d,CA,NULL
+v071038,PR,NULL
+v071038,RT,NULL
+v071038,IN,NULL
+v071038,CA,NULL
+ivsel:Azijn10|v071038|exp:1|93d,PR,NULL
+ivsel:Azijn10|v071038|exp:1|93d,RT,NULL
+ivsel:Azijn10|v071038|exp:1|93d,IN,NULL
+ivsel:Azijn10|v071038|exp:1|93d,CA,NULL
+ivsel:Azijn10|v071038|exp:1|139d,PR,NULL
+ivsel:Azijn10|v071038|exp:1|139d,RT,NULL
+ivsel:Azijn10|v071038|exp:1|139d,IN,NULL
+ivsel:Azijn10|v071038|exp:1|139d,CA,NULL
+ivsel:Azijn10|v071038|exp:1|163d,PR,NULL
+ivsel:Azijn10|v071038|exp:1|163d,RT,NULL
+ivsel:Azijn10|v071038|exp:1|163d,IN,NULL
+ivsel:Azijn10|v071038|exp:1|163d,CA,NULL
+SM041,PR,NULL
+SM041,RT,NULL
+SM041,IN,NULL
+SM041,CA,NULL
+ivsel:Azijn10|SM041|exp:1|90d,PR,NULL
+ivsel:Azijn10|SM041|exp:1|90d,RT,NULL
+ivsel:Azijn10|SM041|exp:1|90d,IN,NULL
+ivsel:Azijn10|SM041|exp:1|90d,CA,NULL
+ivsel:Azijn10|SM041|exp:1|160d,PR,NULL
+ivsel:Azijn10|SM041|exp:1|160d,RT,NULL
+ivsel:Azijn10|SM041|exp:1|160d,IN,NULL
+ivsel:Azijn10|SM041|exp:1|160d,CA,NULL
+ivsel:Azijn10|SM041|exp:1|212d,PR,NULL
+ivsel:Azijn10|SM041|exp:1|212d,RT,NULL
+ivsel:Azijn10|SM041|exp:1|212d,IN,NULL
+ivsel:Azijn10|SM041|exp:1|212d,CA,NULL
+SM051,PR,NULL
+SM051,RT,NULL
+SM051,IN,NULL
+SM051,CA,NULL
+ivsel:Azijn10|SM051|exp:1|93d,PR,NULL
+ivsel:Azijn10|SM051|exp:1|93d,RT,NULL
+ivsel:Azijn10|SM051|exp:1|93d,IN,NULL
+ivsel:Azijn10|SM051|exp:1|93d,CA,NULL
+SM052,PR,NULL
+SM052,RT,NULL
+SM052,IN,NULL
+SM052,CA,NULL
+ivsel:Azijn10|SM052|exp:1|118d,PR,NULL
+ivsel:Azijn10|SM052|exp:1|118d,RT,NULL
+ivsel:Azijn10|SM052|exp:1|118d,IN,NULL
+ivsel:Azijn10|SM052|exp:1|118d,CA,NULL
+SDM020001,PR,NULL
+SDM020001,RT,NULL
+SDM020001,IN,NULL
+SDM020001,CA,NULL
+ivsel:Azijn10|SDM020001|exp:1|161d,PR,NULL
+ivsel:Azijn10|SDM020001|exp:1|161d,RT,NULL
+ivsel:Azijn10|SDM020001|exp:1|161d,IN,NULL
+ivsel:Azijn10|SDM020001|exp:1|161d,CA,NULL
+SDM020059,PR,NULL
+SDM020059,RT,NULL
+SDM020059,IN,NULL
+SDM020059,CA,NULL
+ivsel:Azijn10|SDM020059|exp:1|171d,PR,NULL
+ivsel:Azijn10|SDM020059|exp:1|171d,RT,NULL
+ivsel:Azijn10|SDM020059|exp:1|171d,IN,NULL
+ivsel:Azijn10|SDM020059|exp:1|171d,CA,NULL
+r9602,PR,NULL
+r9602,RT,NULL
+r9602,IN,NULL
+r9602,CA,NULL
+ivsel:Azijn10|r9602|exp:1|28d,PR,NULL
+ivsel:Azijn10|r9602|exp:1|28d,RT,NULL
+ivsel:Azijn10|r9602|exp:1|28d,IN,NULL
+ivsel:Azijn10|r9602|exp:1|28d,CA,NULL
+ivsel:Azijn10|r9602|exp:1|52d,PR,NULL
+ivsel:Azijn10|r9602|exp:1|52d,RT,NULL
+ivsel:Azijn10|r9602|exp:1|52d,IN,NULL
+ivsel:Azijn10|r9602|exp:1|52d,CA,NULL
+ivsel:Azijn10|r9602|exp:1|63d,PR,NULL
+ivsel:Azijn10|r9602|exp:1|63d,RT,NULL
+ivsel:Azijn10|r9602|exp:1|63d,IN,NULL
+ivsel:Azijn10|r9602|exp:1|63d,CA,NULL
+ivsel:Azijn10|r9602|exp:2|74d,PR,NULL
+ivsel:Azijn10|r9602|exp:2|74d,RT,NULL
+ivsel:Azijn10|r9602|exp:2|74d,IN,NULL
+ivsel:Azijn10|r9602|exp:2|74d,CA,NULL
+ivsel:Azijn10|r9602|exp:2|109d,PR,NULL
+ivsel:Azijn10|r9602|exp:2|109d,RT,NULL
+ivsel:Azijn10|r9602|exp:2|109d,IN,NULL
+ivsel:Azijn10|r9602|exp:2|109d,CA,NULL
+ivsel:Goethals08|exp:1|p5,PR,NULL
+ivsel:Goethals08|exp:1|p5,RT,NULL
+ivsel:Goethals08|exp:1|p5,IN,NULL
+ivsel:Goethals08|exp:1|p5,CA,NULL
+ivsel:Goethals08|exp:1|p7,PR,NULL
+ivsel:Goethals08|exp:1|p7,RT,NULL
+ivsel:Goethals08|exp:1|p7,IN,NULL
+ivsel:Goethals08|exp:1|p7,CA,NULL
+ivsel:Goethals08|exp:1|p9,PR,NULL
+ivsel:Goethals08|exp:1|p9,RT,NULL
+ivsel:Goethals08|exp:1|p9,IN,NULL
+ivsel:Goethals08|exp:1|p9,CA,NULL
+ivsel:Goethals08|exp:1|p11,PR,NULL
+ivsel:Goethals08|exp:1|p11,RT,NULL
+ivsel:Goethals08|exp:1|p11,IN,NULL
+ivsel:Goethals08|exp:1|p11,CA,NULL
+ivsel:Goethals08|exp:1|p13,PR,NULL
+ivsel:Goethals08|exp:1|p13,RT,NULL
+ivsel:Goethals08|exp:1|p13,IN,NULL
+ivsel:Goethals08|exp:1|p13,CA,NULL
+ivsel:Goethals08|exp:1|p15,PR,NULL
+ivsel:Goethals08|exp:1|p15,RT,NULL
+ivsel:Goethals08|exp:1|p15,IN,NULL
+ivsel:Goethals08|exp:1|p15,CA,NULL
+ivsel:Goethals08|exp:1|p18,PR,NULL
+ivsel:Goethals08|exp:1|p18,RT,NULL
+ivsel:Goethals08|exp:1|p18,IN,NULL
+ivsel:Goethals08|exp:1|p18,CA,NULL
+ivsel:Goethals08|exp:1|p22,PR,NULL
+ivsel:Goethals08|exp:1|p22,RT,NULL
+ivsel:Goethals08|exp:1|p22,IN,NULL
+ivsel:Goethals08|exp:1|p22,CA,NULL
+ivsel:Goethals08|exp:1|p25,PR,NULL
+ivsel:Goethals08|exp:1|p25,RT,NULL
+ivsel:Goethals08|exp:1|p25,IN,NULL
+ivsel:Goethals08|exp:1|p25,CA,NULL
+ivsel:Goethals08|exp:1|p28,PR,NULL
+ivsel:Goethals08|exp:1|p28,RT,NULL
+ivsel:Goethals08|exp:1|p28,IN,NULL
+ivsel:Goethals08|exp:1|p28,CA,NULL
+ivsel:Goethals08|exp:1|p31,PR,NULL
+ivsel:Goethals08|exp:1|p31,RT,NULL
+ivsel:Goethals08|exp:1|p31,IN,NULL
+ivsel:Goethals08|exp:1|p31,CA,NULL
+ivsel:Goethals08|exp:1|p35,PR,NULL
+ivsel:Goethals08|exp:1|p35,RT,NULL
+ivsel:Goethals08|exp:1|p35,IN,NULL
+ivsel:Goethals08|exp:1|p35,CA,NULL
+ivsel:Goethals08|exp:1|p41,PR,NULL
+ivsel:Goethals08|exp:1|p41,RT,NULL
+ivsel:Goethals08|exp:1|p41,IN,NULL
+ivsel:Goethals08|exp:1|p41,CA,NULL
+ivsel:Corbau10|Lersivirine|exp:1|p9,RT,NULL
+ivsel:Corbau10|Lersivirine|exp:1|p9,IN,NULL
+ivsel:Corbau10|Lersivirine|exp:1|p9,CA,NULL
+ivsel:Corbau10|Lersivirine|exp:1|p11,RT,NULL
+ivsel:Corbau10|Lersivirine|exp:1|p11,IN,NULL
+ivsel:Corbau10|Lersivirine|exp:1|p11,CA,NULL
+ivsel:Corbau10|Lersivirine|exp:2|p11,RT,NULL
+ivsel:Corbau10|Lersivirine|exp:2|p11,IN,NULL
+ivsel:Corbau10|Lersivirine|exp:2|p11,CA,NULL
+ivsel:Corbau10|EFV|exp:1|p11,RT,NULL
+ivsel:Corbau10|EFV|exp:1|p11,IN,NULL
+ivsel:Corbau10|EFV|exp:1|p11,CA,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|17w,RT,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|17w,IN,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|17w,CA,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3|DTG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3|EVG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3|EVG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3|EVG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3|EVG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3|EVG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3|EVG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3|RAL|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3|RAL|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3|RAL|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3|RAL|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3|RAL|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3|RAL|exp:1|22w,CA,NULL
+NL4-3 (M184I),RT,NULL
+NL4-3 (M184I),IN,NULL
+NL4-3 (M184I),CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|26w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|26w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|26w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|EVG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|EVG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|EVG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|EVG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|EVG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|EVG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|RAL|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|RAL|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|RAL|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|RAL|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|RAL|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184I)|RAL|exp:1|22w,CA,NULL
+NL4-3 (M184V),RT,NULL
+NL4-3 (M184V),IN,NULL
+NL4-3 (M184V),CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|26w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|26w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|DTG|exp:1|26w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|EVG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|EVG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|EVG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|EVG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|EVG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|EVG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|RAL|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|RAL|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|RAL|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|RAL|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|RAL|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (M184V)|RAL|exp:1|22w,CA,NULL
+NL4-3 (K65R),RT,NULL
+NL4-3 (K65R),IN,NULL
+NL4-3 (K65R),CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|26w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|26w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|DTG|exp:1|26w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|EVG|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|EVG|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|EVG|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|EVG|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|EVG|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|EVG|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|12w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|12w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|12w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|22w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|22w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|22w,CA,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|26w,RT,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|26w,IN,NULL
+ivsel:Oliveira16|NL4-3 (K65R)|RAL|exp:1|26w,CA,NULL
+ivsel:Carrillo98|exp:1|p6,PR,NULL
+ivsel:Carrillo98|exp:1|p6,RT,NULL
+ivsel:Carrillo98|exp:1|p6,IN,NULL
+ivsel:Carrillo98|exp:1|p6,CA,NULL
+ivsel:Carrillo98|exp:1|p7,PR,NULL
+ivsel:Carrillo98|exp:1|p7,RT,NULL
+ivsel:Carrillo98|exp:1|p7,IN,NULL
+ivsel:Carrillo98|exp:1|p7,CA,NULL
+ivsel:Carrillo98|exp:1|p11,PR,NULL
+ivsel:Carrillo98|exp:1|p11,RT,NULL
+ivsel:Carrillo98|exp:1|p11,IN,NULL
+ivsel:Carrillo98|exp:1|p11,CA,NULL
+ivsel:Carrillo98|exp:1|p12,PR,NULL
+ivsel:Carrillo98|exp:1|p12,RT,NULL
+ivsel:Carrillo98|exp:1|p12,IN,NULL
+ivsel:Carrillo98|exp:1|p12,CA,NULL
+ivsel:Carrillo98|exp:1|p13,PR,NULL
+ivsel:Carrillo98|exp:1|p13,RT,NULL
+ivsel:Carrillo98|exp:1|p13,IN,NULL
+ivsel:Carrillo98|exp:1|p13,CA,NULL
+ivsel:Carrillo98|exp:1|p14,PR,NULL
+ivsel:Carrillo98|exp:1|p14,RT,NULL
+ivsel:Carrillo98|exp:1|p14,IN,NULL
+ivsel:Carrillo98|exp:1|p14,CA,NULL
+ivsel:Carrillo98|exp:1|p15,PR,NULL
+ivsel:Carrillo98|exp:1|p15,RT,NULL
+ivsel:Carrillo98|exp:1|p15,IN,NULL
+ivsel:Carrillo98|exp:1|p15,CA,NULL
+ivsel:Carrillo98|exp:1|p16,PR,NULL
+ivsel:Carrillo98|exp:1|p16,RT,NULL
+ivsel:Carrillo98|exp:1|p16,IN,NULL
+ivsel:Carrillo98|exp:1|p16,CA,NULL
+ivsel:Carrillo98|exp:1|p17,PR,NULL
+ivsel:Carrillo98|exp:1|p17,RT,NULL
+ivsel:Carrillo98|exp:1|p17,IN,NULL
+ivsel:Carrillo98|exp:1|p17,CA,NULL
+ivsel:Carrillo98|exp:1|p25,PR,NULL
+ivsel:Carrillo98|exp:1|p25,RT,NULL
+ivsel:Carrillo98|exp:1|p25,IN,NULL
+ivsel:Carrillo98|exp:1|p25,CA,NULL
+ivsel:Carrillo98|exp:1|p29,PR,NULL
+ivsel:Carrillo98|exp:1|p29,RT,NULL
+ivsel:Carrillo98|exp:1|p29,IN,NULL
+ivsel:Carrillo98|exp:1|p29,CA,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,PR,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,RT,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,IN,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,CA,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p5,PR,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p5,RT,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p5,IN,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p5,CA,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p6,PR,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p6,RT,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p6,IN,NULL
+ivsel:Tisdale95|HXB2|A-77003|exp:1|p6,CA,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p1,PR,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p1,RT,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p1,IN,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p1,CA,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p4,PR,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p4,RT,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p4,IN,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p4,CA,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p6,PR,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p6,RT,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p6,IN,NULL
+ivsel:Tisdale95|HXB2|XM323|exp:1|p6,CA,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p4,PR,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p4,RT,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p4,IN,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p4,CA,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p6,PR,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p6,RT,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p6,IN,NULL
+ivsel:Tisdale95|HXB2|SQV|exp:1|p6,CA,NULL
+RTMC,PR,NULL
+RTMC,RT,NULL
+RTMC,IN,NULL
+RTMC,CA,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p3,PR,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p3,RT,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p3,IN,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p3,CA,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p5,PR,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p5,RT,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p5,IN,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p5,CA,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p6,PR,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p6,RT,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p6,IN,NULL
+ivsel:Tisdale95|RTMC|SQV|exp:1|p6,CA,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p2,PR,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p2,RT,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p2,IN,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p2,CA,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p4,PR,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p4,RT,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p4,IN,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p4,CA,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p6,PR,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p6,RT,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p6,IN,NULL
+ivsel:Tisdale95|HXB2|APV|exp:1|p6,CA,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p3,PR,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p3,RT,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p3,IN,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p3,CA,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p5,PR,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p5,RT,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p5,IN,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p5,CA,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p6,PR,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p6,RT,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p6,IN,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p6,CA,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p8,PR,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p8,RT,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p8,IN,NULL
+ivsel:Tisdale95|HXB2|IDV|exp:1|p8,CA,NULL
+RD01 (215C),PR,NULL
+RD01 (215C),RT,NULL
+RD01 (215C),IN,NULL
+RD01 (215C),CA,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD01 (215C)|exp:1|p6,CA,NULL
+RD02 (210W/215C),PR,NULL
+RD02 (210W/215C),RT,NULL
+RD02 (210W/215C),IN,NULL
+RD02 (210W/215C),CA,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD02 (210W/215C)|exp:1|p6,CA,NULL
+RD03 (41L/210W/215C),PR,NULL
+RD03 (41L/210W/215C),RT,NULL
+RD03 (41L/210W/215C),IN,NULL
+RD03 (41L/210W/215C),CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p3,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p3,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p3,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p3,CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p6,CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p7,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p7,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p7,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p7,CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p8,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p8,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p8,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p8,CA,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p9,PR,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p9,RT,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p9,IN,NULL
+ivsel:García-Lerma03|RD03 (41L/210W/215C)|exp:1|p9,CA,NULL
+RD04 (210W/215D),PR,NULL
+RD04 (210W/215D),RT,NULL
+RD04 (210W/215D),IN,NULL
+RD04 (210W/215D),CA,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p6,CA,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p7,PR,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p7,RT,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p7,IN,NULL
+ivsel:García-Lerma03|RD04 (210W/215D)|exp:1|p7,CA,NULL
+RD05 (41L/215D),PR,NULL
+RD05 (41L/215D),RT,NULL
+RD05 (41L/215D),IN,NULL
+RD05 (41L/215D),CA,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p6,CA,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p7,PR,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p7,RT,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p7,IN,NULL
+ivsel:García-Lerma03|RD05 (41L/215D)|exp:1|p7,CA,NULL
+HXB2 (215D),PR,NULL
+HXB2 (215D),RT,NULL
+HXB2 (215D),IN,NULL
+HXB2 (215D),CA,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p6,CA,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p7,PR,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p7,RT,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p7,IN,NULL
+ivsel:García-Lerma03|HXB2 (215D)|exp:1|p7,CA,NULL
+RD22 (WT),PR,NULL
+RD22 (WT),RT,NULL
+RD22 (WT),IN,NULL
+RD22 (WT),CA,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p3,PR,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p3,RT,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p3,IN,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p3,CA,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p6,CA,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p7,PR,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p7,RT,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p7,IN,NULL
+ivsel:García-Lerma03|RD22 (WT)|exp:1|p7,CA,NULL
+RD23 (WT),PR,NULL
+RD23 (WT),RT,NULL
+RD23 (WT),IN,NULL
+RD23 (WT),CA,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p3,PR,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p3,RT,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p3,IN,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p3,CA,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|RD23 (WT)|exp:1|p6,CA,NULL
+HXB2 (T215),PR,NULL
+HXB2 (T215),RT,NULL
+HXB2 (T215),IN,NULL
+HXB2 (T215),CA,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p4,PR,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p4,RT,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p4,IN,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p4,CA,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p5,PR,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p5,RT,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p5,IN,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p5,CA,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p6,PR,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p6,RT,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p6,IN,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p6,CA,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p7,PR,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p7,RT,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p7,IN,NULL
+ivsel:García-Lerma03|HXB2 (T215)|exp:1|p7,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p4,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p4,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p4,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p4,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p8,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p8,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p8,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p8,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p12,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p12,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p12,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p12,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p16,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p16,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p16,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p16,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p20,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p20,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p20,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p20,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p24,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p24,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p24,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p24,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p28,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p28,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p28,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p28,CA,NULL
+ivsel:Kobayashi11|DTG|exp:1|p32,PR,NULL
+ivsel:Kobayashi11|DTG|exp:1|p32,RT,NULL
+ivsel:Kobayashi11|DTG|exp:1|p32,IN,NULL
+ivsel:Kobayashi11|DTG|exp:1|p32,CA,NULL
+ivsel:Kobayashi11|RAL|exp:1|p4,PR,NULL
+ivsel:Kobayashi11|RAL|exp:1|p4,RT,NULL
+ivsel:Kobayashi11|RAL|exp:1|p4,IN,NULL
+ivsel:Kobayashi11|RAL|exp:1|p4,CA,NULL
+ivsel:Kobayashi11|RAL|exp:1|p8,PR,NULL
+ivsel:Kobayashi11|RAL|exp:1|p8,RT,NULL
+ivsel:Kobayashi11|RAL|exp:1|p8,IN,NULL
+ivsel:Kobayashi11|RAL|exp:1|p8,CA,NULL
+ivsel:Kobayashi11|RAL|exp:1|p12,PR,NULL
+ivsel:Kobayashi11|RAL|exp:1|p12,RT,NULL
+ivsel:Kobayashi11|RAL|exp:1|p12,IN,NULL
+ivsel:Kobayashi11|RAL|exp:1|p12,CA,NULL
+ivsel:Kobayashi11|RAL|exp:1|p16,PR,NULL
+ivsel:Kobayashi11|RAL|exp:1|p16,RT,NULL
+ivsel:Kobayashi11|RAL|exp:1|p16,IN,NULL
+ivsel:Kobayashi11|RAL|exp:1|p16,CA,NULL
+ivsel:Kobayashi11|RAL|exp:1|p20,PR,NULL
+ivsel:Kobayashi11|RAL|exp:1|p20,RT,NULL
+ivsel:Kobayashi11|RAL|exp:1|p20,IN,NULL
+ivsel:Kobayashi11|RAL|exp:1|p20,CA,NULL
+ivsel:Kobayashi11|RAL|exp:1|p24,PR,NULL
+ivsel:Kobayashi11|RAL|exp:1|p24,RT,NULL
+ivsel:Kobayashi11|RAL|exp:1|p24,IN,NULL
+ivsel:Kobayashi11|RAL|exp:1|p24,CA,NULL
+ivsel:Kobayashi11|3TC|exp:1|p4,PR,NULL
+ivsel:Kobayashi11|3TC|exp:1|p4,RT,NULL
+ivsel:Kobayashi11|3TC|exp:1|p4,IN,NULL
+ivsel:Kobayashi11|3TC|exp:1|p4,CA,NULL
+ivsel:Kobayashi11|3TC|exp:1|p8,PR,NULL
+ivsel:Kobayashi11|3TC|exp:1|p8,RT,NULL
+ivsel:Kobayashi11|3TC|exp:1|p8,IN,NULL
+ivsel:Kobayashi11|3TC|exp:1|p8,CA,NULL
+ivsel:Kobayashi11|3TC|exp:1|p12,PR,NULL
+ivsel:Kobayashi11|3TC|exp:1|p12,RT,NULL
+ivsel:Kobayashi11|3TC|exp:1|p12,IN,NULL
+ivsel:Kobayashi11|3TC|exp:1|p12,CA,NULL
+ivsel:Fikkert04|exp:1|p30,PR,NULL
+ivsel:Fikkert04|exp:1|p30,RT,NULL
+ivsel:Fikkert04|exp:1|p30,IN,NULL
+ivsel:Fikkert04|exp:1|p30,CA,NULL
+ivsel:Fikkert04|exp:1|p40,PR,NULL
+ivsel:Fikkert04|exp:1|p40,RT,NULL
+ivsel:Fikkert04|exp:1|p40,IN,NULL
+ivsel:Fikkert04|exp:1|p40,CA,NULL
+ivsel:Fikkert04|exp:1|p50,PR,NULL
+ivsel:Fikkert04|exp:1|p50,RT,NULL
+ivsel:Fikkert04|exp:1|p50,IN,NULL
+ivsel:Fikkert04|exp:1|p50,CA,NULL
+ivsel:Fikkert04|exp:1|p60,PR,NULL
+ivsel:Fikkert04|exp:1|p60,RT,NULL
+ivsel:Fikkert04|exp:1|p60,IN,NULL
+ivsel:Fikkert04|exp:1|p60,CA,NULL
+ivsel:Fikkert04|exp:1|p70,PR,NULL
+ivsel:Fikkert04|exp:1|p70,RT,NULL
+ivsel:Fikkert04|exp:1|p70,IN,NULL
+ivsel:Fikkert04|exp:1|p70,CA,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p11,PR,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p11,RT,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p11,IN,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p11,CA,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p14,PR,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p14,RT,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p14,IN,NULL
+ivsel:Kobayashi08|S-1360|exp:Mixed|p14,CA,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p11,PR,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p11,RT,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p11,IN,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p11,CA,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p14,PR,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p14,RT,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p14,IN,NULL
+ivsel:Kobayashi08|Capravirine|exp:Mixed|p14,CA,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p11,PR,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p11,RT,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p11,IN,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p11,CA,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p14,PR,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p14,RT,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p14,IN,NULL
+ivsel:Kobayashi08|EFV|exp:Mixed|p14,CA,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|NVP|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p12,PR,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p12,RT,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p12,IN,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p12,CA,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p16,PR,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p16,RT,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p16,IN,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p16,CA,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p20,PR,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p20,RT,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p20,IN,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p20,CA,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p24,PR,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p24,RT,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p24,IN,NULL
+ivsel:Kobayashi08|Naphthyridinone|exp:Mixed|p24,CA,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p12,PR,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p12,RT,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p12,IN,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p12,CA,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p16,PR,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p16,RT,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p16,IN,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p16,CA,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p20,PR,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p20,RT,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p20,IN,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p20,CA,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p24,PR,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p24,RT,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p24,IN,NULL
+ivsel:Kobayashi08|RAL|exp:Mixed|p24,CA,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p12,PR,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p12,RT,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p12,IN,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p12,CA,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p16,PR,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p16,RT,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p16,IN,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p16,CA,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p20,PR,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p20,RT,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p20,IN,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p20,CA,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p24,PR,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p24,RT,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p24,IN,NULL
+ivsel:Kobayashi08|L-870810|exp:Mixed|p24,CA,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p12,PR,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p12,RT,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p12,IN,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p12,CA,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p16,PR,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p16,RT,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p16,IN,NULL
+ivsel:Kobayashi08|EVG|exp:Mixed|p16,CA,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p4,PR,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p4,RT,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p4,IN,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p4,CA,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p8,PR,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p8,RT,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p8,IN,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p8,CA,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p12,PR,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p12,RT,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p12,IN,NULL
+ivsel:Kobayashi08|3TC|exp:Mixed|p12,CA,NULL
+ivsel:DeMeyer05|exp:1|p14,PR,NULL
+ivsel:DeMeyer05|exp:1|p14,RT,NULL
+ivsel:DeMeyer05|exp:1|p14,IN,NULL
+ivsel:DeMeyer05|exp:1|p14,CA,NULL
+ivsel:DeMeyer05|exp:1|p29,PR,NULL
+ivsel:DeMeyer05|exp:1|p29,RT,NULL
+ivsel:DeMeyer05|exp:1|p29,IN,NULL
+ivsel:DeMeyer05|exp:1|p29,CA,NULL
+ivsel:DeMeyer05|exp:1|p54,PR,NULL
+ivsel:DeMeyer05|exp:1|p54,RT,NULL
+ivsel:DeMeyer05|exp:1|p54,IN,NULL
+ivsel:DeMeyer05|exp:1|p54,CA,NULL
+ivsel:DeMeyer05|exp:1|p75,PR,NULL
+ivsel:DeMeyer05|exp:1|p75,RT,NULL
+ivsel:DeMeyer05|exp:1|p75,IN,NULL
+ivsel:DeMeyer05|exp:1|p75,CA,NULL
+ivsel:DeMeyer05|exp:1|p42,PR,NULL
+ivsel:DeMeyer05|exp:1|p42,RT,NULL
+ivsel:DeMeyer05|exp:1|p42,IN,NULL
+ivsel:DeMeyer05|exp:1|p42,CA,NULL
+ivsel:DeMeyer05|exp:1|p40,PR,NULL
+ivsel:DeMeyer05|exp:1|p40,RT,NULL
+ivsel:DeMeyer05|exp:1|p40,IN,NULL
+ivsel:DeMeyer05|exp:1|p40,CA,NULL
+ivsel:DeMeyer05|exp:1|p56,PR,NULL
+ivsel:DeMeyer05|exp:1|p56,RT,NULL
+ivsel:DeMeyer05|exp:1|p56,IN,NULL
+ivsel:DeMeyer05|exp:1|p56,CA,NULL
+ivsel:Jones09|exp:1|p5,PR,NULL
+ivsel:Jones09|exp:1|p5,RT,NULL
+ivsel:Jones09|exp:1|p5,IN,NULL
+ivsel:Jones09|exp:1|p5,CA,NULL
+ivsel:Jones09|exp:1|p6,PR,NULL
+ivsel:Jones09|exp:1|p6,RT,NULL
+ivsel:Jones09|exp:1|p6,IN,NULL
+ivsel:Jones09|exp:1|p6,CA,NULL
+ivsel:Jones09|exp:1|p8,PR,NULL
+ivsel:Jones09|exp:1|p8,RT,NULL
+ivsel:Jones09|exp:1|p8,IN,NULL
+ivsel:Jones09|exp:1|p8,CA,NULL
+ivsel:Jones09|exp:1|p9,PR,NULL
+ivsel:Jones09|exp:1|p9,RT,NULL
+ivsel:Jones09|exp:1|p9,IN,NULL
+ivsel:Jones09|exp:1|p9,CA,NULL
+ivsel:Jacobsen95|exp:1|p7,PR,NULL
+ivsel:Jacobsen95|exp:1|p7,RT,NULL
+ivsel:Jacobsen95|exp:1|p7,IN,NULL
+ivsel:Jacobsen95|exp:1|p7,CA,NULL
+ivsel:Jacobsen95|exp:1|p8,PR,NULL
+ivsel:Jacobsen95|exp:1|p8,RT,NULL
+ivsel:Jacobsen95|exp:1|p8,IN,NULL
+ivsel:Jacobsen95|exp:1|p8,CA,NULL
+ivsel:Jacobsen95|exp:1|p11,PR,NULL
+ivsel:Jacobsen95|exp:1|p11,RT,NULL
+ivsel:Jacobsen95|exp:1|p11,IN,NULL
+ivsel:Jacobsen95|exp:1|p11,CA,NULL
+ivsel:Jacobsen95|exp:1|p14,PR,NULL
+ivsel:Jacobsen95|exp:1|p14,RT,NULL
+ivsel:Jacobsen95|exp:1|p14,IN,NULL
+ivsel:Jacobsen95|exp:1|p14,CA,NULL
+ivsel:Oliveira18|Strain 5326|DTG|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|96USSN20|DTG|exp:1|16w,IN,NULL
+ivsel:Oliveira18|96USSN20|DTG|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|96USSN20|DTG|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|Strain 5326|BIC|exp:1|16w,IN,NULL
+ivsel:Oliveira18|Strain 5326|BIC|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|Strain 5326|BIC|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|96USSN20|BIC|exp:1|16w,IN,NULL
+ivsel:Oliveira18|96USSN20|BIC|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|96USSN20|BIC|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|Strain 5326|CAB|exp:1|8w,IN,NULL
+ivsel:Oliveira18|Strain 5326|CAB|exp:1|16w,IN,NULL
+ivsel:Oliveira18|Strain 5326|CAB|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|Strain 5326|CAB|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|96USSN20|CAB|exp:1|8w,IN,NULL
+ivsel:Oliveira18|96USSN20|CAB|exp:1|16w,IN,NULL
+ivsel:Oliveira18|96USSN20|CAB|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|96USSN20|CAB|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|Strain 5326|EVG|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|Strain 5326|EVG|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|96USSN20|EVG|exp:1|8w,IN,NULL
+ivsel:Oliveira18|96USSN20|EVG|exp:1|16w,IN,NULL
+ivsel:Oliveira18|96USSN20|EVG|exp:1|24-30w,IN,NULL
+ivsel:Oliveira18|96USSN20|EVG|exp:1|43-46w,IN,NULL
+ivsel:Oliveira18|Strain 14514|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14514|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 10387|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 10387|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 10249|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 10249|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14624|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14624|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14624|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14637|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14637|BIC|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14637|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14637|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14637|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14947|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14947|BIC|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14947|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14947|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14947|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 5326|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 4742|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 4742|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 4742|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 10947|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 10947|BIC|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 10947|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 10947|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 6343|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 6343|BIC|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 6343|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 6343|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|Strain 14515|BIC|exp:1|46w,IN,NULL
+ivsel:Oliveira18|Strain 14515|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|96USSN20|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|NL4-3|DTG|exp:1|46w,RT,NULL
+ivsel:Oliveira18|NL4-3|DTG|exp:1|46w,IN,NULL
+ivsel:Oliveira18|NL4-3|DTG|exp:1|46w,CA,NULL
+ivsel:Oliveira18|NL4-3|BIC|exp:1|46w,RT,NULL
+ivsel:Oliveira18|NL4-3|BIC|exp:1|46w,IN,NULL
+ivsel:Oliveira18|NL4-3|BIC|exp:1|46w,CA,NULL
+ivsel:Oliveira18|NL4-3|CAB|exp:1|46w,RT,NULL
+ivsel:Oliveira18|NL4-3|CAB|exp:1|46w,IN,NULL
+ivsel:Oliveira18|NL4-3|CAB|exp:1|46w,CA,NULL
+ivsel:Oliveira18|NL4-3|EVG|exp:1|26-40w,RT,NULL
+ivsel:Oliveira18|NL4-3|EVG|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|NL4-3|EVG|exp:1|26-40w,CA,NULL
+ivsel:Oliveira18|NL4-3|RAL|exp:1|26-40w,RT,NULL
+ivsel:Oliveira18|NL4-3|RAL|exp:1|26-40w,IN,NULL
+ivsel:Oliveira18|NL4-3|RAL|exp:1|26-40w,CA,NULL
+ivsel:Stone04|exp:1|p2|dose:36uM,PR,NULL
+ivsel:Stone04|exp:1|p2|dose:36uM,RT,NULL
+ivsel:Stone04|exp:1|p2|dose:36uM,IN,NULL
+ivsel:Stone04|exp:1|p2|dose:36uM,CA,NULL
+ivsel:Stone04|exp:1|p4|dose:36uM,PR,NULL
+ivsel:Stone04|exp:1|p4|dose:36uM,RT,NULL
+ivsel:Stone04|exp:1|p4|dose:36uM,IN,NULL
+ivsel:Stone04|exp:1|p4|dose:36uM,CA,NULL
+ivsel:Stone04|exp:1|p4|dose:73uM,PR,NULL
+ivsel:Stone04|exp:1|p4|dose:73uM,RT,NULL
+ivsel:Stone04|exp:1|p4|dose:73uM,IN,NULL
+ivsel:Stone04|exp:1|p4|dose:73uM,CA,NULL
+ivsel:Stone04|exp:1|p8|dose:73uM,PR,NULL
+ivsel:Stone04|exp:1|p8|dose:73uM,RT,NULL
+ivsel:Stone04|exp:1|p8|dose:73uM,IN,NULL
+ivsel:Stone04|exp:1|p8|dose:73uM,CA,NULL
+ivsel:Stone04|exp:1|p3|dose:60uM,PR,NULL
+ivsel:Stone04|exp:1|p3|dose:60uM,RT,NULL
+ivsel:Stone04|exp:1|p3|dose:60uM,IN,NULL
+ivsel:Stone04|exp:1|p3|dose:60uM,CA,NULL
+ivsel:Stone04|exp:1|p5|dose:18uM+20uM,PR,NULL
+ivsel:Stone04|exp:1|p5|dose:18uM+20uM,RT,NULL
+ivsel:Stone04|exp:1|p5|dose:18uM+20uM,IN,NULL
+ivsel:Stone04|exp:1|p5|dose:18uM+20uM,CA,NULL
+ivsel:Stone04|exp:1|p7|dose:18uM+20uM,PR,NULL
+ivsel:Stone04|exp:1|p7|dose:18uM+20uM,RT,NULL
+ivsel:Stone04|exp:1|p7|dose:18uM+20uM,IN,NULL
+ivsel:Stone04|exp:1|p7|dose:18uM+20uM,CA,NULL
+ivsel:Stone04|exp:1|p3|dose:15uM+21uM,PR,NULL
+ivsel:Stone04|exp:1|p3|dose:15uM+21uM,RT,NULL
+ivsel:Stone04|exp:1|p3|dose:15uM+21uM,IN,NULL
+ivsel:Stone04|exp:1|p3|dose:15uM+21uM,CA,NULL
+ivsel:Stone04|exp:1|p7|dose:30uM+41uM,PR,NULL
+ivsel:Stone04|exp:1|p7|dose:30uM+41uM,RT,NULL
+ivsel:Stone04|exp:1|p7|dose:30uM+41uM,IN,NULL
+ivsel:Stone04|exp:1|p7|dose:30uM+41uM,CA,NULL
+ivsel:Stone04|exp:2|p7|dose:30uM+41uM,PR,NULL
+ivsel:Stone04|exp:2|p7|dose:30uM+41uM,RT,NULL
+ivsel:Stone04|exp:2|p7|dose:30uM+41uM,IN,NULL
+ivsel:Stone04|exp:2|p7|dose:30uM+41uM,CA,NULL
+ivsel:Stone04|exp:1|p5|dose:41uM,PR,NULL
+ivsel:Stone04|exp:1|p5|dose:41uM,RT,NULL
+ivsel:Stone04|exp:1|p5|dose:41uM,IN,NULL
+ivsel:Stone04|exp:1|p5|dose:41uM,CA,NULL
+HXB2 (41L/184V/215Y),PR,NULL
+HXB2 (41L/184V/215Y),RT,NULL
+HXB2 (41L/184V/215Y),IN,NULL
+HXB2 (41L/184V/215Y),CA,NULL
+ivsel:Stone04|exp:1|p5|dose:77uM,PR,NULL
+ivsel:Stone04|exp:1|p5|dose:77uM,RT,NULL
+ivsel:Stone04|exp:1|p5|dose:77uM,IN,NULL
+ivsel:Stone04|exp:1|p5|dose:77uM,CA,NULL
+ivsel:Stone04|exp:1|p7|dose:77uM,PR,NULL
+ivsel:Stone04|exp:1|p7|dose:77uM,RT,NULL
+ivsel:Stone04|exp:1|p7|dose:77uM,IN,NULL
+ivsel:Stone04|exp:1|p7|dose:77uM,CA,NULL
+ivsel:Stone04|exp:1|p4|dose:39uM+9uM,PR,NULL
+ivsel:Stone04|exp:1|p4|dose:39uM+9uM,RT,NULL
+ivsel:Stone04|exp:1|p4|dose:39uM+9uM,IN,NULL
+ivsel:Stone04|exp:1|p4|dose:39uM+9uM,CA,NULL
+ivsel:Stone04|exp:1|p6|dose:39uM+9uM,PR,NULL
+ivsel:Stone04|exp:1|p6|dose:39uM+9uM,RT,NULL
+ivsel:Stone04|exp:1|p6|dose:39uM+9uM,IN,NULL
+ivsel:Stone04|exp:1|p6|dose:39uM+9uM,CA,NULL
+ivsel:Stone04|exp:1|p5|dose:74uM,PR,NULL
+ivsel:Stone04|exp:1|p5|dose:74uM,RT,NULL
+ivsel:Stone04|exp:1|p5|dose:74uM,IN,NULL
+ivsel:Stone04|exp:1|p5|dose:74uM,CA,NULL
+HXB2 (21I/65KR/74V/184V),PR,NULL
+HXB2 (21I/65KR/74V/184V),RT,NULL
+HXB2 (21I/65KR/74V/184V),IN,NULL
+HXB2 (21I/65KR/74V/184V),CA,NULL
+ivsel:Stone04|exp:1|p6|dose:76uM,PR,NULL
+ivsel:Stone04|exp:1|p6|dose:76uM,RT,NULL
+ivsel:Stone04|exp:1|p6|dose:76uM,IN,NULL
+ivsel:Stone04|exp:1|p6|dose:76uM,CA,NULL
+ivsel:Stone04|exp:1|p3|dose:76uM+12uM,PR,NULL
+ivsel:Stone04|exp:1|p3|dose:76uM+12uM,RT,NULL
+ivsel:Stone04|exp:1|p3|dose:76uM+12uM,IN,NULL
+ivsel:Stone04|exp:1|p3|dose:76uM+12uM,CA,NULL
+ivsel:Stone04|exp:1|p5|dose:76uM+25uM,PR,NULL
+ivsel:Stone04|exp:1|p5|dose:76uM+25uM,RT,NULL
+ivsel:Stone04|exp:1|p5|dose:76uM+25uM,IN,NULL
+ivsel:Stone04|exp:1|p5|dose:76uM+25uM,CA,NULL
+ivsel:Stone04|exp:1|p3|dose:49uM,PR,NULL
+ivsel:Stone04|exp:1|p3|dose:49uM,RT,NULL
+ivsel:Stone04|exp:1|p3|dose:49uM,IN,NULL
+ivsel:Stone04|exp:1|p3|dose:49uM,CA,NULL
+ivsel:Stone04|exp:1|p5|dose:49uM,PR,NULL
+ivsel:Stone04|exp:1|p5|dose:49uM,RT,NULL
+ivsel:Stone04|exp:1|p5|dose:49uM,IN,NULL
+ivsel:Stone04|exp:1|p5|dose:49uM,CA,NULL
+ivsel:Wu15|NVP|exp:1|p10,RT,NULL
+ivsel:Wu15|NVP|exp:1a|p20,RT,NULL
+ivsel:Wu15|NVP|exp:1a|p25,RT,NULL
+ivsel:Wu15|NVP|exp:1a1|p35,RT,NULL
+ivsel:Wu15|NVP|exp:1a2|p35,RT,NULL
+ivsel:Wu15|NVP|exp:1b|p25,RT,NULL
+ivsel:Wu15|NVP|exp:1b|p40,RT,NULL
+ivsel:Wu15|NVP|exp:1c|p20,RT,NULL
+ivsel:Wu15|NVP|exp:1c|p25,RT,NULL
+ivsel:Wu15|NVP|exp:1c|p35,RT,NULL
+ivsel:Wu15|NVP|exp:1d|p20,RT,NULL
+ivsel:Wu15|NVP|exp:1d|p30,RT,NULL
+ivsel:Wu15|NVP|exp:1d|p35,RT,NULL
+ivsel:Wu15|NVP|exp:2|p10,RT,NULL
+ivsel:Wu15|NVP|exp:2a|p20,RT,NULL
+ivsel:Wu15|NVP|exp:2a|p25,RT,NULL
+ivsel:Wu15|NVP|exp:2a|p30,RT,NULL
+ivsel:Wu15|NVP|exp:2a|p35,RT,NULL
+ivsel:Wu15|NVP|exp:2b|p20,RT,NULL
+ivsel:Wu15|NVP|exp:2b|p25,RT,NULL
+ivsel:Wu15|NVP|exp:2b|p30,RT,NULL
+ivsel:Wu15|NVP|exp:2b|p35,RT,NULL
+ivsel:Wu15|NVP|exp:3|p20,RT,NULL
+ivsel:Wu15|NVP|exp:3a|p25,RT,NULL
+ivsel:Wu15|NVP|exp:3b|p25,RT,NULL
+ivsel:Wu15|NVP|exp:3c|p25,RT,NULL
+ivsel:Wu15|NVP|exp:3c1|p35,RT,NULL
+ivsel:Wu15|NVP|exp:3c1|p40,RT,NULL
+ivsel:Wu15|NVP|exp:3c2|p35,RT,NULL
+ivsel:Wu15|EFV|exp:1|p10,RT,NULL
+ivsel:Wu15|EFV|exp:1|p15,RT,NULL
+ivsel:Wu15|EFV|exp:1|p25,RT,NULL
+ivsel:Wu15|EFV|exp:2|p10,RT,NULL
+ivsel:Wu15|EFV|exp:2|p15,RT,NULL
+ivsel:Wu15|EFV|exp:2|p30,RT,NULL
+ivsel:Wu15|3TC|exp:1|p1,RT,NULL
+ivsel:Wu15|3TC|exp:1a|p15,RT,NULL
+ivsel:Wu15|3TC|exp:1b|p15,RT,NULL
+ivsel:Brenner21|Strain 14637|DOR|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 14969|DOR|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 5326|DOR|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 4742|DOR|exp:1|8w,RT,NULL
+ivsel:Brenner21|96USSN20|DOR|exp:1|8w,RT,NULL
+ivsel:Brenner21|NL4-3|DOR|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 14637|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 5326|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 4742|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 6343|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|96USSN20|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|NL4-3|DOR|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14637|DOR+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|DOR+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 5326|DOR+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 4742|DOR+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|96USSN20|DOR+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|NL4-3|DOR+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14637|DOR+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 5326|DOR+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|NL4-3|DOR+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 14637|DOR+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 5326|DOR+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 4742|DOR+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 6343|DOR+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|96USSN20|DOR+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|NL4-3|DOR+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 5326|RPV|exp:1|8w,RT,NULL
+ivsel:Brenner21|96USSN20|RPV|exp:1|8w,RT,NULL
+ivsel:Brenner21|NL4-3|RPV|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 14637|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 5326|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 4742|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 6343|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|96USSN20|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|NL4-3|RPV|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|RPV+Islatravir|exp:1|8w,RT,NULL
+ivsel:Brenner21|96USSN20|RPV+Islatravir|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 14637|RPV+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|RPV+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 4742|RPV+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 6343|RPV+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|96USSN20|RPV+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|NL4-3|RPV+Islatravir|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|RPV+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 5326|RPV+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 6343|RPV+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|96USSN20|RPV+3TC|exp:1|8w,RT,NULL
+ivsel:Brenner21|Strain 14637|RPV+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 14969|RPV+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 5326|RPV+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 4742|RPV+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|Strain 6343|RPV+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|96USSN20|RPV+3TC|exp:1|24w,RT,NULL
+ivsel:Brenner21|NL4-3|RPV+3TC|exp:1|24w,RT,NULL
+BK132,PR,NULL
+BK132,RT,NULL
+BK132,IN,NULL
+BK132,CA,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w,CA,NULL
+Strain 5331,PR,NULL
+Strain 5331,RT,NULL
+Strain 5331,IN,NULL
+Strain 5331,CA,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|11-13w,CA,NULL
+Strain 6383,PR,NULL
+Strain 6383,RT,NULL
+Strain 6383,IN,NULL
+Strain 6383,CA,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|11-13w,CA,NULL
+Strain 6399,PR,NULL
+Strain 6399,RT,NULL
+Strain 6399,IN,NULL
+Strain 6399,CA,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|11-13w,CA,NULL
+Mole 03,PR,NULL
+Mole 03,RT,NULL
+Mole 03,IN,NULL
+Mole 03,CA,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|11-13w,CA,NULL
+BG 05,PR,NULL
+BG 05,RT,NULL
+BG 05,IN,NULL
+BG 05,CA,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|11-13w,CA,NULL
+Strain 10680,PR,NULL
+Strain 10680,RT,NULL
+Strain 10680,IN,NULL
+Strain 10680,CA,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|BK132|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 5326|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 5331|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 6383|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 6399|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Mole 03|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|BG 05|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 10680|ETR|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|11-13w,PR,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|11-13w,RT,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|11-13w,IN,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|11-13w,CA,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|18-20w,PR,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|18-20w,RT,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|18-20w,IN,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|18-20w,CA,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|BK132|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 5326|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 5331|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 6383|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,CA,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,PR,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,RT,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,IN,NULL
+ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,CA,NULL
+ivsel:Shimura08|exp:1|p12,PR,NULL
+ivsel:Shimura08|exp:1|p12,RT,NULL
+ivsel:Shimura08|exp:1|p12,IN,NULL
+ivsel:Shimura08|exp:1|p12,CA,NULL
+ivsel:Shimura08|exp:1|p32,PR,NULL
+ivsel:Shimura08|exp:1|p32,RT,NULL
+ivsel:Shimura08|exp:1|p32,IN,NULL
+ivsel:Shimura08|exp:1|p32,CA,NULL
+ivsel:Shimura08|exp:1|p48,PR,NULL
+ivsel:Shimura08|exp:1|p48,RT,NULL
+ivsel:Shimura08|exp:1|p48,IN,NULL
+ivsel:Shimura08|exp:1|p48,CA,NULL
+ivsel:Shimura08|exp:1|p54,PR,NULL
+ivsel:Shimura08|exp:1|p54,RT,NULL
+ivsel:Shimura08|exp:1|p54,IN,NULL
+ivsel:Shimura08|exp:1|p54,CA,NULL
+ivsel:Shimura08|exp:1|p64,PR,NULL
+ivsel:Shimura08|exp:1|p64,RT,NULL
+ivsel:Shimura08|exp:1|p64,IN,NULL
+ivsel:Shimura08|exp:1|p64,CA,NULL
+ivsel:Shimura08|exp:1|p80,PR,NULL
+ivsel:Shimura08|exp:1|p80,RT,NULL
+ivsel:Shimura08|exp:1|p80,IN,NULL
+ivsel:Shimura08|exp:1|p80,CA,NULL
+ivsel:Shimura08|exp:2|p30,PR,NULL
+ivsel:Shimura08|exp:2|p30,RT,NULL
+ivsel:Shimura08|exp:2|p30,IN,NULL
+ivsel:Shimura08|exp:2|p30,CA,NULL
+ivsel:Shimura08|exp:2|p38,PR,NULL
+ivsel:Shimura08|exp:2|p38,RT,NULL
+ivsel:Shimura08|exp:2|p38,IN,NULL
+ivsel:Shimura08|exp:2|p38,CA,NULL
+ivsel:Shimura08|exp:2|p60,PR,NULL
+ivsel:Shimura08|exp:2|p60,RT,NULL
+ivsel:Shimura08|exp:2|p60,IN,NULL
+ivsel:Shimura08|exp:2|p60,CA,NULL
+ivsel:Shimura08|exp:2|p70,PR,NULL
+ivsel:Shimura08|exp:2|p70,RT,NULL
+ivsel:Shimura08|exp:2|p70,IN,NULL
+ivsel:Shimura08|exp:2|p70,CA,NULL
+ivsel:Shimura08|exp:2|p80,PR,NULL
+ivsel:Shimura08|exp:2|p80,RT,NULL
+ivsel:Shimura08|exp:2|p80,IN,NULL
+ivsel:Shimura08|exp:2|p80,CA,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3|3TC|exp:1|25w,CA,NULL
+pNL4-3 (IN:H51Y),RT,NULL
+pNL4-3 (IN:H51Y),IN,NULL
+pNL4-3 (IN:H51Y),CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|3TC|exp:1|25w,CA,NULL
+pNL4-3 (IN:R263K),RT,NULL
+pNL4-3 (IN:R263K),IN,NULL
+pNL4-3 (IN:R263K),CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|3TC|exp:1|25w,CA,NULL
+pNL4-3 (IN:H51Y+IN:R263K),RT,NULL
+pNL4-3 (IN:H51Y+IN:R263K),IN,NULL
+pNL4-3 (IN:H51Y+IN:R263K),CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|3TC|exp:1|25w,CA,NULL
+pNL4-3 (IN:G118R),RT,NULL
+pNL4-3 (IN:G118R),IN,NULL
+pNL4-3 (IN:G118R),CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|3TC|exp:1|25w,CA,NULL
+pNL4-3 (IN:H51Y+IN:G118R),RT,NULL
+pNL4-3 (IN:H51Y+IN:G118R),IN,NULL
+pNL4-3 (IN:H51Y+IN:G118R),CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|3TC|exp:1|25w,CA,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3|NVP|exp:1|25w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y)|NVP|exp:1|25w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:R263K)|NVP|exp:1|25w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:R263K)|NVP|exp:1|25w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:G118R)|NVP|exp:1|25w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|6w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|6w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|6w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|8w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|8w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|8w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|11w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|11w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|11w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|15w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|15w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|15w,CA,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|25w,RT,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|25w,IN,NULL
+ivsel:Oliveira14|pNL4-3 (IN:H51Y+IN:G118R)|NVP|exp:1|25w,CA,NULL
+ivsel:Wainberg99|exp:1,PR,NULL
+ivsel:Wainberg99|exp:1,RT,NULL
+ivsel:Wainberg99|exp:1,IN,NULL
+ivsel:Wainberg99|exp:1,CA,NULL
+ivsel:Link20|exp:1|dose:0.8nM,PR,NULL
+ivsel:Link20|exp:1|dose:0.8nM,RT,NULL
+ivsel:Link20|exp:1|dose:0.8nM,IN,NULL
+ivsel:Link20|exp:1|dose:0.8nM,CA,NULL
+ivsel:Link20|exp:1|dose:6.4nM,PR,NULL
+ivsel:Link20|exp:1|dose:6.4nM,RT,NULL
+ivsel:Link20|exp:1|dose:6.4nM,IN,NULL
+ivsel:Link20|exp:1|dose:6.4nM,CA,NULL
+ivsel:Link20|exp:1|dose:51.2nM,PR,NULL
+ivsel:Link20|exp:1|dose:51.2nM,RT,NULL
+ivsel:Link20|exp:1|dose:51.2nM,IN,NULL
+ivsel:Link20|exp:1|dose:51.2nM,CA,NULL
+ivsel:Link20|exp:1|dose:0.92nM,CA,NULL
+ivsel:Link20|exp:2|dose:0.92nM,CA,NULL
+ivsel:Link20|exp:3|dose:0.92nM,CA,NULL
+ivsel:Link20|exp:4|dose:0.92nM,CA,NULL
+ivsel:Link20|exp:5|dose:0.92nM,CA,NULL
+ivsel:Link20|exp:1|dose:1.9nM,CA,NULL
+ivsel:Link20|exp:1|dose:3.7nM,CA,NULL
+ivsel:Link20|exp:2|dose:3.7nM,CA,NULL
+ivsel:Link20|exp:3|dose:3.7nM,CA,NULL
+ivsel:Hombrouck08|exp:1|p20,PR,NULL
+ivsel:Hombrouck08|exp:1|p20,RT,NULL
+ivsel:Hombrouck08|exp:1|p20,IN,NULL
+ivsel:Hombrouck08|exp:1|p20,CA,NULL
+ivsel:Hombrouck08|exp:1|p40,PR,NULL
+ivsel:Hombrouck08|exp:1|p40,RT,NULL
+ivsel:Hombrouck08|exp:1|p40,IN,NULL
+ivsel:Hombrouck08|exp:1|p40,CA,NULL
+ivsel:Hombrouck08|exp:1|p50,PR,NULL
+ivsel:Hombrouck08|exp:1|p50,RT,NULL
+ivsel:Hombrouck08|exp:1|p50,IN,NULL
+ivsel:Hombrouck08|exp:1|p50,CA,NULL
+ivsel:Hombrouck08|exp:1|p60,PR,NULL
+ivsel:Hombrouck08|exp:1|p60,RT,NULL
+ivsel:Hombrouck08|exp:1|p60,IN,NULL
+ivsel:Hombrouck08|exp:1|p60,CA,NULL
+ivsel:Mo03|exp:1|p6|~36d,PR,NULL
+ivsel:Mo03|exp:1|p6|~36d,RT,NULL
+ivsel:Mo03|exp:1|p6|~36d,IN,NULL
+ivsel:Mo03|exp:1|p6|~36d,CA,NULL
+ivsel:Mo03|exp:1|p7|~42d,PR,NULL
+ivsel:Mo03|exp:1|p7|~42d,RT,NULL
+ivsel:Mo03|exp:1|p7|~42d,IN,NULL
+ivsel:Mo03|exp:1|p7|~42d,CA,NULL
+ivsel:Mo03|exp:1|p9|~54d,PR,NULL
+ivsel:Mo03|exp:1|p9|~54d,RT,NULL
+ivsel:Mo03|exp:1|p9|~54d,IN,NULL
+ivsel:Mo03|exp:1|p9|~54d,CA,NULL
+ivsel:Mo03|exp:1|p11|~66d,PR,NULL
+ivsel:Mo03|exp:1|p11|~66d,RT,NULL
+ivsel:Mo03|exp:1|p11|~66d,IN,NULL
+ivsel:Mo03|exp:1|p11|~66d,CA,NULL
+ivsel:Mo03|exp:1|p17|~102d,PR,NULL
+ivsel:Mo03|exp:1|p17|~102d,RT,NULL
+ivsel:Mo03|exp:1|p17|~102d,IN,NULL
+ivsel:Mo03|exp:1|p17|~102d,CA,NULL
+ivsel:Mo03|exp:1|p25|~150d,PR,NULL
+ivsel:Mo03|exp:1|p25|~150d,RT,NULL
+ivsel:Mo03|exp:1|p25|~150d,IN,NULL
+ivsel:Mo03|exp:1|p25|~150d,CA,NULL
+ivsel:Mo03|exp:1|p8|~46d,PR,NULL
+ivsel:Mo03|exp:1|p8|~46d,RT,NULL
+ivsel:Mo03|exp:1|p8|~46d,IN,NULL
+ivsel:Mo03|exp:1|p8|~46d,CA,NULL
+ivsel:Mo03|exp:1|p9|~52d,PR,NULL
+ivsel:Mo03|exp:1|p9|~52d,RT,NULL
+ivsel:Mo03|exp:1|p9|~52d,IN,NULL
+ivsel:Mo03|exp:1|p9|~52d,CA,NULL
+ivsel:Mo03|exp:1|p11|~63d,PR,NULL
+ivsel:Mo03|exp:1|p11|~63d,RT,NULL
+ivsel:Mo03|exp:1|p11|~63d,IN,NULL
+ivsel:Mo03|exp:1|p11|~63d,CA,NULL
+ivsel:Mo03|exp:1|p17|~98d,PR,NULL
+ivsel:Mo03|exp:1|p17|~98d,RT,NULL
+ivsel:Mo03|exp:1|p17|~98d,IN,NULL
+ivsel:Mo03|exp:1|p17|~98d,CA,NULL
+ivsel:Mo03|exp:1|p26|~150d,PR,NULL
+ivsel:Mo03|exp:1|p26|~150d,RT,NULL
+ivsel:Mo03|exp:1|p26|~150d,IN,NULL
+ivsel:Mo03|exp:1|p26|~150d,CA,NULL
+ivsel:Mo03|exp:1|p7|~44d,PR,NULL
+ivsel:Mo03|exp:1|p7|~44d,RT,NULL
+ivsel:Mo03|exp:1|p7|~44d,IN,NULL
+ivsel:Mo03|exp:1|p7|~44d,CA,NULL
+ivsel:Mo03|exp:1|p9|~56d,PR,NULL
+ivsel:Mo03|exp:1|p9|~56d,RT,NULL
+ivsel:Mo03|exp:1|p9|~56d,IN,NULL
+ivsel:Mo03|exp:1|p9|~56d,CA,NULL
+ivsel:Mo03|exp:1|p11|~69d,PR,NULL
+ivsel:Mo03|exp:1|p11|~69d,RT,NULL
+ivsel:Mo03|exp:1|p11|~69d,IN,NULL
+ivsel:Mo03|exp:1|p11|~69d,CA,NULL
+ivsel:Mo03|exp:1|p17|~106d,PR,NULL
+ivsel:Mo03|exp:1|p17|~106d,RT,NULL
+ivsel:Mo03|exp:1|p17|~106d,IN,NULL
+ivsel:Mo03|exp:1|p17|~106d,CA,NULL
+ivsel:Mo03|exp:1|p24|~150d,PR,NULL
+ivsel:Mo03|exp:1|p24|~150d,RT,NULL
+ivsel:Mo03|exp:1|p24|~150d,IN,NULL
+ivsel:Mo03|exp:1|p24|~150d,CA,NULL
+ivsel:Tisdale97|exp:1|p4,PR,NULL
+ivsel:Tisdale97|exp:1|p4,RT,NULL
+ivsel:Tisdale97|exp:1|p4,IN,NULL
+ivsel:Tisdale97|exp:1|p4,CA,NULL
+ivsel:Tisdale97|exp:1|p6,PR,NULL
+ivsel:Tisdale97|exp:1|p6,RT,NULL
+ivsel:Tisdale97|exp:1|p6,IN,NULL
+ivsel:Tisdale97|exp:1|p6,CA,NULL
+ivsel:Tisdale97|exp:2|p4,PR,NULL
+ivsel:Tisdale97|exp:2|p4,RT,NULL
+ivsel:Tisdale97|exp:2|p4,IN,NULL
+ivsel:Tisdale97|exp:2|p4,CA,NULL
+ivsel:Tisdale97|exp:2|p6,PR,NULL
+ivsel:Tisdale97|exp:2|p6,RT,NULL
+ivsel:Tisdale97|exp:2|p6,IN,NULL
+ivsel:Tisdale97|exp:2|p6,CA,NULL
+ivsel:Tisdale97|exp:1|p8,PR,NULL
+ivsel:Tisdale97|exp:1|p8,RT,NULL
+ivsel:Tisdale97|exp:1|p8,IN,NULL
+ivsel:Tisdale97|exp:1|p8,CA,NULL
+ivsel:Seki15|NL4-3|DTG|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3|DTG|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3|DTG|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1a|p~16,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1a|p~16,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1a|p~16,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1b|p~16,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1b|p~16,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:1b|p~16,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2|p~8,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2|p~8,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2|p~8,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2a|p~12,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2a|p~12,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2a|p~12,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2a|p~16,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2a|p~16,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2a|p~16,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2b|p~12,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2b|p~12,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2b|p~12,CA,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2b|p~16,RT,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2b|p~16,IN,NULL
+ivsel:Seki15|NL4-3|RAL|exp:2b|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a|p~8,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a|p~8,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a|p~8,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a|p~12,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a|p~12,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a|p~12,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a1|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a1|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a1|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a2|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a2|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1a2|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b|p~8,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b|p~8,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b|p~8,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b1|p~12,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b1|p~12,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b1|p~12,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b1|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b1|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b1|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2|p~12,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2|p~12,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2|p~12,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2a|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2a|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2a|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2b|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2b|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:1b2b|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2|p~4,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2|p~4,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2|p~4,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~8,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~8,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~8,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~12,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~12,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~12,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2a|p~16,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~8,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~8,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~8,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~12,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~12,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~12,CA,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~16,RT,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~16,IN,NULL
+ivsel:Seki15|NL4-3|EVG|exp:2b|p~16,CA,NULL
+NL4-3 (E92Q),RT,NULL
+NL4-3 (E92Q),IN,NULL
+NL4-3 (E92Q),CA,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:3|p~16,CA,NULL
+NL4-3 (N155H),RT,NULL
+NL4-3 (N155H),IN,NULL
+NL4-3 (N155H),CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1a|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1a|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1a|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1b|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1b|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:1b|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|RAL|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3a|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3a|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3a|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3a|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3a|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3a|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3b|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3b|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3b|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3b|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3b|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (N155H)|EVG|exp:3b|p~16,CA,NULL
+NL4-3 (Y143C),RT,NULL
+NL4-3 (Y143C),IN,NULL
+NL4-3 (Y143C),CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Y143C)|RAL|exp:3|p~16,CA,NULL
+NL4-3 (Y143R),RT,NULL
+NL4-3 (Y143R),IN,NULL
+NL4-3 (Y143R),CA,NULL
+ivsel:Seki15|NL4-3 (Y143R)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Y143R)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Y143R)|RAL|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~4,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~4,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~4,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|DTG|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|RAL|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148K)|EVG|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1a2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~4,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~4,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~4,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|DTG|exp:1b|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:1a|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:1a|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:1a|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:1b|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:1b|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:1b|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|RAL|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148R)|EVG|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~4,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~4,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~4,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1a|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1a|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1a|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1b|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1b|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1b|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1c|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1c|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|DTG|exp:1c|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~4,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~4,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~4,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|RAL|exp:3|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:1|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:1|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:1|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:1|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:1|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:1|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~4,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~4,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~4,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:2|p~16,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~4,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~4,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~4,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~8,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~8,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~8,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~12,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~12,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~12,CA,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~16,RT,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~16,IN,NULL
+ivsel:Seki15|NL4-3 (Q148H)|EVG|exp:3|p~16,CA,NULL
+ivsel:Yant19|MT-2|exp:1,PR,NULL
+ivsel:Yant19|MT-2|exp:1,RT,NULL
+ivsel:Yant19|MT-2|exp:1,IN,NULL
+ivsel:Yant19|MT-2|exp:1,CA,NULL
+ivsel:Yant19|MT-2|exp:2,PR,NULL
+ivsel:Yant19|MT-2|exp:2,RT,NULL
+ivsel:Yant19|MT-2|exp:2,IN,NULL
+ivsel:Yant19|MT-2|exp:2,CA,NULL
+ivsel:Yant19|MT-2|exp:3,PR,NULL
+ivsel:Yant19|MT-2|exp:3,RT,NULL
+ivsel:Yant19|MT-2|exp:3,IN,NULL
+ivsel:Yant19|MT-2|exp:3,CA,NULL
+ivsel:Yant19|MT-2|exp:4,PR,NULL
+ivsel:Yant19|MT-2|exp:4,RT,NULL
+ivsel:Yant19|MT-2|exp:4,IN,NULL
+ivsel:Yant19|MT-2|exp:4,CA,NULL
+ivsel:Yant19|MT-2|exp:5,PR,NULL
+ivsel:Yant19|MT-2|exp:5,RT,NULL
+ivsel:Yant19|MT-2|exp:5,IN,NULL
+ivsel:Yant19|MT-2|exp:5,CA,NULL
+ivsel:Yant19|MT-2|exp:6,PR,NULL
+ivsel:Yant19|MT-2|exp:6,RT,NULL
+ivsel:Yant19|MT-2|exp:6,IN,NULL
+ivsel:Yant19|MT-2|exp:6,CA,NULL
+ivsel:Yant19|PBMC|exp:1,CA,NULL
+ivsel:Yant19|PBMC|exp:2,CA,NULL
+ivsel:Yant19|PBMC|exp:3,CA,NULL
+ivsel:Yant19|PBMC|exp:4,CA,NULL
+ivsel:Yant19|PBMC|exp:5,CA,NULL
+ivsel:Yant19|PBMC|exp:6,CA,NULL
+ivsel:Yant19|PBMC|exp:7,CA,NULL
+ivsel:Depatureaux15|Strain 5326|RAL|exp:1,IN,NULL
+Strain 11367,IN,NULL
+ivsel:Depatureaux15|Strain 11367|RAL|exp:1,IN,NULL
+MVPS180,IN,NULL
+ivsel:Depatureaux15|MVPS180|RAL|exp:1,IN,NULL
+BCF11,IN,NULL
+ivsel:Depatureaux15|BCF11|RAL|exp:1,IN,NULL
+ivsel:Depatureaux15|Strain 5326|EVG|exp:1,IN,NULL
+ivsel:Depatureaux15|Strain 11367|EVG|exp:1,IN,NULL
+ivsel:Depatureaux15|MVPS180|EVG|exp:1,IN,NULL
+ivsel:Depatureaux15|BCF11|EVG|exp:1,IN,NULL
+ivsel:Depatureaux15|Strain 5326|DTG|exp:1,IN,NULL
+ivsel:Depatureaux15|Strain 11367|DTG|exp:1,IN,NULL
+ivsel:Depatureaux15|MVPS180|DTG|exp:1,IN,NULL
+ivsel:Depatureaux15|BCF11|DTG|exp:1,IN,NULL
+ivsel:Quashie12|Strain 5331|exp:1|20w,IN,NULL
+ivsel:Quashie12|BK132|exp:1|20w,IN,NULL
+ivsel:Quashie12|Strain 5326|exp:1|20w,IN,NULL
+ivsel:Quashie12|pNL4-3|exp:1|20w,IN,NULL
+Strain 12197 RAL TI WT for INI,IN,NULL
+ivsel:Quashie12|Strain 12197 RAL TI WT for INI|exp:1|20w,IN,NULL
+ivsel:Quashie12|Strain 6399|exp:1|20w,IN,NULL
+ivsel:Quashie12|96USSN20|exp:1|20w,IN,NULL
+ivsel:Quashie12|Strain 4742|exp:1|20w,IN,NULL
+96USNG31,IN,NULL
+ivsel:Quashie12|96USNG31|exp:1|20w,IN,NULL
+ivsel:Quashie12|BK132|exp:1|37w,IN,NULL
+ivsel:Quashie12|Strain 5326|exp:1|37w,IN,NULL
+ivsel:Quashie12|pNL4-3|exp:1|37w,IN,NULL
+ivsel:Quashie12|Strain 12197 RAL TI WT for INI|exp:1|34w,IN,NULL
+ivsel:Quashie12|Strain 6399|exp:1|37w,IN,NULL
+ivsel:Quashie12|96USSN20|exp:1|37w,IN,NULL
+ivsel:Quashie12|Strain 4742|exp:1|37w,IN,NULL
+ivsel:Quashie12|96USNG31|exp:1|37w,IN,NULL
+ivsel:Vingerhoets05|LAI|exp:1|dose:200nM,PR,NULL
+ivsel:Vingerhoets05|LAI|exp:1|dose:200nM,RT,NULL
+ivsel:Vingerhoets05|LAI|exp:1|dose:200nM,IN,NULL
+ivsel:Vingerhoets05|LAI|exp:1|dose:200nM,CA,NULL
+ivsel:Vingerhoets05|LAI|exp:2|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|LAI|exp:2|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|LAI|exp:2|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|LAI|exp:2|dose:40nM,CA,NULL
+ivsel:Vingerhoets05|LAI|exp:3|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|LAI|exp:3|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|LAI|exp:3|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|LAI|exp:3|dose:40nM,CA,NULL
+HXB2 (K103N),PR,NULL
+HXB2 (K103N),RT,NULL
+HXB2 (K103N),IN,NULL
+HXB2 (K103N),CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:2|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:2|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:2|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N)|exp:2|dose:40nM,CA,NULL
+HXB2 (Y181C),PR,NULL
+HXB2 (Y181C),RT,NULL
+HXB2 (Y181C),IN,NULL
+HXB2 (Y181C),CA,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:40nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:200nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:200nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:200nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:1|dose:200nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:40nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:200nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:200nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:200nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (Y181C)|exp:2|dose:200nM,CA,NULL
+HXB2 (K103N/Y181C),PR,NULL
+HXB2 (K103N/Y181C),RT,NULL
+HXB2 (K103N/Y181C),IN,NULL
+HXB2 (K103N/Y181C),CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:40nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:200nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:200nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:200nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:200nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:1000nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:1000nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:1000nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:1|dose:1000nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:40nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:40nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:40nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:40nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:200nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:200nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:200nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:200nM,CA,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:1000nM,PR,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:1000nM,RT,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:1000nM,IN,NULL
+ivsel:Vingerhoets05|HXB2 (K103N/Y181C)|exp:2|dose:1000nM,CA,NULL
+ivsel:Wu12|exp:1|p10,RT,NULL
+ivsel:Wu12|exp:2|p10,RT,NULL
+ivsel:Wu12|exp:3|p10,RT,NULL
+ivsel:Wu12|exp:1|p15,RT,NULL
+ivsel:Wu12|exp:2a|p15,RT,NULL
+ivsel:Wu12|exp:2b|p15,RT,NULL
+ivsel:Wu12|exp:3|p15,RT,NULL
+ivsel:Wu12|exp:4|p15,RT,NULL
+ivsel:Wu12|exp:1|p20,RT,NULL
+ivsel:Wu12|exp:2a|p20,RT,NULL
+ivsel:Wu12|exp:2b|p20,RT,NULL
+ivsel:Wu12|exp:3|p20,RT,NULL
+ivsel:Wu12|exp:4|p20,RT,NULL
+ivsel:Wu12|exp:1|p25,RT,NULL
+ivsel:Wu12|exp:2a|p25,RT,NULL
+ivsel:Wu12|exp:2b|p25,RT,NULL
+ivsel:Wu12|exp:3|p25,RT,NULL
+ivsel:Wu12|exp:4|p25,RT,NULL

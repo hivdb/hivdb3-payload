@@ -1,6 +1,6 @@
 ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
-Tisdale97,ivsel:Tisdale97|exp:1|p4,ABC,=,18.0,µm,False
-Tisdale97,ivsel:Tisdale97|exp:1|p6,ABC,=,36.0,µm,False
-Tisdale97,ivsel:Tisdale97|exp:2|p4,ABC,=,18.0,µm,False
-Tisdale97,ivsel:Tisdale97|exp:2|p6,ABC,=,36.0,µm,False
-Tisdale97,ivsel:Tisdale97|exp:1|p8,ABC,=,54.0,µm,False
+Tisdale97,ivsel:Tisdale97|exp:1|p4,ABC,=,18.0,µM,False
+Tisdale97,ivsel:Tisdale97|exp:1|p6,ABC,=,36.0,µM,False
+Tisdale97,ivsel:Tisdale97|exp:2|p4,ABC,=,18.0,µM,False
+Tisdale97,ivsel:Tisdale97|exp:2|p6,ABC,=,36.0,µM,False
+Tisdale97,ivsel:Tisdale97|exp:1|p8,ABC,=,54.0,µM,False

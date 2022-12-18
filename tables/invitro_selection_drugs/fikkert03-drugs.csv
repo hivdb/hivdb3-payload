@@ -1,6 +1,6 @@
 ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
-Fikkert03,ivsel:Fikkert03|exp:1|p25,L-708906,=,27.5,µm,False
-Fikkert03,ivsel:Fikkert03|exp:1|p35,L-708906,=,27.5,µm,False
-Fikkert03,ivsel:Fikkert03|exp:1|p40,L-708906,=,27.5,µm,False
-Fikkert03,ivsel:Fikkert03|exp:1|p60,L-708906,=,27.5,µm,False
-Fikkert03,ivsel:Fikkert03|exp:1|p70,L-708906,=,27.5,µm,False
+Fikkert03,ivsel:Fikkert03|exp:1|p25,L-708906,=,27.5,µM,False
+Fikkert03,ivsel:Fikkert03|exp:1|p35,L-708906,=,27.5,µM,False
+Fikkert03,ivsel:Fikkert03|exp:1|p40,L-708906,=,27.5,µM,False
+Fikkert03,ivsel:Fikkert03|exp:1|p60,L-708906,=,27.5,µM,False
+Fikkert03,ivsel:Fikkert03|exp:1|p70,L-708906,=,27.5,µM,False

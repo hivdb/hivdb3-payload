@@ -1,6 +1,6 @@
 ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
-Fikkert04,ivsel:Fikkert04|exp:1|p30,S-1360,<,38.0,µm,False
-Fikkert04,ivsel:Fikkert04|exp:1|p40,S-1360,<,38.0,µm,False
-Fikkert04,ivsel:Fikkert04|exp:1|p50,S-1360,=,38.0,µm,False
-Fikkert04,ivsel:Fikkert04|exp:1|p60,S-1360,=,38.0,µm,False
-Fikkert04,ivsel:Fikkert04|exp:1|p70,S-1360,=,38.0,µm,False
+Fikkert04,ivsel:Fikkert04|exp:1|p30,S-1360,<,38.0,µM,False
+Fikkert04,ivsel:Fikkert04|exp:1|p40,S-1360,<,38.0,µM,False
+Fikkert04,ivsel:Fikkert04|exp:1|p50,S-1360,=,38.0,µM,False
+Fikkert04,ivsel:Fikkert04|exp:1|p60,S-1360,=,38.0,µM,False
+Fikkert04,ivsel:Fikkert04|exp:1|p70,S-1360,=,38.0,µM,False

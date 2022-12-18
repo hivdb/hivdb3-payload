@@ -1,6 +1,7 @@
 drug_class,gene,drug_class_full_name
 PI,PR,Protease Inhibitor
 NRTI,RT,Nucleoside Reverse Transcriptase Inhibitor
+NRTTI,RT,Nucleoside Rreverse Transcriptase Translocation Inhibitor
 NNRTI,RT,Non-Nucleoside Reverse Transcriptase Inhibitor
 INSTI,IN,Integrase Strand Transfer Inhibitor
 CAI,CA,Capsid Inhibitor
