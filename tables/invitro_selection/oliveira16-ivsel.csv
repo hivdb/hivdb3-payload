@@ -1,11 +1,11 @@
 ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
-Oliveira16,ivsel:Oliveira16|NL4-3|DTG|exp:1|12w,NL4-3,CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
-Oliveira16,ivsel:Oliveira16|NL4-3|DTG|exp:1|17w,NL4-3,CBMC,1,NULL,NULL,True,=,17,week,False,Table 1
-Oliveira16,ivsel:Oliveira16|NL4-3|DTG|exp:1|22w,NL4-3,CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
-Oliveira16,ivsel:Oliveira16|NL4-3|EVG|exp:1|12w,NL4-3,CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
-Oliveira16,ivsel:Oliveira16|NL4-3|EVG|exp:1|22w,NL4-3,CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
-Oliveira16,ivsel:Oliveira16|NL4-3|RAL|exp:1|12w,NL4-3,CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
-Oliveira16,ivsel:Oliveira16|NL4-3|RAL|exp:1|22w,NL4-3,CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|DTG|exp:1|12w,pNL4-3,CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|DTG|exp:1|17w,pNL4-3,CBMC,1,NULL,NULL,True,=,17,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|DTG|exp:1|22w,pNL4-3,CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|EVG|exp:1|12w,pNL4-3,CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|EVG|exp:1|22w,pNL4-3,CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|RAL|exp:1|12w,pNL4-3,CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
+Oliveira16,ivsel:Oliveira16|pNL4-3|RAL|exp:1|22w,pNL4-3,CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
 Oliveira16,ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|12w,NL4-3 (M184I),CBMC,1,NULL,NULL,True,=,12,week,False,Table 1
 Oliveira16,ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|22w,NL4-3 (M184I),CBMC,1,NULL,NULL,True,=,22,week,False,Table 1
 Oliveira16,ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|26w,NL4-3 (M184I),CBMC,1,NULL,NULL,True,=,26,week,False,Table 1

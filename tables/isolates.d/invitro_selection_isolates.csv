@@ -436,13 +436,13 @@ ivsel:Corbau10|Lersivirine|exp:1|p9
 ivsel:Corbau10|Lersivirine|exp:1|p11
 ivsel:Corbau10|Lersivirine|exp:2|p11
 ivsel:Corbau10|EFV|exp:1|p11
-ivsel:Oliveira16|NL4-3|DTG|exp:1|12w
-ivsel:Oliveira16|NL4-3|DTG|exp:1|17w
-ivsel:Oliveira16|NL4-3|DTG|exp:1|22w
-ivsel:Oliveira16|NL4-3|EVG|exp:1|12w
-ivsel:Oliveira16|NL4-3|EVG|exp:1|22w
-ivsel:Oliveira16|NL4-3|RAL|exp:1|12w
-ivsel:Oliveira16|NL4-3|RAL|exp:1|22w
+ivsel:Oliveira16|pNL4-3|DTG|exp:1|12w
+ivsel:Oliveira16|pNL4-3|DTG|exp:1|17w
+ivsel:Oliveira16|pNL4-3|DTG|exp:1|22w
+ivsel:Oliveira16|pNL4-3|EVG|exp:1|12w
+ivsel:Oliveira16|pNL4-3|EVG|exp:1|22w
+ivsel:Oliveira16|pNL4-3|RAL|exp:1|12w
+ivsel:Oliveira16|pNL4-3|RAL|exp:1|22w
 NL4-3 (M184I)
 ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|12w
 ivsel:Oliveira16|NL4-3 (M184I)|DTG|exp:1|22w
@@ -701,11 +701,11 @@ ivsel:Oliveira18|Strain 14515|CAB|exp:1|46w
 ivsel:Oliveira18|Strain 14515|EVG|exp:1|26-40w
 ivsel:Oliveira18|Strain 14515|RAL|exp:1|26-40w
 ivsel:Oliveira18|96USSN20|RAL|exp:1|26-40w
-ivsel:Oliveira18|NL4-3|DTG|exp:1|46w
-ivsel:Oliveira18|NL4-3|BIC|exp:1|46w
-ivsel:Oliveira18|NL4-3|CAB|exp:1|46w
-ivsel:Oliveira18|NL4-3|EVG|exp:1|26-40w
-ivsel:Oliveira18|NL4-3|RAL|exp:1|26-40w
+ivsel:Oliveira18|pNL4-3|DTG|exp:1|46w
+ivsel:Oliveira18|pNL4-3|BIC|exp:1|46w
+ivsel:Oliveira18|pNL4-3|CAB|exp:1|46w
+ivsel:Oliveira18|pNL4-3|EVG|exp:1|26-40w
+ivsel:Oliveira18|pNL4-3|RAL|exp:1|26-40w
 ivsel:Stone04|exp:1|p2|dose:36uM
 ivsel:Stone04|exp:1|p4|dose:36uM
 ivsel:Stone04|exp:1|p4|dose:73uM
@@ -773,84 +773,84 @@ ivsel:Brenner21|Strain 5326|DOR|exp:1|8w
 ivsel:Brenner21|Strain 4742|DOR|exp:1|8w
 ivsel:Brenner21|Strain 6343|DOR|exp:1|8w
 ivsel:Brenner21|96USSN20|DOR|exp:1|8w
-ivsel:Brenner21|NL4-3|DOR|exp:1|8w
+ivsel:Brenner21|pNL4-3|DOR|exp:1|8w
 ivsel:Brenner21|Strain 14637|DOR|exp:1|24w
 ivsel:Brenner21|Strain 14969|DOR|exp:1|24w
 ivsel:Brenner21|Strain 5326|DOR|exp:1|24w
 ivsel:Brenner21|Strain 4742|DOR|exp:1|24w
 ivsel:Brenner21|Strain 6343|DOR|exp:1|24w
 ivsel:Brenner21|96USSN20|DOR|exp:1|24w
-ivsel:Brenner21|NL4-3|DOR|exp:1|24w
+ivsel:Brenner21|pNL4-3|DOR|exp:1|24w
 ivsel:Brenner21|Strain 14637|DOR+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 14969|DOR+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 5326|DOR+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 4742|DOR+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 6343|DOR+Islatravir|exp:1|8w
 ivsel:Brenner21|96USSN20|DOR+Islatravir|exp:1|8w
-ivsel:Brenner21|NL4-3|DOR+Islatravir|exp:1|8w
+ivsel:Brenner21|pNL4-3|DOR+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 14637|DOR+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 14969|DOR+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 5326|DOR+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 4742|DOR+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 6343|DOR+Islatravir|exp:1|24w
 ivsel:Brenner21|96USSN20|DOR+Islatravir|exp:1|24w
-ivsel:Brenner21|NL4-3|DOR+Islatravir|exp:1|24w
+ivsel:Brenner21|pNL4-3|DOR+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 14637|DOR+3TC|exp:1|8w
 ivsel:Brenner21|Strain 14969|DOR+3TC|exp:1|8w
 ivsel:Brenner21|Strain 5326|DOR+3TC|exp:1|8w
 ivsel:Brenner21|Strain 4742|DOR+3TC|exp:1|8w
 ivsel:Brenner21|Strain 6343|DOR+3TC|exp:1|8w
 ivsel:Brenner21|96USSN20|DOR+3TC|exp:1|8w
-ivsel:Brenner21|NL4-3|DOR+3TC|exp:1|8w
+ivsel:Brenner21|pNL4-3|DOR+3TC|exp:1|8w
 ivsel:Brenner21|Strain 14637|DOR+3TC|exp:1|24w
 ivsel:Brenner21|Strain 14969|DOR+3TC|exp:1|24w
 ivsel:Brenner21|Strain 5326|DOR+3TC|exp:1|24w
 ivsel:Brenner21|Strain 4742|DOR+3TC|exp:1|24w
 ivsel:Brenner21|Strain 6343|DOR+3TC|exp:1|24w
 ivsel:Brenner21|96USSN20|DOR+3TC|exp:1|24w
-ivsel:Brenner21|NL4-3|DOR+3TC|exp:1|24w
+ivsel:Brenner21|pNL4-3|DOR+3TC|exp:1|24w
 ivsel:Brenner21|Strain 14637|RPV|exp:1|8w
 ivsel:Brenner21|Strain 14969|RPV|exp:1|8w
 ivsel:Brenner21|Strain 5326|RPV|exp:1|8w
 ivsel:Brenner21|Strain 4742|RPV|exp:1|8w
 ivsel:Brenner21|Strain 6343|RPV|exp:1|8w
 ivsel:Brenner21|96USSN20|RPV|exp:1|8w
-ivsel:Brenner21|NL4-3|RPV|exp:1|8w
+ivsel:Brenner21|pNL4-3|RPV|exp:1|8w
 ivsel:Brenner21|Strain 14637|RPV|exp:1|24w
 ivsel:Brenner21|Strain 14969|RPV|exp:1|24w
 ivsel:Brenner21|Strain 5326|RPV|exp:1|24w
 ivsel:Brenner21|Strain 4742|RPV|exp:1|24w
 ivsel:Brenner21|Strain 6343|RPV|exp:1|24w
 ivsel:Brenner21|96USSN20|RPV|exp:1|24w
-ivsel:Brenner21|NL4-3|RPV|exp:1|24w
+ivsel:Brenner21|pNL4-3|RPV|exp:1|24w
 ivsel:Brenner21|Strain 14637|RPV+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 14969|RPV+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 5326|RPV+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 4742|RPV+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 6343|RPV+Islatravir|exp:1|8w
 ivsel:Brenner21|96USSN20|RPV+Islatravir|exp:1|8w
-ivsel:Brenner21|NL4-3|RPV+Islatravir|exp:1|8w
+ivsel:Brenner21|pNL4-3|RPV+Islatravir|exp:1|8w
 ivsel:Brenner21|Strain 14637|RPV+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 14969|RPV+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 5326|RPV+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 4742|RPV+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 6343|RPV+Islatravir|exp:1|24w
 ivsel:Brenner21|96USSN20|RPV+Islatravir|exp:1|24w
-ivsel:Brenner21|NL4-3|RPV+Islatravir|exp:1|24w
+ivsel:Brenner21|pNL4-3|RPV+Islatravir|exp:1|24w
 ivsel:Brenner21|Strain 14637|RPV+3TC|exp:1|8w
 ivsel:Brenner21|Strain 14969|RPV+3TC|exp:1|8w
 ivsel:Brenner21|Strain 5326|RPV+3TC|exp:1|8w
 ivsel:Brenner21|Strain 4742|RPV+3TC|exp:1|8w
 ivsel:Brenner21|Strain 6343|RPV+3TC|exp:1|8w
 ivsel:Brenner21|96USSN20|RPV+3TC|exp:1|8w
-ivsel:Brenner21|NL4-3|RPV+3TC|exp:1|8w
+ivsel:Brenner21|pNL4-3|RPV+3TC|exp:1|8w
 ivsel:Brenner21|Strain 14637|RPV+3TC|exp:1|24w
 ivsel:Brenner21|Strain 14969|RPV+3TC|exp:1|24w
 ivsel:Brenner21|Strain 5326|RPV+3TC|exp:1|24w
 ivsel:Brenner21|Strain 4742|RPV+3TC|exp:1|24w
 ivsel:Brenner21|Strain 6343|RPV+3TC|exp:1|24w
 ivsel:Brenner21|96USSN20|RPV+3TC|exp:1|24w
-ivsel:Brenner21|NL4-3|RPV+3TC|exp:1|24w
+ivsel:Brenner21|pNL4-3|RPV+3TC|exp:1|24w
 BK132
 ivsel:Asahchop11|BK132|ETR|exp:1|11-13w
 ivsel:Asahchop11|Strain 5326|ETR|exp:1|11-13w
@@ -1021,32 +1021,32 @@ ivsel:Tisdale97|exp:1|p6
 ivsel:Tisdale97|exp:2|p4
 ivsel:Tisdale97|exp:2|p6
 ivsel:Tisdale97|exp:1|p8
-ivsel:Seki15|NL4-3|DTG|exp:1|p~16
-ivsel:Seki15|NL4-3|RAL|exp:1|p~12
-ivsel:Seki15|NL4-3|RAL|exp:1a|p~16
-ivsel:Seki15|NL4-3|RAL|exp:1b|p~16
-ivsel:Seki15|NL4-3|RAL|exp:2|p~8
-ivsel:Seki15|NL4-3|RAL|exp:2a|p~12
-ivsel:Seki15|NL4-3|RAL|exp:2a|p~16
-ivsel:Seki15|NL4-3|RAL|exp:2b|p~12
-ivsel:Seki15|NL4-3|RAL|exp:2b|p~16
-ivsel:Seki15|NL4-3|EVG|exp:1a|p~8
-ivsel:Seki15|NL4-3|EVG|exp:1a|p~12
-ivsel:Seki15|NL4-3|EVG|exp:1a1|p~16
-ivsel:Seki15|NL4-3|EVG|exp:1a2|p~16
-ivsel:Seki15|NL4-3|EVG|exp:1b|p~8
-ivsel:Seki15|NL4-3|EVG|exp:1b1|p~12
-ivsel:Seki15|NL4-3|EVG|exp:1b1|p~16
-ivsel:Seki15|NL4-3|EVG|exp:1b2|p~12
-ivsel:Seki15|NL4-3|EVG|exp:1b2a|p~16
-ivsel:Seki15|NL4-3|EVG|exp:1b2b|p~16
-ivsel:Seki15|NL4-3|EVG|exp:2|p~4
-ivsel:Seki15|NL4-3|EVG|exp:2a|p~8
-ivsel:Seki15|NL4-3|EVG|exp:2a|p~12
-ivsel:Seki15|NL4-3|EVG|exp:2a|p~16
-ivsel:Seki15|NL4-3|EVG|exp:2b|p~8
-ivsel:Seki15|NL4-3|EVG|exp:2b|p~12
-ivsel:Seki15|NL4-3|EVG|exp:2b|p~16
+ivsel:Seki15|pNL4-3|DTG|exp:1|p~16
+ivsel:Seki15|pNL4-3|RAL|exp:1|p~12
+ivsel:Seki15|pNL4-3|RAL|exp:1a|p~16
+ivsel:Seki15|pNL4-3|RAL|exp:1b|p~16
+ivsel:Seki15|pNL4-3|RAL|exp:2|p~8
+ivsel:Seki15|pNL4-3|RAL|exp:2a|p~12
+ivsel:Seki15|pNL4-3|RAL|exp:2a|p~16
+ivsel:Seki15|pNL4-3|RAL|exp:2b|p~12
+ivsel:Seki15|pNL4-3|RAL|exp:2b|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:1a|p~8
+ivsel:Seki15|pNL4-3|EVG|exp:1a|p~12
+ivsel:Seki15|pNL4-3|EVG|exp:1a1|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:1a2|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:1b|p~8
+ivsel:Seki15|pNL4-3|EVG|exp:1b1|p~12
+ivsel:Seki15|pNL4-3|EVG|exp:1b1|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:1b2|p~12
+ivsel:Seki15|pNL4-3|EVG|exp:1b2a|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:1b2b|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:2|p~4
+ivsel:Seki15|pNL4-3|EVG|exp:2a|p~8
+ivsel:Seki15|pNL4-3|EVG|exp:2a|p~12
+ivsel:Seki15|pNL4-3|EVG|exp:2a|p~16
+ivsel:Seki15|pNL4-3|EVG|exp:2b|p~8
+ivsel:Seki15|pNL4-3|EVG|exp:2b|p~12
+ivsel:Seki15|pNL4-3|EVG|exp:2b|p~16
 NL4-3 (E92Q)
 ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~12
 ivsel:Seki15|NL4-3 (E92Q)|RAL|exp:1|p~16
@@ -1194,9 +1194,9 @@ ivsel:Quashie12|Strain 6399|exp:1|37w
 ivsel:Quashie12|96USSN20|exp:1|37w
 ivsel:Quashie12|Strain 4742|exp:1|37w
 ivsel:Quashie12|96USNG31|exp:1|37w
-ivsel:Vingerhoets05|LAI|exp:1|dose:200nM
-ivsel:Vingerhoets05|LAI|exp:2|dose:40nM
-ivsel:Vingerhoets05|LAI|exp:3|dose:40nM
+ivsel:Vingerhoets05|BRU|exp:1|dose:200nM
+ivsel:Vingerhoets05|BRU|exp:2|dose:40nM
+ivsel:Vingerhoets05|BRU|exp:3|dose:40nM
 HXB2 (K103N)
 ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:40nM
 ivsel:Vingerhoets05|HXB2 (K103N)|exp:1|dose:200nM

@@ -1,8 +1,8 @@
 ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
-DeMeyer05,ivsel:DeMeyer05|exp:1|p14,LAI,MT-4-LTR-EGFP,1,=,14,False,=,45,day,False,"Table 4, figure 4"
-DeMeyer05,ivsel:DeMeyer05|exp:1|p29,LAI,MT-4-LTR-EGFP,1,=,29,False,=,97,day,False,"Table 4, figure 4"
-DeMeyer05,ivsel:DeMeyer05|exp:1|p54,LAI,MT-4-LTR-EGFP,1,=,54,False,=,188,day,False,"Table 4, figure 4"
-DeMeyer05,ivsel:DeMeyer05|exp:1|p75,LAI,MT-4-LTR-EGFP,1,=,75,False,=,260,day,False,"Table 4, figure 4"
-DeMeyer05,ivsel:DeMeyer05|exp:1|p42,LAI,MT-4-LTR-EGFP,1,=,42,False,~,147,day,False,Figure 4
-DeMeyer05,ivsel:DeMeyer05|exp:1|p40,LAI,MT-4-LTR-EGFP,1,=,40,False,~,140,day,False,Figure 4
-DeMeyer05,ivsel:DeMeyer05|exp:1|p56,LAI,MT-4-LTR-EGFP,1,=,56,False,~,196,day,False,Figure 4
+DeMeyer05,ivsel:DeMeyer05|exp:1|p14,BRU,MT-4-LTR-EGFP,1,=,14,False,=,45,day,False,"Table 4, figure 4"
+DeMeyer05,ivsel:DeMeyer05|exp:1|p29,BRU,MT-4-LTR-EGFP,1,=,29,False,=,97,day,False,"Table 4, figure 4"
+DeMeyer05,ivsel:DeMeyer05|exp:1|p54,BRU,MT-4-LTR-EGFP,1,=,54,False,=,188,day,False,"Table 4, figure 4"
+DeMeyer05,ivsel:DeMeyer05|exp:1|p75,BRU,MT-4-LTR-EGFP,1,=,75,False,=,260,day,False,"Table 4, figure 4"
+DeMeyer05,ivsel:DeMeyer05|exp:1|p42,BRU,MT-4-LTR-EGFP,1,=,42,False,~,147,day,False,Figure 4
+DeMeyer05,ivsel:DeMeyer05|exp:1|p40,BRU,MT-4-LTR-EGFP,1,=,40,False,~,140,day,False,Figure 4
+DeMeyer05,ivsel:DeMeyer05|exp:1|p56,BRU,MT-4-LTR-EGFP,1,=,56,False,~,196,day,False,Figure 4

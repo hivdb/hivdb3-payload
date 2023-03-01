@@ -1,5 +1,5 @@
 ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
-Corbau10,ivsel:Corbau10|Lersivirine|exp:1|p9,NL4-3,SupT1,1,=,9,False,=,9,week,False,"Table 6, Figure S1"
-Corbau10,ivsel:Corbau10|Lersivirine|exp:1|p11,NL4-3,SupT1,1,=,11,False,=,11,week,False,"Table 6, Figure S1"
-Corbau10,ivsel:Corbau10|Lersivirine|exp:2|p11,NL4-3,SupT1,2,=,11,False,=,11,week,False,"Table 6, Figure S1"
-Corbau10,ivsel:Corbau10|EFV|exp:1|p11,NL4-3,SupT1,1,=,11,False,=,11,week,False,Table 6
+Corbau10,ivsel:Corbau10|Lersivirine|exp:1|p9,pNL4-3,SupT1,1,=,9,False,=,9,week,False,"Table 6, Figure S1"
+Corbau10,ivsel:Corbau10|Lersivirine|exp:1|p11,pNL4-3,SupT1,1,=,11,False,=,11,week,False,"Table 6, Figure S1"
+Corbau10,ivsel:Corbau10|Lersivirine|exp:2|p11,pNL4-3,SupT1,2,=,11,False,=,11,week,False,"Table 6, Figure S1"
+Corbau10,ivsel:Corbau10|EFV|exp:1|p11,pNL4-3,SupT1,1,=,11,False,=,11,week,False,Table 6
