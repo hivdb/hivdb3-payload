@@ -1,27 +1,27 @@
-isolate_name
-BRU
-A018A
-HXB2
-GB8
-pNL4-3
-IIIB
-RF
-Consensus B
-CNGZD
-R8
-92RW026
-93MW959
-Strain 5326
-96USSN20
-Strain 14514
-Strain 10387
-Strain 10249
-Strain 14624
-Strain 14637
-Strain 14947
-Strain 4742
-Strain 10947
-Strain 6343
-Strain 14515
-Strain 14969
-2007CNGX-HK
+isolate_name,subtype
+BRU,B
+A018A,B
+HXB2,B
+GB8,B
+pNL4-3,B
+IIIB,B
+RF,B
+Consensus B,B
+CNGZD,CRF07_BC
+R8,B
+92RW026,A
+93MW959,C
+Strain 5326,B
+96USSN20,CRF02_AG
+Strain 14514,B
+Strain 10387,B
+Strain 10249,B
+Strain 14624,B
+Strain 14637,B
+Strain 14947,B
+Strain 4742,C
+Strain 10947,C
+Strain 6343,CRF01_AE
+Strain 14515,CRF01_AE
+Strain 14969,B
+2007CNGX-HK,CRF08_BC
