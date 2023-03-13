@@ -1,0 +1,11 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Diamond22,ivsel:Diamond22|92RW026|exp:FBS|p6,92RW026,MT-4-GFP,FBS,=,6,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|R8|exp:FBS|p4,R8,MT-4-GFP,FBS,=,4,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|R8|exp:FBS|p11,R8,MT-4-GFP,FBS,=,11,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|R8|exp:FBS|p38,R8,MT-4-GFP,FBS,=,38,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|93MW959|exp:FBS|p12,93MW959,MT-4-GFP,FBS,=,12,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|92RW026|exp:NHS|p36,92RW026,MT-4-GFP,NHS,=,36,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|R8|exp:NHS|p4,R8,MT-4-GFP,NHS,=,4,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|R8|exp:NHS|p25,R8,MT-4-GFP,NHS,=,25,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|R8|exp:NHS|p34,R8,MT-4-GFP,NHS,=,34,False,=,NULL,NULL,False,Table 1 and table S1
+Diamond22,ivsel:Diamond22|93MW959|exp:NHS|p36,93MW959,MT-4-GFP,NHS,=,36,False,=,NULL,NULL,False,Table 1 and table S1

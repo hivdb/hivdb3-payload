@@ -1,0 +1,11 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Diamond22,ivsel:Diamond22|92RW026|exp:FBS|p6,Islatravir,~,8.0,nM,False
+Diamond22,ivsel:Diamond22|R8|exp:FBS|p4,Islatravir,~,2.0,nM,False
+Diamond22,ivsel:Diamond22|R8|exp:FBS|p11,Islatravir,~,256.0,nM,False
+Diamond22,ivsel:Diamond22|R8|exp:FBS|p38,Islatravir,~,512.0,nM,False
+Diamond22,ivsel:Diamond22|93MW959|exp:FBS|p12,Islatravir,~,512.0,nM,False
+Diamond22,ivsel:Diamond22|92RW026|exp:NHS|p36,Islatravir,~,800.0,nM,False
+Diamond22,ivsel:Diamond22|R8|exp:NHS|p4,Islatravir,~,3.0,nM,False
+Diamond22,ivsel:Diamond22|R8|exp:NHS|p25,Islatravir,~,800.0,nM,False
+Diamond22,ivsel:Diamond22|R8|exp:NHS|p34,Islatravir,~,800.0,nM,False
+Diamond22,ivsel:Diamond22|93MW959|exp:NHS|p36,Islatravir,~,800.0,nM,False

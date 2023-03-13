@@ -649,6 +649,16 @@ ivsel:Kobayashi08|EVG|exp:Mixed|p16,IN,NULL
 ivsel:Kobayashi08|3TC|exp:Mixed|p4,RT,NULL
 ivsel:Kobayashi08|3TC|exp:Mixed|p8,RT,NULL
 ivsel:Kobayashi08|3TC|exp:Mixed|p12,RT,NULL
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,NULL
+ivsel:Diamond22|R8|exp:FBS|p4,RT,NULL
+ivsel:Diamond22|R8|exp:FBS|p11,RT,NULL
+ivsel:Diamond22|R8|exp:FBS|p38,RT,NULL
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,NULL
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,NULL
+ivsel:Diamond22|R8|exp:NHS|p4,RT,NULL
+ivsel:Diamond22|R8|exp:NHS|p25,RT,NULL
+ivsel:Diamond22|R8|exp:NHS|p34,RT,NULL
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,NULL
 ivsel:DeMeyer05|exp:1|p14,PR,NULL
 ivsel:DeMeyer05|exp:1|p29,PR,NULL
 ivsel:DeMeyer05|exp:1|p54,PR,NULL

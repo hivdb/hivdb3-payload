@@ -1,0 +1,11 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Diamond22,Islatravir,MT-4-GFP,~8nM,LAI,92RW026,,FBS,6,,RT,,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~2nM,LAI,R8,,FBS,4,,RT,M184IVM,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~256nM,LAI,R8,,FBS,11,,RT,M184IV,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~512nM,LAI,R8,,FBS,38,,RT,M184MVI+V90VI+C162CY,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~512nM,LAI,93MW959,,FBS,12,,RT,,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,92RW026,,NHS,36,,RT,M184IV,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~3nM,LAI,R8,,NHS,4,,RT,,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,R8,,NHS,25,,RT,M184MVI,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,R8,,NHS,34,,RT,M184VIM+V90VI,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,93MW959,,NHS,36,,RT,M184IV+V90VI,Table 1 and table S1
