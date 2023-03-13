@@ -1,0 +1,14 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Maeda14,ivsel:Maeda14|Islatravir|exp:1|p15,Islatravir,~,100.0,nM,False
+Maeda14,ivsel:Maeda14|TDF|exp:1|p15,TDF,~,250.0,nM,False
+Maeda14,ivsel:Maeda14|Censavudine|exp:1|p15,Censavudine,=,8000.0,nM,False
+Maeda14,ivsel:Maeda14|Islatravir|exp:1|p5,Islatravir,~,70.0,nM,False
+Maeda14,ivsel:Maeda14|Islatravir|exp:1|p10,Islatravir,~,300.0,nM,False
+Maeda14,ivsel:Maeda14|Islatravir|exp:1|p20,Islatravir,~,500.0,nM,False
+Maeda14,ivsel:Maeda14|Islatravir|exp:1|p25,Islatravir,~,4500.0,nM,False
+Maeda14,ivsel:Maeda14|TDF|exp:1|p5,TDF,~,100.0,nM,False
+Maeda14,ivsel:Maeda14|TDF|exp:1|p10,TDF,=,4000.0,nM,False
+Maeda14,ivsel:Maeda14|TDF|exp:1|p18,TDF,=,8000.0,nM,False
+Maeda14,ivsel:Maeda14|TDF|exp:1|p22,TDF,=,10000.0,nM,False
+Maeda14,ivsel:Maeda14|Censavudine|exp:1|p5,Censavudine,~,300.0,nM,False
+Maeda14,ivsel:Maeda14|Censavudine|exp:1|p10,Censavudine,=,10000.0,nM,False

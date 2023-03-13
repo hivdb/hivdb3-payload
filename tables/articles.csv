@@ -33,6 +33,7 @@ Kobayashi11,10.1128/AAC.01209-10,NULL,NULL,"Kobayashi, Masanori","In Vitro Antir
 Margot12,10.1016/j.antiviral.2011.12.008,NULL,NULL,"Margot, Nicolas A.","In vitro resistance selections using elvitegravir, raltegravir, and two metabolites of elvitegravir M1 and M4",2012,TRUE
 Quashie12,10.1128/JVI.06591-11,NULL,NULL,"Quashie, Peter K.",Characterization of the R263K mutation in HIV-1 integrase that confers low-level resistance to the second-generation integrase strand transfer inhibitor dolutegravir,2012,TRUE
 Wu12,10.1371/journal.pone.0044333,NULL,NULL,"Wu, Hao",Identification of drug resistant mutations in HIV-1 CRF07_BC variants selected by nevirapine in vitro,2012,TRUE
+Maeda14,10.3851/IMP2697,NULL,NULL,"Maeda, Kenji","Delayed Emergence of HIV-1 Variants Resistant to 4′-Ethy Nyl-2-Fluoro-2′-Deoxyadenosine: Comparative Sequential Passage Study with Lamivudine, Tenofovir, Emtricitabine and BMS-986001",2014,TRUE
 Oliveira14,10.1097/QAD.0000000000000199,NULL,NULL,"Oliveira, Maureen",Resistance mutations against dolutegravir in HIV integrase impair the emergence of resistance against reverse transcriptase inhibitors,2014,TRUE
 Depatureaux15,10.1097/QAI.0000000000000698,NULL,NULL,"Depatureaux, Agnès",HIV-1 Group O Resistance Against Integrase Inhibitors,2015,TRUE
 Feng15,10.1128/AAC.04201-14,NULL,NULL,"Feng, Meizhen","In vitro resistance selection with doravirine (MK-1439), a novel nonnucleoside reverse transcriptase inhibitor with distinct mutation development pathways",2015,TRUE
@@ -40,10 +41,10 @@ Seki15,10.1128/AAC.04844-14,NULL,NULL,"Seki, Takahiro",Effects of Raltegravir or
 Yoshinaga15,10.1128/AAC.03909-14,NULL,NULL,"Yoshinaga, Tomokazu","Antiviral characteristics of GSK1265744, an HIV integrase inhibitor dosed orally or by long-acting injection",2015,TRUE
 Oliveira16,10.1097/QAD.0000000000001191,NULL,NULL,"Oliveira, Maureen",The M184I/V and K65R nucleoside resistance mutations in HIV-1 prevent the emergence of resistance mutations against dolutegravir,2016,TRUE
 Tsiang16,10.1128/AAC.01474-16,NULL,NULL,"Tsiang, Manuel","Antiviral Activity of Bictegravir (GS-9883), a Novel Potent HIV-1 Integrase Strand Transfer Inhibitor with an Improved Resistance Profile",2016,TRUE
+Aoki18,10.1128/mBio.02425-17,NULL,NULL,"Aoki, Manabu","Mechanism of Darunavir (DRV)’s High Genetic Barrier to HIV-1 Resistance: A Key V32I Substitution in Protease Rarely Occurs, but Once It Occurs, It Predisposes HIV-1 To Develop DRV Resistance",2018,TRUE
 Oliveira18,10.1186/s12977-018-0440-3,NULL,NULL,"Oliveira, Maureen","Selective resistance profiles emerging in patient-derived clinical isolates with cabotegravir, bictegravir, dolutegravir, and elvitegravir",2018,TRUE
 Yoshinaga18,10.1016/j.antiviral.2018.01.013,NULL,NULL,"Yoshinaga, Tomokazu",Novel secondary mutations C56S and G149A confer resistance to HIV-1 integrase strand transfer inhibitors,2018,TRUE
 Brenner21,10.1093/jac/dkab126,NULL,NULL,"Brenner, Bluma G",Cell culture selections reveal favourable drug resistance profiles for doravirine and islatravir,2021,TRUE
 Wu15,10.1089/AID.2013.0211,NULL,NULL,"Wu, Hao",In vitro selection of HIV-1 CRF08_BC variants resistant to reverse transcriptase inhibitors,2015,TRUE
 Yant19,10.1038/s41591-019-0560-x,NULL,NULL,"Yant, Stephen R.",A highly potent long-acting small-molecule HIV-1 capsid inhibitor with efficacy in a humanized mouse model,2019,TRUE
 Link20,10.1038/s41586-020-2443-1,NULL,NULL,"Link, John O.",Clinical targeting of HIV capsid protein with a long-acting small molecule,2020,TRUE
-Aoki18,10.1128/mBio.02425-17,NULL,NULL,"Aoki, M.","Mechanism of Darunavir (DRV)’s High Genetic Barrier to HIV-1 Resistance: A Key V32I Substitution in Protease Rarely Occurs, but Once It Occurs, It Predisposes HIV-1 To Develop DRV Resistance",2018,TRUE

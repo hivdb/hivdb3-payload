@@ -1252,3 +1252,17 @@ ivsel:Wu12|exp:2a|p25,NULL
 ivsel:Wu12|exp:2b|p25,NULL
 ivsel:Wu12|exp:3|p25,NULL
 ivsel:Wu12|exp:4|p25,NULL
+ivsel:Maeda14|Islatravir|exp:1|p15,NULL
+ivsel:Maeda14|TDF|exp:1|p15,NULL
+ivsel:Maeda14|Censavudine|exp:1|p15,NULL
+11MIX,NULL
+ivsel:Maeda14|Islatravir|exp:1|p5,NULL
+ivsel:Maeda14|Islatravir|exp:1|p10,NULL
+ivsel:Maeda14|Islatravir|exp:1|p20,NULL
+ivsel:Maeda14|Islatravir|exp:1|p25,NULL
+ivsel:Maeda14|TDF|exp:1|p5,NULL
+ivsel:Maeda14|TDF|exp:1|p10,NULL
+ivsel:Maeda14|TDF|exp:1|p18,NULL
+ivsel:Maeda14|TDF|exp:1|p22,NULL
+ivsel:Maeda14|Censavudine|exp:1|p5,NULL
+ivsel:Maeda14|Censavudine|exp:1|p10,NULL
