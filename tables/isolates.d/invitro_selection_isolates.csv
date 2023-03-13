@@ -479,6 +479,27 @@ ivsel:Carrillo98|exp:1|p16,NULL
 ivsel:Carrillo98|exp:1|p17,NULL
 ivsel:Carrillo98|exp:1|p25,NULL
 ivsel:Carrillo98|exp:1|p29,NULL
+pNL4-3 (PR:V32I/L33F/I54M/I84V),B
+ivsel:Aoki18|pNL4-3 (PR:V32I/L33F/I54M/I84V)|exp:1|p10,NULL
+pNL4-3 (PR:V32I/I54M),B
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p5,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p20,NULL
+pNL4-3 (PR:L33F/I84V),B
+ivsel:Aoki18|pNL4-3 (PR:L33F/I84V)|exp:1|p21,NULL
+pNL4-3 (PR:I84V),B
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p5,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p10,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p17,NULL
+pNL4-3 (PR:V32I),B
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p5,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p19,NULL
+pNL4-3 (PR:I54M),B
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p5,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p15,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p22,NULL
+ivsel:Aoki18|pNL4-3|exp:1|p30,NULL
+pNL4-3 (PR:L33F),B
+ivsel:Aoki18|pNL4-3 (PR:L33F)|exp:1|p28,NULL
 ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,NULL
 ivsel:Tisdale95|HXB2|A-77003|exp:1|p5,NULL
 ivsel:Tisdale95|HXB2|A-77003|exp:1|p6,NULL

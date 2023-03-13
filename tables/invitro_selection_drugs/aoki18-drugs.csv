@@ -1,0 +1,15 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:V32I/L33F/I54M/I84V)|exp:1|p10,DRV,=,4000.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p5,DRV,=,15.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p20,DRV,=,900.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:L33F/I84V)|exp:1|p21,DRV,=,1000.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p5,DRV,=,10.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p10,DRV,=,40.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p17,DRV,=,1500.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p5,DRV,=,10.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p19,DRV,=,1000.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p5,DRV,=,10.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p15,DRV,=,120.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p22,DRV,=,1000.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3|exp:1|p30,DRV,=,70.0,nM,False
+Aoki18,ivsel:Aoki18|pNL4-3 (PR:L33F)|exp:1|p28,DRV,=,90.0,nM,False

@@ -1682,6 +1682,90 @@ ivsel:Carrillo98|exp:1|p29,PR,NULL
 ivsel:Carrillo98|exp:1|p29,RT,NULL
 ivsel:Carrillo98|exp:1|p29,IN,NULL
 ivsel:Carrillo98|exp:1|p29,CA,NULL
+pNL4-3 (PR:V32I/L33F/I54M/I84V),PR,NULL
+pNL4-3 (PR:V32I/L33F/I54M/I84V),RT,NULL
+pNL4-3 (PR:V32I/L33F/I54M/I84V),IN,NULL
+pNL4-3 (PR:V32I/L33F/I54M/I84V),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/L33F/I54M/I84V)|exp:1|p10,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/L33F/I54M/I84V)|exp:1|p10,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/L33F/I54M/I84V)|exp:1|p10,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/L33F/I54M/I84V)|exp:1|p10,CA,NULL
+pNL4-3 (PR:V32I/I54M),PR,NULL
+pNL4-3 (PR:V32I/I54M),RT,NULL
+pNL4-3 (PR:V32I/I54M),IN,NULL
+pNL4-3 (PR:V32I/I54M),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p5,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p5,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p5,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p5,CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p20,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p20,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p20,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I/I54M)|exp:1|p20,CA,NULL
+pNL4-3 (PR:L33F/I84V),PR,NULL
+pNL4-3 (PR:L33F/I84V),RT,NULL
+pNL4-3 (PR:L33F/I84V),IN,NULL
+pNL4-3 (PR:L33F/I84V),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F/I84V)|exp:1|p21,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F/I84V)|exp:1|p21,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F/I84V)|exp:1|p21,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F/I84V)|exp:1|p21,CA,NULL
+pNL4-3 (PR:I84V),PR,NULL
+pNL4-3 (PR:I84V),RT,NULL
+pNL4-3 (PR:I84V),IN,NULL
+pNL4-3 (PR:I84V),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p5,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p5,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p5,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p5,CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p10,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p10,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p10,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p10,CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p17,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p17,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p17,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:I84V)|exp:1|p17,CA,NULL
+pNL4-3 (PR:V32I),PR,NULL
+pNL4-3 (PR:V32I),RT,NULL
+pNL4-3 (PR:V32I),IN,NULL
+pNL4-3 (PR:V32I),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p5,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p5,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p5,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p5,CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p19,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p19,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p19,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:V32I)|exp:1|p19,CA,NULL
+pNL4-3 (PR:I54M),PR,NULL
+pNL4-3 (PR:I54M),RT,NULL
+pNL4-3 (PR:I54M),IN,NULL
+pNL4-3 (PR:I54M),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p5,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p5,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p5,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p5,CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p15,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p15,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p15,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p15,CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p22,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p22,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p22,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:I54M)|exp:1|p22,CA,NULL
+ivsel:Aoki18|pNL4-3|exp:1|p30,PR,NULL
+ivsel:Aoki18|pNL4-3|exp:1|p30,RT,NULL
+ivsel:Aoki18|pNL4-3|exp:1|p30,IN,NULL
+ivsel:Aoki18|pNL4-3|exp:1|p30,CA,NULL
+pNL4-3 (PR:L33F),PR,NULL
+pNL4-3 (PR:L33F),RT,NULL
+pNL4-3 (PR:L33F),IN,NULL
+pNL4-3 (PR:L33F),CA,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F)|exp:1|p28,PR,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F)|exp:1|p28,RT,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F)|exp:1|p28,IN,NULL
+ivsel:Aoki18|pNL4-3 (PR:L33F)|exp:1|p28,CA,NULL
 ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,PR,NULL
 ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,RT,NULL
 ivsel:Tisdale95|HXB2|A-77003|exp:1|p2,IN,NULL
