@@ -1,11 +1,11 @@
 ﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
-Diamond22,Islatravir,MT-4-GFP,~8nM,LAI,92RW026,,FBS,6,,RT,,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~2nM,LAI,R8,,FBS,4,,RT,M184IVM,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~256nM,LAI,R8,,FBS,11,,RT,M184IV,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~512nM,LAI,R8,,FBS,38,,RT,M184MVI+V90VI+C162CY,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~512nM,LAI,93MW959,,FBS,12,,RT,,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,92RW026,,NHS,36,,RT,M184IV,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~3nM,LAI,R8,,NHS,4,,RT,,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,R8,,NHS,25,,RT,M184MVI,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,R8,,NHS,34,,RT,M184VIM+V90VI,Table 1 and table S1
-Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,93MW959,,NHS,36,,RT,M184IV+V90VI,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~8nM,LAI,92RW026,,FBS,6,~21d,RT,,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~2nM,LAI,R8,,FBS,4,~14d,RT,M184IVM+E36EK,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~256nM,LAI,R8,,FBS,11,~40d,RT,M184IV+K166KR,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~512nM,LAI,R8,,FBS,38,~130d,RT,M184MVI+V90VI+C162CY+K116KR+G196GR+M41L+A114S+A400T,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~512nM,LAI,93MW959,,FBS,12,~40d,RT,,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,92RW026,,NHS,36,~125d,RT,M184IV,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~3nM,LAI,R8,,NHS,4,~14d,RT,P313PT,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,R8,,NHS,25,~90d,RT,M184MVI+H221HY,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,R8,,NHS,34,~120d,RT,M184VIM+V90VI+E36ED+A158AT+H221Y+P313PT,Table 1 and table S1
+Diamond22,Islatravir,MT-4-GFP,~800nM,LAI,93MW959,,NHS,36,~125d,RT,M184IV+V90VI+L74LI+V75VA,Table 1 and table S1
