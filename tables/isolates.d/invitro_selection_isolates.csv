@@ -110,7 +110,7 @@ ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,NULL
 ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,NULL
 ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,NULL
 ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,NULL
-LAI (Q151M),NULL
+LAI (Q151M),B
 ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,NULL
 ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,NULL
 ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,NULL
