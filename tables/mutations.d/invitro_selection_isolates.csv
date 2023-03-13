@@ -111,191 +111,458 @@ ivsel:Fikkert03|exp:1|p70,IN,74,M
 ivsel:Fikkert03|exp:1|p70,IN,124,A
 ivsel:Fikkert03|exp:1|p70,IN,230,R
 ivsel:Fikkert03|exp:1|p70,IN,232,N
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,102,Q
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,162,C
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,135,T
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,174,L
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,174,R
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,177,E
 ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,184,V
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,196,E
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,196,G
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,200,I
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,200,V
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,214,L
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,245,E
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,245,K
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,272,P
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,275,R
 ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,277,R
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,278,H
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,286,A
 ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,293,V
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,358,K
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,435,I
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,RT,468,P
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,102,Q
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,162,C
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,135,T
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,174,L
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,174,R
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,177,E
 ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,184,V
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,196,E
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,196,G
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,200,I
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,200,V
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,214,L
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,245,E
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,245,K
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,272,P
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,275,R
 ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,277,R
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,278,H
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,286,A
 ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,293,V
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,358,K
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,435,I
-ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,RT,468,P
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,102,Q
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,162,C
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,98,S
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,102,R
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,123,E
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,162,A
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,177,E
 ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,184,V
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,207,A
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,211,K
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,214,L
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,272,P
 ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,277,R
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,286,A
 ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,293,V
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,358,K
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,435,I
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,468,P
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,102,Q
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,162,C
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,297,Q
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,326,V
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,334,D
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,334,E
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,390,R
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,RT,400,T
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,98,S
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,102,R
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,123,E
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,162,A
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,177,E
 ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,184,V
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,207,A
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,211,K
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,214,L
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,272,P
 ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,277,R
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,286,A
 ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,293,V
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,358,K
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,435,I
-ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,468,P
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,102,Q
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,162,C
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,277,R
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,293,V
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,358,K
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,435,I
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,468,P
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,102,Q
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,162,C
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,297,Q
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,326,V
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,334,D
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,334,E
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,390,R
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,RT,400,T
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,39,E
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,48,T
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,69,P
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,69,T
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,98,S
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,122,E
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,123,S
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,138,A
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,RT,139,A
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,39,E
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,48,T
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,69,P
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,69,T
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,98,S
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,122,E
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,123,S
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,138,A
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,139,A
 ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,184,I
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,277,R
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,293,V
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,358,K
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,435,I
-ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,RT,468,P
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,102,Q
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,35,I
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,107,S
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,122,E
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,123,S
 ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,162,C
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,173,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,174,K
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,177,E
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,179,I
 ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,184,V
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,277,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,207,A
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,211,N
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,245,E
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,286,A
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,291,D
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,292,I
 ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,293,V
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,358,K
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,435,I
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,468,P
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,102,Q
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,312,T
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,326,V
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,329,V
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,335,D
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,357,K
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,359,S
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,366,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,371,V
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,386,I
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,386,T
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,390,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,RT,400,T
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,35,I
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,107,S
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,122,E
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,123,S
 ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,162,C
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,173,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,174,K
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,177,E
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,179,I
 ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,184,V
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,277,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,207,A
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,211,N
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,245,E
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,286,A
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,291,D
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,292,I
 ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,293,V
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,358,K
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,435,I
-ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,468,P
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,102,Q
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,162,C
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,312,T
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,326,V
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,329,V
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,335,D
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,357,K
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,359,S
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,366,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,371,V
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,386,I
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,386,T
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,390,R
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,RT,400,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,35,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,36,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,36,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,60,I
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,67,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,67,N
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,69,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,70,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,135,V
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,162,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,173,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,174,K
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,177,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,178,M
 ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,184,V
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,277,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,196,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,200,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,207,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,245,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,250,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,286,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,292,I
 ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,293,V
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,358,K
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,435,I
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,468,P
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,102,Q
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,162,C
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,322,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,335,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,356,K
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,357,K
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,359,S
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,366,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,369,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,371,V
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,375,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,390,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,393,I
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,393,V
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,RT,395,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,35,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,36,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,36,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,60,I
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,67,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,67,N
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,69,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,70,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,135,V
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,162,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,173,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,174,K
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,177,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,178,M
 ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,184,V
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,277,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,196,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,200,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,207,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,245,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,250,E
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,286,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,292,I
 ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,293,V
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,358,K
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,435,I
-ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,468,P
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,102,Q
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,162,C
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,322,T
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,335,D
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,356,K
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,357,K
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,359,S
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,366,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,369,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,371,V
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,375,A
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,390,R
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,393,I
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,393,V
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,RT,395,R
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,135,T
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,174,L
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,174,R
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,177,E
 ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,184,I
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,196,E
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,196,G
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,200,I
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,200,V
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,214,L
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,245,E
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,245,K
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,272,P
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,275,R
 ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,277,R
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,278,H
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,286,A
 ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,293,V
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,358,K
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,435,I
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,RT,468,P
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,102,Q
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,162,C
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,135,T
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,174,L
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,174,R
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,177,E
 ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,184,I
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,196,E
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,196,G
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,200,I
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,200,V
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,214,L
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,245,E
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,245,K
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,272,P
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,275,R
 ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,277,R
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,278,H
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,286,A
 ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,293,V
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,358,K
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,435,I
-ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,RT,468,P
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,102,Q
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,162,C
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,98,S
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,102,R
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,123,E
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,162,A
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,177,E
 ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,184,V
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,207,A
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,211,K
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,214,L
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,272,P
 ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,277,R
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,286,A
 ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,293,V
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,358,K
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,435,I
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,468,P
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,102,Q
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,162,C
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,297,Q
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,326,V
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,334,D
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,334,E
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,390,R
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,RT,400,T
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,98,S
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,102,R
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,123,E
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,162,A
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,177,E
 ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,184,V
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,207,A
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,211,K
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,214,L
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,272,P
 ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,277,R
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,286,A
 ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,293,V
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,358,K
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,435,I
-ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,468,P
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,102,Q
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,162,C
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,297,Q
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,326,V
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,334,D
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,334,E
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,390,R
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,RT,400,T
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,39,E
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,48,T
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,69,P
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,69,T
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,98,S
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,122,E
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,123,S
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,138,A
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,139,A
 ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,184,V
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,277,R
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,293,V
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,358,K
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,435,I
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,RT,468,P
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,102,Q
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,162,C
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,39,E
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,48,T
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,69,P
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,69,T
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,98,S
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,122,E
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,123,S
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,138,A
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,139,A
 ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,184,V
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,277,R
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,293,V
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,358,K
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,435,I
-ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,RT,468,P
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,102,Q
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,35,I
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,107,S
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,122,E
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,123,S
 ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,162,C
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,173,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,174,K
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,177,E
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,179,I
 ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,184,V
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,277,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,207,A
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,211,N
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,245,E
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,286,A
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,291,D
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,292,I
 ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,293,V
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,358,K
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,435,I
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,468,P
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,102,Q
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,312,T
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,326,V
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,329,V
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,335,D
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,357,K
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,359,S
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,366,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,371,V
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,386,I
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,386,T
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,390,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,RT,400,T
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,35,I
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,107,S
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,122,E
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,123,S
 ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,162,C
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,173,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,174,K
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,177,E
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,179,I
 ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,184,V
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,277,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,207,A
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,211,N
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,245,E
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,286,A
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,291,D
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,292,I
 ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,293,V
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,358,K
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,435,I
-ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,468,P
-ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,102,Q
-ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,162,C
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,312,T
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,326,V
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,329,V
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,335,D
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,357,K
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,359,S
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,366,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,371,V
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,386,I
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,386,T
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,390,R
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,RT,400,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,35,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,36,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,36,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,60,I
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,67,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,67,N
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,69,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,70,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,135,V
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,162,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,173,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,174,K
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,177,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,178,M
 ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,184,V
-ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,277,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,196,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,200,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,207,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,245,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,250,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,286,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,292,I
 ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,293,V
-ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,358,K
-ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,435,I
-ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,468,P
-ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,102,Q
-ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,162,C
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,322,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,335,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,356,K
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,357,K
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,359,S
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,366,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,369,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,371,V
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,375,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,390,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,393,I
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,393,V
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,RT,395,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,35,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,36,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,36,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,60,I
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,67,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,67,N
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,69,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,70,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,135,V
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,162,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,173,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,174,K
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,177,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,178,M
 ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,184,V
-ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,277,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,196,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,200,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,207,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,245,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,250,E
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,286,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,292,I
 ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,293,V
-ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,358,K
-ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,435,I
-ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,468,P
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,102,Q
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,322,T
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,335,D
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,356,K
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,357,K
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,359,S
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,366,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,369,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,371,V
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,375,A
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,390,R
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,393,I
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,393,V
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,RT,395,R
 ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,138,E
 ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,138,K
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,162,C
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,277,R
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,293,V
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,358,K
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,435,I
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RT,468,P
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,102,Q
 ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,138,K
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,162,C
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,277,R
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,293,V
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,358,K
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,435,I
-ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RT,468,P
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,102,Q
 ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,138,E
 ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,138,K
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,162,C
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,277,R
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,293,V
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,358,K
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,435,I
-ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RT,468,P
 Strain 12217,RT,7,A
 Strain 12217,RT,45,E
 Strain 12217,RT,45,G
@@ -747,6 +1014,187 @@ ivsel:Doyon05|exp:1|p73,PR,54,V
 ivsel:Doyon05|exp:1|p73,PR,71,V
 ivsel:Doyon05|exp:1|p73,PR,82,L
 ivsel:Doyon05|exp:1|p73,PR,84,V
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,65,R
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,122,E
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,214,L
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,272,P
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,277,R
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,357,T
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,376,T
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,400,T
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,447,S
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,460,N
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,468,T
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,519,N
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,65,R
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,68,N
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,122,E
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,214,L
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,272,P
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,277,R
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,357,T
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,376,T
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,400,T
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,447,S
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,460,N
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,468,T
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,519,N
+ivsel:Cox17|BRU|exp:1|dose:640nM,IN,10,D
+ivsel:Cox17|BRU|exp:1|dose:640nM,IN,72,V
+ivsel:Cox17|BRU|exp:1|dose:640nM,IN,92,Q
+ivsel:Cox17|BRU|exp:1|dose:640nM,IN,151,I
+LAI (K65R),RT,65,R
+LAI (K65R),RT,122,E
+LAI (K65R),RT,214,L
+LAI (K65R),RT,272,P
+LAI (K65R),RT,277,R
+LAI (K65R),RT,357,T
+LAI (K65R),RT,376,T
+LAI (K65R),RT,400,T
+LAI (K65R),RT,447,S
+LAI (K65R),RT,460,N
+LAI (K65R),RT,468,T
+LAI (K65R),RT,519,N
+LAI (K65R),IN,10,D
+LAI (K65R),IN,72,V
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,65,R
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,68,N
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,122,E
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,214,L
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,272,P
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,277,R
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,357,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,376,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,400,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,447,S
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,460,N
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,468,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,519,N
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,65,R
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,68,N
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,122,E
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,214,L
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,272,P
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,277,R
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,357,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,376,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,400,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,447,S
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,460,N
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,468,T
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,519,N
+ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,IN,10,D
+ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,IN,72,V
+ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,IN,138,K
+ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,IN,148,R
+ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,IN,151,I
+CI-3TAM,RT,41,L
+CI-3TAM,RT,181,C
+CI-3TAM,RT,190,A
+CI-3TAM,RT,210,W
+CI-3TAM,RT,215,Y
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,41,L
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,181,C
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,190,A
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,210,W
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,215,Y
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,429,I
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,41,L
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,181,C
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,190,A
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,210,W
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,215,Y
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,429,I
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,41,L
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,181,C
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,190,A
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,210,W
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,215,Y
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,429,I
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RT,41,L
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RT,181,C
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RT,190,A
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RT,210,W
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RT,215,Y
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,IN,148,R
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,IN,232,N
+LAI (Q151M),RT,62,V
+LAI (Q151M),RT,65,R
+LAI (Q151M),RT,68,G
+LAI (Q151M),RT,75,I
+LAI (Q151M),RT,77,L
+LAI (Q151M),RT,116,Y
+LAI (Q151M),RT,122,E
+LAI (Q151M),RT,151,M
+LAI (Q151M),RT,214,L
+LAI (Q151M),RT,272,P
+LAI (Q151M),RT,277,R
+LAI (Q151M),RT,357,T
+LAI (Q151M),RT,376,T
+LAI (Q151M),RT,400,T
+LAI (Q151M),RT,447,S
+LAI (Q151M),RT,460,N
+LAI (Q151M),RT,468,T
+LAI (Q151M),RT,519,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,62,V
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,65,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,68,G
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,69,I
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,75,I
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,77,L
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,116,Y
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,122,E
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,151,M
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,214,L
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,272,P
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,277,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,357,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,376,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,400,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,447,S
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,460,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,468,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,519,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,62,V
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,65,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,68,G
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,69,I
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,75,I
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,77,L
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,116,Y
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,122,E
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,151,M
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,214,L
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,272,P
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,277,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,357,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,376,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,400,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,447,S
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,460,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,468,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,519,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,62,V
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,65,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,68,G
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,75,I
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,77,L
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,116,Y
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,122,E
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,151,M
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,214,L
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,272,P
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,277,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,357,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,376,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,400,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,447,S
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,460,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,468,T
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,519,N
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,IN,74,M
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,IN,148,R
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,IN,230,R
 ivsel:Yoshinaga15|CAB|exp:2|p~4,IN,10,D
 ivsel:Yoshinaga15|CAB|exp:2|p~4,IN,72,V
 ivsel:Yoshinaga15|CAB|exp:2|p~4,IN,124,A
@@ -5208,148 +5656,317 @@ ivsel:Kobayashi08|3TC|exp:Mixed|p12,RT,471,N
 ivsel:Kobayashi08|3TC|exp:Mixed|p12,RT,483,Y
 ivsel:Kobayashi08|3TC|exp:Mixed|p12,RT,519,N
 ivsel:Kobayashi08|3TC|exp:Mixed|p12,RT,559,I
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,35,T
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,39,S
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,49,R
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,60,I
 ivsel:Diamond22|92RW026|exp:FBS|p6,RT,122,E
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,214,L
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,123,S
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,135,T
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,142,T
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,166,R
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,171,V
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,173,S
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,174,K
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,179,I
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,200,A
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,207,A
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,211,S
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,248,D
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,251,H
 ivsel:Diamond22|92RW026|exp:FBS|p6,RT,272,P
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,277,R
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,357,T
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,286,A
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,291,D
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,292,I
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,293,V
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,294,T
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,335,D
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,357,K
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,359,S
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,369,A
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,371,V
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,375,V
 ivsel:Diamond22|92RW026|exp:FBS|p6,RT,376,T
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,377,M
 ivsel:Diamond22|92RW026|exp:FBS|p6,RT,400,T
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,447,S
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,460,N
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,468,T
-ivsel:Diamond22|92RW026|exp:FBS|p6,RT,519,N
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,403,M
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,404,D
+ivsel:Diamond22|92RW026|exp:FBS|p6,RT,432,D
+ivsel:Diamond22|R8|exp:FBS|p4,RT,31,L
+ivsel:Diamond22|R8|exp:FBS|p4,RT,32,N
+ivsel:Diamond22|R8|exp:FBS|p4,RT,35,I
 ivsel:Diamond22|R8|exp:FBS|p4,RT,36,E
 ivsel:Diamond22|R8|exp:FBS|p4,RT,36,K
-ivsel:Diamond22|R8|exp:FBS|p4,RT,122,E
+ivsel:Diamond22|R8|exp:FBS|p4,RT,39,A
+ivsel:Diamond22|R8|exp:FBS|p4,RT,60,I
+ivsel:Diamond22|R8|exp:FBS|p4,RT,90,I
+ivsel:Diamond22|R8|exp:FBS|p4,RT,98,S
+ivsel:Diamond22|R8|exp:FBS|p4,RT,102,Q
+ivsel:Diamond22|R8|exp:FBS|p4,RT,135,V
+ivsel:Diamond22|R8|exp:FBS|p4,RT,139,K
+ivsel:Diamond22|R8|exp:FBS|p4,RT,141,A
+ivsel:Diamond22|R8|exp:FBS|p4,RT,178,M
 ivsel:Diamond22|R8|exp:FBS|p4,RT,184,I
 ivsel:Diamond22|R8|exp:FBS|p4,RT,184,M
 ivsel:Diamond22|R8|exp:FBS|p4,RT,184,V
-ivsel:Diamond22|R8|exp:FBS|p4,RT,214,L
+ivsel:Diamond22|R8|exp:FBS|p4,RT,196,E
+ivsel:Diamond22|R8|exp:FBS|p4,RT,245,K
 ivsel:Diamond22|R8|exp:FBS|p4,RT,272,P
 ivsel:Diamond22|R8|exp:FBS|p4,RT,277,R
+ivsel:Diamond22|R8|exp:FBS|p4,RT,293,V
+ivsel:Diamond22|R8|exp:FBS|p4,RT,294,S
+ivsel:Diamond22|R8|exp:FBS|p4,RT,297,R
 ivsel:Diamond22|R8|exp:FBS|p4,RT,357,T
-ivsel:Diamond22|R8|exp:FBS|p4,RT,376,T
+ivsel:Diamond22|R8|exp:FBS|p4,RT,379,G
+ivsel:Diamond22|R8|exp:FBS|p4,RT,386,I
 ivsel:Diamond22|R8|exp:FBS|p4,RT,400,T
-ivsel:Diamond22|R8|exp:FBS|p4,RT,447,S
-ivsel:Diamond22|R8|exp:FBS|p4,RT,460,N
-ivsel:Diamond22|R8|exp:FBS|p4,RT,468,T
-ivsel:Diamond22|R8|exp:FBS|p4,RT,519,N
-ivsel:Diamond22|R8|exp:FBS|p11,RT,122,E
+ivsel:Diamond22|R8|exp:FBS|p4,RT,452,I
+ivsel:Diamond22|R8|exp:FBS|p4,RT,468,P
+ivsel:Diamond22|R8|exp:FBS|p4,RT,512,Q
+ivsel:Diamond22|R8|exp:FBS|p4,RT,517,I
+ivsel:Diamond22|R8|exp:FBS|p4,RT,554,S
+ivsel:Diamond22|R8|exp:FBS|p11,RT,31,L
+ivsel:Diamond22|R8|exp:FBS|p11,RT,32,N
+ivsel:Diamond22|R8|exp:FBS|p11,RT,35,I
+ivsel:Diamond22|R8|exp:FBS|p11,RT,39,A
+ivsel:Diamond22|R8|exp:FBS|p11,RT,60,I
+ivsel:Diamond22|R8|exp:FBS|p11,RT,90,I
+ivsel:Diamond22|R8|exp:FBS|p11,RT,98,S
+ivsel:Diamond22|R8|exp:FBS|p11,RT,102,Q
+ivsel:Diamond22|R8|exp:FBS|p11,RT,135,V
+ivsel:Diamond22|R8|exp:FBS|p11,RT,139,K
+ivsel:Diamond22|R8|exp:FBS|p11,RT,141,A
 ivsel:Diamond22|R8|exp:FBS|p11,RT,166,K
 ivsel:Diamond22|R8|exp:FBS|p11,RT,166,R
+ivsel:Diamond22|R8|exp:FBS|p11,RT,178,M
 ivsel:Diamond22|R8|exp:FBS|p11,RT,184,I
 ivsel:Diamond22|R8|exp:FBS|p11,RT,184,V
-ivsel:Diamond22|R8|exp:FBS|p11,RT,214,L
+ivsel:Diamond22|R8|exp:FBS|p11,RT,196,E
+ivsel:Diamond22|R8|exp:FBS|p11,RT,245,K
 ivsel:Diamond22|R8|exp:FBS|p11,RT,272,P
 ivsel:Diamond22|R8|exp:FBS|p11,RT,277,R
+ivsel:Diamond22|R8|exp:FBS|p11,RT,293,V
+ivsel:Diamond22|R8|exp:FBS|p11,RT,294,S
+ivsel:Diamond22|R8|exp:FBS|p11,RT,297,R
 ivsel:Diamond22|R8|exp:FBS|p11,RT,357,T
-ivsel:Diamond22|R8|exp:FBS|p11,RT,376,T
+ivsel:Diamond22|R8|exp:FBS|p11,RT,379,G
+ivsel:Diamond22|R8|exp:FBS|p11,RT,386,I
 ivsel:Diamond22|R8|exp:FBS|p11,RT,400,T
-ivsel:Diamond22|R8|exp:FBS|p11,RT,447,S
-ivsel:Diamond22|R8|exp:FBS|p11,RT,460,N
-ivsel:Diamond22|R8|exp:FBS|p11,RT,468,T
-ivsel:Diamond22|R8|exp:FBS|p11,RT,519,N
+ivsel:Diamond22|R8|exp:FBS|p11,RT,452,I
+ivsel:Diamond22|R8|exp:FBS|p11,RT,468,P
+ivsel:Diamond22|R8|exp:FBS|p11,RT,512,Q
+ivsel:Diamond22|R8|exp:FBS|p11,RT,517,I
+ivsel:Diamond22|R8|exp:FBS|p11,RT,554,S
+ivsel:Diamond22|R8|exp:FBS|p38,RT,31,L
+ivsel:Diamond22|R8|exp:FBS|p38,RT,32,N
+ivsel:Diamond22|R8|exp:FBS|p38,RT,35,I
+ivsel:Diamond22|R8|exp:FBS|p38,RT,39,A
 ivsel:Diamond22|R8|exp:FBS|p38,RT,41,L
+ivsel:Diamond22|R8|exp:FBS|p38,RT,60,I
 ivsel:Diamond22|R8|exp:FBS|p38,RT,90,I
 ivsel:Diamond22|R8|exp:FBS|p38,RT,90,V
+ivsel:Diamond22|R8|exp:FBS|p38,RT,98,S
+ivsel:Diamond22|R8|exp:FBS|p38,RT,102,Q
 ivsel:Diamond22|R8|exp:FBS|p38,RT,114,S
 ivsel:Diamond22|R8|exp:FBS|p38,RT,116,K
 ivsel:Diamond22|R8|exp:FBS|p38,RT,116,R
-ivsel:Diamond22|R8|exp:FBS|p38,RT,122,E
+ivsel:Diamond22|R8|exp:FBS|p38,RT,135,V
+ivsel:Diamond22|R8|exp:FBS|p38,RT,139,K
+ivsel:Diamond22|R8|exp:FBS|p38,RT,141,A
 ivsel:Diamond22|R8|exp:FBS|p38,RT,162,C
 ivsel:Diamond22|R8|exp:FBS|p38,RT,162,Y
+ivsel:Diamond22|R8|exp:FBS|p38,RT,178,M
 ivsel:Diamond22|R8|exp:FBS|p38,RT,184,I
 ivsel:Diamond22|R8|exp:FBS|p38,RT,184,M
 ivsel:Diamond22|R8|exp:FBS|p38,RT,184,V
 ivsel:Diamond22|R8|exp:FBS|p38,RT,196,G
 ivsel:Diamond22|R8|exp:FBS|p38,RT,196,R
-ivsel:Diamond22|R8|exp:FBS|p38,RT,214,L
+ivsel:Diamond22|R8|exp:FBS|p38,RT,245,K
 ivsel:Diamond22|R8|exp:FBS|p38,RT,272,P
 ivsel:Diamond22|R8|exp:FBS|p38,RT,277,R
+ivsel:Diamond22|R8|exp:FBS|p38,RT,293,V
+ivsel:Diamond22|R8|exp:FBS|p38,RT,294,S
+ivsel:Diamond22|R8|exp:FBS|p38,RT,297,R
 ivsel:Diamond22|R8|exp:FBS|p38,RT,357,T
-ivsel:Diamond22|R8|exp:FBS|p38,RT,376,T
+ivsel:Diamond22|R8|exp:FBS|p38,RT,379,G
+ivsel:Diamond22|R8|exp:FBS|p38,RT,386,I
 ivsel:Diamond22|R8|exp:FBS|p38,RT,400,T
-ivsel:Diamond22|R8|exp:FBS|p38,RT,447,S
-ivsel:Diamond22|R8|exp:FBS|p38,RT,460,N
-ivsel:Diamond22|R8|exp:FBS|p38,RT,468,T
-ivsel:Diamond22|R8|exp:FBS|p38,RT,519,N
+ivsel:Diamond22|R8|exp:FBS|p38,RT,452,I
+ivsel:Diamond22|R8|exp:FBS|p38,RT,468,P
+ivsel:Diamond22|R8|exp:FBS|p38,RT,512,Q
+ivsel:Diamond22|R8|exp:FBS|p38,RT,517,I
+ivsel:Diamond22|R8|exp:FBS|p38,RT,554,S
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,35,T
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,36,A
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,39,E
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,48,T
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,60,I
 ivsel:Diamond22|93MW959|exp:FBS|p12,RT,122,E
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,214,L
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,123,G
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,173,A
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,177,E
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,200,A
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,207,E
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,245,Q
 ivsel:Diamond22|93MW959|exp:FBS|p12,RT,272,P
 ivsel:Diamond22|93MW959|exp:FBS|p12,RT,277,R
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,357,T
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,376,T
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,286,A
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,291,D
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,292,I
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,293,V
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,334,H
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,335,D
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,356,K
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,359,T
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,377,M
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,390,R
 ivsel:Diamond22|93MW959|exp:FBS|p12,RT,400,T
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,447,S
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,460,N
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,468,T
-ivsel:Diamond22|93MW959|exp:FBS|p12,RT,519,N
+ivsel:Diamond22|93MW959|exp:FBS|p12,RT,404,D
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,35,T
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,39,S
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,49,R
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,60,I
 ivsel:Diamond22|92RW026|exp:NHS|p36,RT,122,E
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,123,S
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,135,T
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,142,T
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,166,R
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,171,V
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,173,S
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,174,K
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,179,I
 ivsel:Diamond22|92RW026|exp:NHS|p36,RT,184,I
 ivsel:Diamond22|92RW026|exp:NHS|p36,RT,184,V
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,214,L
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,200,A
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,207,A
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,211,S
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,248,D
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,251,H
 ivsel:Diamond22|92RW026|exp:NHS|p36,RT,272,P
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,277,R
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,357,T
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,286,A
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,291,D
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,292,I
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,293,V
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,294,T
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,335,D
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,357,K
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,359,S
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,369,A
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,371,V
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,375,V
 ivsel:Diamond22|92RW026|exp:NHS|p36,RT,376,T
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,377,M
 ivsel:Diamond22|92RW026|exp:NHS|p36,RT,400,T
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,447,S
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,460,N
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,468,T
-ivsel:Diamond22|92RW026|exp:NHS|p36,RT,519,N
-ivsel:Diamond22|R8|exp:NHS|p4,RT,122,E
-ivsel:Diamond22|R8|exp:NHS|p4,RT,214,L
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,403,M
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,404,D
+ivsel:Diamond22|92RW026|exp:NHS|p36,RT,432,D
+ivsel:Diamond22|R8|exp:NHS|p4,RT,31,L
+ivsel:Diamond22|R8|exp:NHS|p4,RT,32,N
+ivsel:Diamond22|R8|exp:NHS|p4,RT,35,I
+ivsel:Diamond22|R8|exp:NHS|p4,RT,39,A
+ivsel:Diamond22|R8|exp:NHS|p4,RT,60,I
+ivsel:Diamond22|R8|exp:NHS|p4,RT,90,I
+ivsel:Diamond22|R8|exp:NHS|p4,RT,98,S
+ivsel:Diamond22|R8|exp:NHS|p4,RT,102,Q
+ivsel:Diamond22|R8|exp:NHS|p4,RT,135,V
+ivsel:Diamond22|R8|exp:NHS|p4,RT,139,K
+ivsel:Diamond22|R8|exp:NHS|p4,RT,141,A
+ivsel:Diamond22|R8|exp:NHS|p4,RT,178,M
+ivsel:Diamond22|R8|exp:NHS|p4,RT,196,E
+ivsel:Diamond22|R8|exp:NHS|p4,RT,245,K
 ivsel:Diamond22|R8|exp:NHS|p4,RT,272,P
 ivsel:Diamond22|R8|exp:NHS|p4,RT,277,R
+ivsel:Diamond22|R8|exp:NHS|p4,RT,293,V
+ivsel:Diamond22|R8|exp:NHS|p4,RT,294,S
+ivsel:Diamond22|R8|exp:NHS|p4,RT,297,R
 ivsel:Diamond22|R8|exp:NHS|p4,RT,313,P
 ivsel:Diamond22|R8|exp:NHS|p4,RT,313,T
 ivsel:Diamond22|R8|exp:NHS|p4,RT,357,T
-ivsel:Diamond22|R8|exp:NHS|p4,RT,376,T
+ivsel:Diamond22|R8|exp:NHS|p4,RT,379,G
+ivsel:Diamond22|R8|exp:NHS|p4,RT,386,I
 ivsel:Diamond22|R8|exp:NHS|p4,RT,400,T
-ivsel:Diamond22|R8|exp:NHS|p4,RT,447,S
-ivsel:Diamond22|R8|exp:NHS|p4,RT,460,N
-ivsel:Diamond22|R8|exp:NHS|p4,RT,468,T
-ivsel:Diamond22|R8|exp:NHS|p4,RT,519,N
-ivsel:Diamond22|R8|exp:NHS|p25,RT,122,E
+ivsel:Diamond22|R8|exp:NHS|p4,RT,452,I
+ivsel:Diamond22|R8|exp:NHS|p4,RT,468,P
+ivsel:Diamond22|R8|exp:NHS|p4,RT,512,Q
+ivsel:Diamond22|R8|exp:NHS|p4,RT,517,I
+ivsel:Diamond22|R8|exp:NHS|p4,RT,554,S
+ivsel:Diamond22|R8|exp:NHS|p25,RT,31,L
+ivsel:Diamond22|R8|exp:NHS|p25,RT,32,N
+ivsel:Diamond22|R8|exp:NHS|p25,RT,35,I
+ivsel:Diamond22|R8|exp:NHS|p25,RT,39,A
+ivsel:Diamond22|R8|exp:NHS|p25,RT,60,I
+ivsel:Diamond22|R8|exp:NHS|p25,RT,90,I
+ivsel:Diamond22|R8|exp:NHS|p25,RT,98,S
+ivsel:Diamond22|R8|exp:NHS|p25,RT,102,Q
+ivsel:Diamond22|R8|exp:NHS|p25,RT,135,V
+ivsel:Diamond22|R8|exp:NHS|p25,RT,139,K
+ivsel:Diamond22|R8|exp:NHS|p25,RT,141,A
+ivsel:Diamond22|R8|exp:NHS|p25,RT,178,M
 ivsel:Diamond22|R8|exp:NHS|p25,RT,184,I
 ivsel:Diamond22|R8|exp:NHS|p25,RT,184,M
 ivsel:Diamond22|R8|exp:NHS|p25,RT,184,V
-ivsel:Diamond22|R8|exp:NHS|p25,RT,214,L
+ivsel:Diamond22|R8|exp:NHS|p25,RT,196,E
 ivsel:Diamond22|R8|exp:NHS|p25,RT,221,H
 ivsel:Diamond22|R8|exp:NHS|p25,RT,221,Y
+ivsel:Diamond22|R8|exp:NHS|p25,RT,245,K
 ivsel:Diamond22|R8|exp:NHS|p25,RT,272,P
 ivsel:Diamond22|R8|exp:NHS|p25,RT,277,R
+ivsel:Diamond22|R8|exp:NHS|p25,RT,293,V
+ivsel:Diamond22|R8|exp:NHS|p25,RT,294,S
+ivsel:Diamond22|R8|exp:NHS|p25,RT,297,R
 ivsel:Diamond22|R8|exp:NHS|p25,RT,357,T
-ivsel:Diamond22|R8|exp:NHS|p25,RT,376,T
+ivsel:Diamond22|R8|exp:NHS|p25,RT,379,G
+ivsel:Diamond22|R8|exp:NHS|p25,RT,386,I
 ivsel:Diamond22|R8|exp:NHS|p25,RT,400,T
-ivsel:Diamond22|R8|exp:NHS|p25,RT,447,S
-ivsel:Diamond22|R8|exp:NHS|p25,RT,460,N
-ivsel:Diamond22|R8|exp:NHS|p25,RT,468,T
-ivsel:Diamond22|R8|exp:NHS|p25,RT,519,N
+ivsel:Diamond22|R8|exp:NHS|p25,RT,452,I
+ivsel:Diamond22|R8|exp:NHS|p25,RT,468,P
+ivsel:Diamond22|R8|exp:NHS|p25,RT,512,Q
+ivsel:Diamond22|R8|exp:NHS|p25,RT,517,I
+ivsel:Diamond22|R8|exp:NHS|p25,RT,554,S
+ivsel:Diamond22|R8|exp:NHS|p34,RT,31,L
+ivsel:Diamond22|R8|exp:NHS|p34,RT,32,N
+ivsel:Diamond22|R8|exp:NHS|p34,RT,35,I
 ivsel:Diamond22|R8|exp:NHS|p34,RT,36,D
 ivsel:Diamond22|R8|exp:NHS|p34,RT,36,E
+ivsel:Diamond22|R8|exp:NHS|p34,RT,39,A
+ivsel:Diamond22|R8|exp:NHS|p34,RT,60,I
 ivsel:Diamond22|R8|exp:NHS|p34,RT,90,I
 ivsel:Diamond22|R8|exp:NHS|p34,RT,90,V
-ivsel:Diamond22|R8|exp:NHS|p34,RT,122,E
+ivsel:Diamond22|R8|exp:NHS|p34,RT,98,S
+ivsel:Diamond22|R8|exp:NHS|p34,RT,102,Q
+ivsel:Diamond22|R8|exp:NHS|p34,RT,135,V
+ivsel:Diamond22|R8|exp:NHS|p34,RT,139,K
+ivsel:Diamond22|R8|exp:NHS|p34,RT,141,A
 ivsel:Diamond22|R8|exp:NHS|p34,RT,158,A
 ivsel:Diamond22|R8|exp:NHS|p34,RT,158,T
+ivsel:Diamond22|R8|exp:NHS|p34,RT,178,M
 ivsel:Diamond22|R8|exp:NHS|p34,RT,184,I
 ivsel:Diamond22|R8|exp:NHS|p34,RT,184,M
 ivsel:Diamond22|R8|exp:NHS|p34,RT,184,V
-ivsel:Diamond22|R8|exp:NHS|p34,RT,214,L
+ivsel:Diamond22|R8|exp:NHS|p34,RT,196,E
 ivsel:Diamond22|R8|exp:NHS|p34,RT,221,Y
+ivsel:Diamond22|R8|exp:NHS|p34,RT,245,K
 ivsel:Diamond22|R8|exp:NHS|p34,RT,272,P
 ivsel:Diamond22|R8|exp:NHS|p34,RT,277,R
+ivsel:Diamond22|R8|exp:NHS|p34,RT,293,V
+ivsel:Diamond22|R8|exp:NHS|p34,RT,294,S
+ivsel:Diamond22|R8|exp:NHS|p34,RT,297,R
 ivsel:Diamond22|R8|exp:NHS|p34,RT,313,P
 ivsel:Diamond22|R8|exp:NHS|p34,RT,313,T
 ivsel:Diamond22|R8|exp:NHS|p34,RT,357,T
-ivsel:Diamond22|R8|exp:NHS|p34,RT,376,T
+ivsel:Diamond22|R8|exp:NHS|p34,RT,379,G
+ivsel:Diamond22|R8|exp:NHS|p34,RT,386,I
 ivsel:Diamond22|R8|exp:NHS|p34,RT,400,T
-ivsel:Diamond22|R8|exp:NHS|p34,RT,447,S
-ivsel:Diamond22|R8|exp:NHS|p34,RT,460,N
-ivsel:Diamond22|R8|exp:NHS|p34,RT,468,T
-ivsel:Diamond22|R8|exp:NHS|p34,RT,519,N
+ivsel:Diamond22|R8|exp:NHS|p34,RT,452,I
+ivsel:Diamond22|R8|exp:NHS|p34,RT,468,P
+ivsel:Diamond22|R8|exp:NHS|p34,RT,512,Q
+ivsel:Diamond22|R8|exp:NHS|p34,RT,517,I
+ivsel:Diamond22|R8|exp:NHS|p34,RT,554,S
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,35,T
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,36,A
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,39,E
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,48,T
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,60,I
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,74,I
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,74,L
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,75,A
@@ -5357,18 +5974,28 @@ ivsel:Diamond22|93MW959|exp:NHS|p36,RT,75,V
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,90,I
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,90,V
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,122,E
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,123,G
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,173,A
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,177,E
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,184,I
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,184,V
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,214,L
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,200,A
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,207,E
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,245,Q
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,272,P
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,277,R
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,357,T
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,376,T
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,286,A
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,291,D
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,292,I
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,293,V
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,334,H
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,335,D
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,356,K
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,359,T
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,377,M
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,390,R
 ivsel:Diamond22|93MW959|exp:NHS|p36,RT,400,T
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,447,S
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,460,N
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,468,T
-ivsel:Diamond22|93MW959|exp:NHS|p36,RT,519,N
+ivsel:Diamond22|93MW959|exp:NHS|p36,RT,404,D
 ivsel:DeMeyer05|exp:1|p14,PR,37,S
 ivsel:DeMeyer05|exp:1|p14,PR,41,T
 ivsel:DeMeyer05|exp:1|p29,PR,37,S
@@ -9646,18 +10273,6 @@ ivsel:Cilento21|BRU|exp:1|p9,RT,447,S
 ivsel:Cilento21|BRU|exp:1|p9,RT,460,N
 ivsel:Cilento21|BRU|exp:1|p9,RT,468,T
 ivsel:Cilento21|BRU|exp:1|p9,RT,519,N
-LAI (K65R),RT,65,R
-LAI (K65R),RT,122,E
-LAI (K65R),RT,214,L
-LAI (K65R),RT,272,P
-LAI (K65R),RT,277,R
-LAI (K65R),RT,357,T
-LAI (K65R),RT,376,T
-LAI (K65R),RT,400,T
-LAI (K65R),RT,447,S
-LAI (K65R),RT,460,N
-LAI (K65R),RT,468,T
-LAI (K65R),RT,519,N
 ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,122,E
 ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,184,I
 ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,184,V

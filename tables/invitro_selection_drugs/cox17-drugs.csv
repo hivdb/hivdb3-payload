@@ -1,0 +1,14 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Cox17,ivsel:Cox17|BRU|exp:1|dose:120nM,TAF,=,120.0,nM,False
+Cox17,ivsel:Cox17|BRU|exp:1|dose:28uM,TDF,=,28.0,µM,False
+Cox17,ivsel:Cox17|BRU|exp:1|dose:640nM,RAL,=,640.0,nM,False
+Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,TAF,=,180.0,nM,False
+Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,TDF,=,42.0,µM,False
+Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,RAL,=,640.0,nM,False
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,TAF,=,180.0,nM,False
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,TAF,=,270.0,nM,False
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,TDF,=,42.0,µM,False
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RAL,=,64.0,nM,False
+Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,TAF,=,585.0,nM,False
+Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,TDF,=,137.0,µM,False
+Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RAL,=,640.0,nM,False

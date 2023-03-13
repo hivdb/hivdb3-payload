@@ -98,6 +98,25 @@ ivsel:Doyon05|exp:1|p39,PR,NULL
 ivsel:Doyon05|exp:1|p49,PR,NULL
 ivsel:Doyon05|exp:1|p68,PR,NULL
 ivsel:Doyon05|exp:1|p73,PR,NULL
+ivsel:Cox17|BRU|exp:1|dose:120nM,RT,NULL
+ivsel:Cox17|BRU|exp:1|dose:28uM,RT,NULL
+ivsel:Cox17|BRU|exp:1|dose:640nM,IN,NULL
+LAI (K65R),RT,NULL
+LAI (K65R),IN,NULL
+ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,RT,NULL
+ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,RT,NULL
+ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,IN,NULL
+CI-3TAM,RT,NULL
+ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,RT,NULL
+ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,RT,NULL
+ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,RT,NULL
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,RT,NULL
+ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,IN,NULL
+LAI (Q151M),RT,NULL
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,RT,NULL
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,RT,NULL
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,RT,NULL
+ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,IN,NULL
 ivsel:Yoshinaga15|CAB|exp:2|p~4,IN,NULL
 ivsel:Yoshinaga15|CAB|exp:2|p~8,IN,NULL
 ivsel:Yoshinaga15|CAB|exp:2|p~16,IN,NULL
@@ -1243,7 +1262,6 @@ ivsel:Wu12|exp:3|p25,RT,NULL
 ivsel:Wu12|exp:4|p25,RT,NULL
 ivsel:Cilento21|BRU|exp:1|p6,RT,NULL
 ivsel:Cilento21|BRU|exp:1|p9,RT,NULL
-LAI (K65R),RT,NULL
 ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,NULL
 ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,NULL
 ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,NULL
