@@ -1277,6 +1277,18 @@ ivsel:Wu12|exp:2a|p25,NULL
 ivsel:Wu12|exp:2b|p25,NULL
 ivsel:Wu12|exp:3|p25,NULL
 ivsel:Wu12|exp:4|p25,NULL
+ivsel:Cilento21|BRU|exp:1|p6,NULL
+ivsel:Cilento21|BRU|exp:1|p9,NULL
+LAI (K65R),B
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,NULL
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,NULL
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,NULL
+LAI (M184V),B
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,NULL
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,NULL
+LAI (D67N/K70R/T215F/K219Q),B
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,NULL
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,NULL
 ivsel:Maeda14|Islatravir|exp:1|p15,NULL
 ivsel:Maeda14|TDF|exp:1|p15,NULL
 ivsel:Maeda14|Censavudine|exp:1|p15,NULL

@@ -1,0 +1,10 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Cilento21,Islatravir,MT-2,~40nM,LAI,LAI,,1,6,41d,RT,M184I,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~260nM,LAI,LAI,,1,9,78d,RT,M184IV+E399EK,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~40nM,LAI,LAI (K65R),K65R,1,6,45d,RT,R65K+M184IV,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~270nM,LAI,LAI (K65R),K65R,1,9,74d,RT,R65K+M184VI+A502AV,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,550nM,LAI,LAI (K65R),K65R,1,10,87d,RT,R65K+A114S+M184V+A502V,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~50nM,LAI,LAI (M184V),M184V,1,6,31d,RT,R358RK,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~390nM,LAI,LAI (M184V),M184V,1,9,60d,RT,R358K,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~45nM,LAI,LAI (D67N/K70R/T215F/K219Q),D67N+K70R+T215F+K219Q,1,6,36d,RT,M184VM,Fig 1 and table 1
+Cilento21,Islatravir,MT-2,~340nM,LAI,LAI (D67N/K70R/T215F/K219Q),D67N+K70R+T215F+K219Q,1,9,62d,RT,M184V+E399K,Fig 1 and table 1

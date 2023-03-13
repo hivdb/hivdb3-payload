@@ -1,0 +1,10 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Cilento21,ivsel:Cilento21|BRU|exp:1|p6,Islatravir,~,40.0,nM,False
+Cilento21,ivsel:Cilento21|BRU|exp:1|p9,Islatravir,~,260.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (K65R)|exp:1|p6,Islatravir,~,40.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (K65R)|exp:1|p9,Islatravir,~,270.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (K65R)|exp:1|p10,Islatravir,=,550.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (M184V)|exp:1|p6,Islatravir,~,50.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (M184V)|exp:1|p9,Islatravir,~,390.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,Islatravir,~,45.0,nM,False
+Cilento21,ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,Islatravir,~,340.0,nM,False

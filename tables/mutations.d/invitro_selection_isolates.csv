@@ -9458,6 +9458,175 @@ ivsel:Wu12|exp:4|p25,RT,106,M
 ivsel:Wu12|exp:4|p25,RT,135,T
 ivsel:Wu12|exp:4|p25,RT,178,M
 ivsel:Wu12|exp:4|p25,RT,382,L
+ivsel:Cilento21|BRU|exp:1|p6,RT,122,E
+ivsel:Cilento21|BRU|exp:1|p6,RT,184,I
+ivsel:Cilento21|BRU|exp:1|p6,RT,214,L
+ivsel:Cilento21|BRU|exp:1|p6,RT,272,P
+ivsel:Cilento21|BRU|exp:1|p6,RT,277,R
+ivsel:Cilento21|BRU|exp:1|p6,RT,357,T
+ivsel:Cilento21|BRU|exp:1|p6,RT,376,T
+ivsel:Cilento21|BRU|exp:1|p6,RT,400,T
+ivsel:Cilento21|BRU|exp:1|p6,RT,447,S
+ivsel:Cilento21|BRU|exp:1|p6,RT,460,N
+ivsel:Cilento21|BRU|exp:1|p6,RT,468,T
+ivsel:Cilento21|BRU|exp:1|p6,RT,519,N
+ivsel:Cilento21|BRU|exp:1|p9,RT,122,E
+ivsel:Cilento21|BRU|exp:1|p9,RT,184,I
+ivsel:Cilento21|BRU|exp:1|p9,RT,184,V
+ivsel:Cilento21|BRU|exp:1|p9,RT,214,L
+ivsel:Cilento21|BRU|exp:1|p9,RT,272,P
+ivsel:Cilento21|BRU|exp:1|p9,RT,277,R
+ivsel:Cilento21|BRU|exp:1|p9,RT,357,T
+ivsel:Cilento21|BRU|exp:1|p9,RT,376,T
+ivsel:Cilento21|BRU|exp:1|p9,RT,399,E
+ivsel:Cilento21|BRU|exp:1|p9,RT,399,K
+ivsel:Cilento21|BRU|exp:1|p9,RT,400,T
+ivsel:Cilento21|BRU|exp:1|p9,RT,447,S
+ivsel:Cilento21|BRU|exp:1|p9,RT,460,N
+ivsel:Cilento21|BRU|exp:1|p9,RT,468,T
+ivsel:Cilento21|BRU|exp:1|p9,RT,519,N
+LAI (K65R),RT,65,R
+LAI (K65R),RT,122,E
+LAI (K65R),RT,214,L
+LAI (K65R),RT,272,P
+LAI (K65R),RT,277,R
+LAI (K65R),RT,357,T
+LAI (K65R),RT,376,T
+LAI (K65R),RT,400,T
+LAI (K65R),RT,447,S
+LAI (K65R),RT,460,N
+LAI (K65R),RT,468,T
+LAI (K65R),RT,519,N
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,122,E
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,184,I
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,184,V
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,214,L
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,272,P
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,277,R
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,357,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,376,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,400,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,447,S
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,460,N
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,468,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,519,N
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,122,E
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,184,I
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,184,V
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,214,L
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,272,P
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,277,R
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,357,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,376,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,400,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,447,S
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,460,N
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,468,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,502,A
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,502,V
+ivsel:Cilento21|LAI (K65R)|exp:1|p9,RT,519,N
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,114,S
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,122,E
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,184,V
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,214,L
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,272,P
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,277,R
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,357,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,376,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,400,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,447,S
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,460,N
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,468,T
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,502,V
+ivsel:Cilento21|LAI (K65R)|exp:1|p10,RT,519,N
+LAI (M184V),RT,122,E
+LAI (M184V),RT,184,V
+LAI (M184V),RT,214,L
+LAI (M184V),RT,272,P
+LAI (M184V),RT,277,R
+LAI (M184V),RT,357,T
+LAI (M184V),RT,376,T
+LAI (M184V),RT,400,T
+LAI (M184V),RT,447,S
+LAI (M184V),RT,460,N
+LAI (M184V),RT,468,T
+LAI (M184V),RT,519,N
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,122,E
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,184,V
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,214,L
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,272,P
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,277,R
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,357,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,358,K
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,358,R
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,376,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,400,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,447,S
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,460,N
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,468,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p6,RT,519,N
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,122,E
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,184,V
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,214,L
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,272,P
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,277,R
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,357,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,358,K
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,376,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,400,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,447,S
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,460,N
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,468,T
+ivsel:Cilento21|LAI (M184V)|exp:1|p9,RT,519,N
+LAI (D67N/K70R/T215F/K219Q),RT,67,N
+LAI (D67N/K70R/T215F/K219Q),RT,70,R
+LAI (D67N/K70R/T215F/K219Q),RT,122,E
+LAI (D67N/K70R/T215F/K219Q),RT,214,L
+LAI (D67N/K70R/T215F/K219Q),RT,215,F
+LAI (D67N/K70R/T215F/K219Q),RT,219,Q
+LAI (D67N/K70R/T215F/K219Q),RT,272,P
+LAI (D67N/K70R/T215F/K219Q),RT,277,R
+LAI (D67N/K70R/T215F/K219Q),RT,357,T
+LAI (D67N/K70R/T215F/K219Q),RT,376,T
+LAI (D67N/K70R/T215F/K219Q),RT,400,T
+LAI (D67N/K70R/T215F/K219Q),RT,447,S
+LAI (D67N/K70R/T215F/K219Q),RT,460,N
+LAI (D67N/K70R/T215F/K219Q),RT,468,T
+LAI (D67N/K70R/T215F/K219Q),RT,519,N
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,67,N
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,70,R
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,122,E
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,184,M
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,184,V
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,214,L
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,215,F
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,219,Q
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,272,P
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,277,R
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,357,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,376,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,400,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,447,S
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,460,N
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,468,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p6,RT,519,N
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,67,N
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,70,R
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,122,E
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,184,V
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,214,L
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,215,F
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,219,Q
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,272,P
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,277,R
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,357,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,376,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,399,K
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,400,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,447,S
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,460,N
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,468,T
+ivsel:Cilento21|LAI (D67N/K70R/T215F/K219Q)|exp:1|p9,RT,519,N
 ivsel:Maeda14|Islatravir|exp:1|p15,RT,102,Q
 ivsel:Maeda14|Islatravir|exp:1|p15,RT,162,C
 ivsel:Maeda14|Islatravir|exp:1|p15,RT,184,I
