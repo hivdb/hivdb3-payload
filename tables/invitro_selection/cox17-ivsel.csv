@@ -1,14 +1,14 @@
 ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
-Cox17,ivsel:Cox17|BRU|exp:1|dose:120nM,BRU,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|BRU|exp:1|dose:28uM,BRU,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|BRU|exp:1|dose:640nM,BRU,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,LAI (K65R),MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,LAI (K65R),MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,LAI (K65R),MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Table 1 and table S1
-Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,LAI (Q151M),MT-2,1,NULL,NULL,True,>,150,day,False,
-Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,LAI (Q151M),MT-2,1,NULL,NULL,True,>,150,day,False,
-Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,LAI (Q151M),MT-2,1,NULL,NULL,True,>,150,day,False,
+Cox17,ivsel:Cox17|BRU|exp:1|dose:120nM,BRU,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|BRU|exp:1|dose:28uM,BRU,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|BRU|exp:1|dose:640nM,BRU,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:180nM,LAI (K65R),MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:42uM,LAI (K65R),MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|LAI (K65R)|exp:1|dose:640nM,LAI (K65R),MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:180nM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:270nM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:42uM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|CI-3TAM|exp:1|dose:64nM,CI-3TAM,MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:585nM,LAI (Q151M),MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:137uM,LAI (Q151M),MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2
+Cox17,ivsel:Cox17|LAI (Q151M)|exp:1|dose:640nM,LAI (Q151M),MT-2,1,NULL,NULL,True,>,150,day,False,Figure 1 and table 2

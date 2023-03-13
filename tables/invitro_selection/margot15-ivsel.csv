@@ -1,0 +1,10 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Margot15,ivsel:Margot15|exp:1|~70d,IIIB,MT-2,1,NULL,NULL,True,~,70,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:1|~110d,IIIB,MT-2,1,NULL,NULL,True,~,110,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:1|~90d,IIIB,MT-2,1,NULL,NULL,True,~,90,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:1|~100d,IIIB,MT-2,1,NULL,NULL,True,~,100,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:2|~90d,IIIB,MT-2,2,NULL,NULL,True,~,90,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:2|~115d,IIIB,MT-2,2,NULL,NULL,True,~,115,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:2|~20d,IIIB,MT-2,2,NULL,NULL,True,~,20,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:2|~50d,IIIB,MT-2,2,NULL,NULL,True,~,50,day,False,Figure 2
+Margot15,ivsel:Margot15|exp:2|~155d,IIIB,MT-2,2,NULL,NULL,True,~,155,day,False,Figure 2

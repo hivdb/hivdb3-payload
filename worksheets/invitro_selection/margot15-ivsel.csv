@@ -1,0 +1,10 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Margot15,TAF,MT-2,256nM,IIIB,IIIB,,1,Unknown,~70d,RT,K65R,Figure 2
+Margot15,TAF,MT-2,256nM,IIIB,IIIB,,1,Unknown,~110d,RT,K65R+S68NS+L214FL,Figure 2
+Margot15,TDF,MT-2,128nM,IIIB,IIIB,,1,Unknown,~90d,RT,K65KR+K70KE,Figure 2
+Margot15,TDF,MT-2,256nM,IIIB,IIIB,,1,Unknown,~100d,RT,K65R,Figure 2
+Margot15,TAF,MT-2,24nM,IIIB,IIIB,,2,Unknown,~90d,RT,K65RK+S68NS+L214FL,Figure 2
+Margot15,TAF,MT-2,48nM,IIIB,IIIB,,2,Unknown,~115d,RT,K65R+S68N+L214FL,Figure 2
+Margot15,TDF,MT-2,14nM,IIIB,IIIB,,2,Unknown,~20d,RT,K65KR,Figure 2
+Margot15,TDF,MT-2,56nM,IIIB,IIIB,,2,Unknown,~50d,RT,K65R,Figure 2
+Margot15,TDF,MT-2,56nM,IIIB,IIIB,,2,Unknown,~155d,RT,K65R+S68SNRK,Figure 2

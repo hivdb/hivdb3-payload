@@ -1,0 +1,10 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Margot15,ivsel:Margot15|exp:1|~70d,TAF,=,256.0,nM,False
+Margot15,ivsel:Margot15|exp:1|~110d,TAF,=,256.0,nM,False
+Margot15,ivsel:Margot15|exp:1|~90d,TDF,=,128.0,nM,False
+Margot15,ivsel:Margot15|exp:1|~100d,TDF,=,256.0,nM,False
+Margot15,ivsel:Margot15|exp:2|~90d,TAF,=,24.0,nM,False
+Margot15,ivsel:Margot15|exp:2|~115d,TAF,=,48.0,nM,False
+Margot15,ivsel:Margot15|exp:2|~20d,TDF,=,14.0,nM,False
+Margot15,ivsel:Margot15|exp:2|~50d,TDF,=,56.0,nM,False
+Margot15,ivsel:Margot15|exp:2|~155d,TDF,=,56.0,nM,False

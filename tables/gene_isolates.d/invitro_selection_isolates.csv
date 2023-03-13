@@ -608,6 +608,15 @@ ivsel:García-Lerma03|HXB2 (T215)|exp:1|p4,RT,NULL
 ivsel:García-Lerma03|HXB2 (T215)|exp:1|p5,RT,NULL
 ivsel:García-Lerma03|HXB2 (T215)|exp:1|p6,RT,NULL
 ivsel:García-Lerma03|HXB2 (T215)|exp:1|p7,RT,NULL
+ivsel:Margot15|exp:1|~70d,RT,NULL
+ivsel:Margot15|exp:1|~110d,RT,NULL
+ivsel:Margot15|exp:1|~90d,RT,NULL
+ivsel:Margot15|exp:1|~100d,RT,NULL
+ivsel:Margot15|exp:2|~90d,RT,NULL
+ivsel:Margot15|exp:2|~115d,RT,NULL
+ivsel:Margot15|exp:2|~20d,RT,NULL
+ivsel:Margot15|exp:2|~50d,RT,NULL
+ivsel:Margot15|exp:2|~155d,RT,NULL
 ivsel:Kobayashi11|DTG|exp:1|p4,IN,NULL
 ivsel:Kobayashi11|DTG|exp:1|p8,IN,NULL
 ivsel:Kobayashi11|DTG|exp:1|p12,IN,NULL
