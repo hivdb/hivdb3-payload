@@ -1,0 +1,25 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Oliveira17,Islatravir,CBMC,0.5nM,NL4-3,Strain 5326,,1,Unknown,17w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,1nM,NL4-3,Strain 5326,,1,Unknown,27w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,0.05nM,NL4-3,Strain 14637,,1,Unknown,17w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,0.05nM,NL4-3,Strain 14637,,1,Unknown,27w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,0.25nM,NL4-3,Strain 4742,,1,Unknown,14w,RT,None,Table 1
+Oliveira17,Islatravir,CBMC,0.5nM,NL4-3,Strain 4742,,1,Unknown,24w,RT,M184I,Table 1
+Oliveira17,Islatravir,CBMC,0.025nM,NL4-3,Strain 6343,,1,Unknown,14w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,0.1nM,NL4-3,Strain 6343,,1,Unknown,24w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,1nM,NL4-3,96USSN20,,1,Unknown,14w,RT,M184V,Table 1
+Oliveira17,Islatravir,CBMC,5nM,NL4-3,96USSN20,,1,Unknown,24w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,5nM,NL4-3,Strain 5326,,1,Unknown,17w,RT,M184I,Table 1
+Oliveira17,3TC,CBMC,>5nM,NL4-3,Strain 5326,,1,Unknown,27w,RT,M184I,Table 1
+Oliveira17,3TC,CBMC,2.5nM,NL4-3,Strain 14637,,1,Unknown,17w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,5nM,NL4-3,Strain 14637,,1,Unknown,27w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,10nM,NL4-3,Strain 4742,,1,Unknown,14w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,>10nM,NL4-3,Strain 4742,,1,Unknown,24w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,2.5nM,NL4-3,Strain 6343,,1,Unknown,14w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,10nM,NL4-3,Strain 6343,,1,Unknown,24w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,10nM,NL4-3,96USSN20,,1,Unknown,14w,RT,M184V,Table 1
+Oliveira17,3TC,CBMC,>10nM,NL4-3,96USSN20,,1,Unknown,24w,RT,M184V,Table 1
+Oliveira17,RPV,CBMC,2.5nM,NL4-3,Strain 14624,,1,Unknown,23w,RT,E138EK,Table 1
+Oliveira17,RPV,CBMC,25nM,NL4-3,Strain 14624,,1,Unknown,37w,RT,E138K,Table 1
+Oliveira17,RPV,CBMC,25nM,NL4-3,Strain 14514,,1,Unknown,37w,RT,E138EK,Table 1
+Oliveira17,RPV,CBMC,25nM,NL4-3,Strain 12217,T7A+G45GE+V106I+V118I+K122E+I135T+I142T+E169D+I202V+R211G+F214L+V245L+V261I+T286A+A288S+I293V+E297H,1,Unknown,23w,RT,E138K,Table 1

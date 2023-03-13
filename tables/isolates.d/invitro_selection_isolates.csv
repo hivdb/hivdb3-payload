@@ -21,6 +21,31 @@ ivsel:Fikkert03|exp:1|p35,NULL
 ivsel:Fikkert03|exp:1|p40,NULL
 ivsel:Fikkert03|exp:1|p60,NULL
 ivsel:Fikkert03|exp:1|p70,NULL
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,NULL
+ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,NULL
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,NULL
+ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,NULL
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,NULL
+ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,NULL
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,NULL
+ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,NULL
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,NULL
+ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,NULL
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,NULL
+ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,NULL
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,NULL
+ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,NULL
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,NULL
+ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,NULL
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,NULL
+ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,NULL
+ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,NULL
+ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,NULL
+ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,NULL
+ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,NULL
+ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,NULL
+Strain 12217,B
+ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,NULL
 HIVRTMZ (41L+74V+215Y),B
 ivsel:Larder93|NVP|exp:1|p1,NULL
 ivsel:Larder93|NVP|exp:1|p2,NULL

@@ -1,0 +1,25 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Oliveira17,ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,Islatravir,=,0.5,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,Islatravir,=,1.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,Islatravir,=,0.05,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,Islatravir,=,0.05,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,Islatravir,=,0.25,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,Islatravir,=,0.5,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,Islatravir,=,0.025,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,Islatravir,=,0.1,nM,False
+Oliveira17,ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,Islatravir,=,1.0,nM,False
+Oliveira17,ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,Islatravir,=,5.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,3TC,=,5.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,3TC,>,5.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,3TC,=,2.5,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,3TC,=,5.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,3TC,=,10.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,3TC,>,10.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,3TC,=,2.5,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,3TC,=,10.0,nM,False
+Oliveira17,ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,3TC,=,10.0,nM,False
+Oliveira17,ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,3TC,>,10.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,RPV,=,2.5,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,RPV,=,25.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,RPV,=,25.0,nM,False
+Oliveira17,ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,RPV,=,25.0,nM,False

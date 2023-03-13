@@ -1,0 +1,25 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Oliveira17,ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|17w,Strain 5326,CBMC,1,NULL,NULL,True,=,17,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 5326|Islatravir|exp:1|27w,Strain 5326,CBMC,1,NULL,NULL,True,=,27,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|17w,Strain 14637,CBMC,1,NULL,NULL,True,=,17,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14637|Islatravir|exp:1|27w,Strain 14637,CBMC,1,NULL,NULL,True,=,27,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|14w,Strain 4742,CBMC,1,NULL,NULL,True,=,14,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 4742|Islatravir|exp:1|24w,Strain 4742,CBMC,1,NULL,NULL,True,=,24,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|14w,Strain 6343,CBMC,1,NULL,NULL,True,=,14,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 6343|Islatravir|exp:1|24w,Strain 6343,CBMC,1,NULL,NULL,True,=,24,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|96USSN20|Islatravir|exp:1|14w,96USSN20,CBMC,1,NULL,NULL,True,=,14,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|96USSN20|Islatravir|exp:1|24w,96USSN20,CBMC,1,NULL,NULL,True,=,24,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 5326|3TC|exp:1|17w,Strain 5326,CBMC,1,NULL,NULL,True,=,17,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 5326|3TC|exp:1|27w,Strain 5326,CBMC,1,NULL,NULL,True,=,27,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14637|3TC|exp:1|17w,Strain 14637,CBMC,1,NULL,NULL,True,=,17,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14637|3TC|exp:1|27w,Strain 14637,CBMC,1,NULL,NULL,True,=,27,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 4742|3TC|exp:1|14w,Strain 4742,CBMC,1,NULL,NULL,True,=,14,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 4742|3TC|exp:1|24w,Strain 4742,CBMC,1,NULL,NULL,True,=,24,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 6343|3TC|exp:1|14w,Strain 6343,CBMC,1,NULL,NULL,True,=,14,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 6343|3TC|exp:1|24w,Strain 6343,CBMC,1,NULL,NULL,True,=,24,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|96USSN20|3TC|exp:1|14w,96USSN20,CBMC,1,NULL,NULL,True,=,14,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|96USSN20|3TC|exp:1|24w,96USSN20,CBMC,1,NULL,NULL,True,=,24,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14624|RPV|exp:1|23w,Strain 14624,CBMC,1,NULL,NULL,True,=,23,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,Strain 14624,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,Strain 14514,CBMC,1,NULL,NULL,True,=,37,week,False,Table 1
+Oliveira17,ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,Strain 12217,CBMC,1,NULL,NULL,True,=,23,week,False,Table 1
