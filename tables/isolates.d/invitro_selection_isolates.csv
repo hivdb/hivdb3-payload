@@ -549,7 +549,6 @@ ivsel:Tisdale95|HXB2|XM323|exp:1|p4,NULL
 ivsel:Tisdale95|HXB2|XM323|exp:1|p6,NULL
 ivsel:Tisdale95|HXB2|SQV|exp:1|p4,NULL
 ivsel:Tisdale95|HXB2|SQV|exp:1|p6,NULL
-RTMC,B
 ivsel:Tisdale95|RTMC|SQV|exp:1|p3,NULL
 ivsel:Tisdale95|RTMC|SQV|exp:1|p5,NULL
 ivsel:Tisdale95|RTMC|SQV|exp:1|p6,NULL
@@ -987,6 +986,8 @@ ivsel:Asahchop11|Strain 6399|EFV|exp:1|25-30w,NULL
 ivsel:Asahchop11|Mole 03|EFV|exp:1|25-30w,NULL
 ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,NULL
 ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,NULL
+ivsel:Lacey94|HXB2|exp:1,NULL
+ivsel:Lacey94|RTMC|exp:1,NULL
 ivsel:Shimura08|exp:1|p12,NULL
 ivsel:Shimura08|exp:1|p32,NULL
 ivsel:Shimura08|exp:1|p48,NULL
