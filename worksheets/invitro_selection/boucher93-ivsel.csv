@@ -1,4 +1,4 @@
 ﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
-Boucher93,3TC,C8166,457uM,RF,RF,,A,10,Unknown,RT,M184I+I505V+E529G,
-Boucher93,3TC,MT-2,51.2uM,HXB2,HXB2,,B,9,Unknown,RT,M184I,
-Boucher93,3TC,MT-2,51.2uM,HXB2,C19,,B,9,Unknown,RT,M184I,
+Boucher93,3TC,C8166,457uM,RF,RF,,A,10,Unknown,RT,M184I+I505V+E529G,"Paras. 7-8, 13-15"
+Boucher93,3TC,MT-2,51.2uM,HXB2,HXB2,,B,9,Unknown,RT,M184I,"Paras. 7-8, 13-15"
+Boucher93,3TC,MT-2,51.2uM,HXB2,C19,,B,9,Unknown,RT,M184I,"Paras. 7-8, 13-15"

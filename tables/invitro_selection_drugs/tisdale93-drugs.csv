@@ -1,0 +1,7 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Tisdale93,ivsel:Tisdale93|HXB2|FTC|exp:1,FTC,~,50.0,µM,False
+Tisdale93,ivsel:Tisdale93|RTMC|FTC|exp:1,FTC,~,50.0,µM,False
+Tisdale93,ivsel:Tisdale93|HXB2|FTC+AZT|exp:1,FTC,~,50.0,µM,False
+Tisdale93,ivsel:Tisdale93|HXB2|FTC+AZT|exp:1,AZT,=,50.0,nM,False
+Tisdale93,ivsel:Tisdale93|HXB2|3TC|exp:1,3TC,~,2000.0,µM,False
+Tisdale93,ivsel:Tisdale93|RTMC|3TC|exp:1,3TC,~,2000.0,µM,False

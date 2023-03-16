@@ -693,6 +693,11 @@ ivsel:DeMeyer05|exp:1|p75,NULL
 ivsel:DeMeyer05|exp:1|p42,NULL
 ivsel:DeMeyer05|exp:1|p40,NULL
 ivsel:DeMeyer05|exp:1|p56,NULL
+ivsel:Tisdale93|HXB2|FTC|exp:1,NULL
+ivsel:Tisdale93|RTMC|FTC|exp:1,NULL
+ivsel:Tisdale93|HXB2|FTC+AZT|exp:1,NULL
+ivsel:Tisdale93|HXB2|3TC|exp:1,NULL
+ivsel:Tisdale93|RTMC|3TC|exp:1,NULL
 ivsel:Jones09|exp:1|p5,NULL
 ivsel:Jones09|exp:1|p6,NULL
 ivsel:Jones09|exp:1|p8,NULL

@@ -1,3 +1,3 @@
 ﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
-Lacey94,D4T,HT4LacZ-1,15uM,HXB2,HXB2,,1,6,Unknown,RT,V75VT,
-Lacey94,D4T,HT4LacZ-1,30uM,RTMC,RTMC,,1,7,Unknown,RT,V75VA,
+Lacey94,D4T,HT4LacZ-1,15uM,HXB2,HXB2,,1,6,Unknown,RT,V75VT,Table 1 and para. 4
+Lacey94,D4T,HT4LacZ-1,30uM,RTMC,RTMC,,1,7,Unknown,RT,V75VA,Table 1 and para. 4

@@ -1,0 +1,6 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Tisdale93,FTC,MT-4,~50uM,HXB2,HXB2,,1,6,Unknown,RT,M184VI,Table 1
+Tisdale93,FTC,MT-4,~50uM,RTMC,RTMC,,1,6,Unknown,RT,M184VI,Table 1
+Tisdale93,FTC+AZT,MT-4,~50uM+50nM,HXB2,HXB2,,1,7,Unknown,RT,M184VI,Table 1
+Tisdale93,3TC,MT-4,~2000uM,HXB2,HXB2,,1,5,Unknown,RT,M184IV,Table 1
+Tisdale93,3TC,MT-4,~2000uM,RTMC,RTMC,,1,5,Unknown,RT,M184VI,Table 1
