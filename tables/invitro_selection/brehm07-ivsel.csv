@@ -1,0 +1,11 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Brehm07,ivsel:Brehm07|BRU|exp:1|p25,BRU,MT-2,1,=,25,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|BRU|exp:1|p30,BRU,MT-2,1,=,30,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|BRU|exp:1|p35,BRU,MT-2,1,=,35,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|BRU|exp:1|p40,BRU,MT-2,1,=,40,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|BRU|exp:1|p55,BRU,MT-2,1,=,55,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|BRU|exp:1|p60,BRU,MT-2,1,=,60,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|BRU|exp:1|p65,BRU,MT-2,1,=,65,False,=,NULL,NULL,False,Table 1
+Brehm07,ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,LAI (M41L/L210W/T215Y),MT-2,1,=,25,False,=,NULL,NULL,False,"Table 1, section ""Selection of AZT-resistant virus"" of ""Results"""
+Brehm07,ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,LAI (M41L/L210W/T215Y),MT-2,1,=,30,False,=,NULL,NULL,False,"Table 1, section ""Selection of AZT-resistant virus"" of ""Results"""
+Brehm07,ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,LAI (M41L/L210W/T215Y),MT-2,1,=,35,False,=,NULL,NULL,False,"Table 1, section ""Selection of AZT-resistant virus"" of ""Results"""

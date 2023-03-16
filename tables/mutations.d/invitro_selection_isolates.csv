@@ -664,6 +664,186 @@ ivsel:Boucher93|C19|exp:B,RT,468,T
 ivsel:Boucher93|C19|exp:B,RT,483,Y
 ivsel:Boucher93|C19|exp:B,RT,512,Q
 ivsel:Boucher93|C19|exp:B,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p25,RT,67,D
+ivsel:Brehm07|BRU|exp:1|p25,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p25,RT,70,K
+ivsel:Brehm07|BRU|exp:1|p25,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p25,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p25,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p25,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p25,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p25,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p25,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p25,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p25,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p25,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p25,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p25,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p30,RT,67,D
+ivsel:Brehm07|BRU|exp:1|p30,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p30,RT,70,K
+ivsel:Brehm07|BRU|exp:1|p30,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p30,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p30,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p30,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p30,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p30,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p30,RT,371,A
+ivsel:Brehm07|BRU|exp:1|p30,RT,371,V
+ivsel:Brehm07|BRU|exp:1|p30,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p30,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p30,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p30,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p30,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p30,RT,509,L
+ivsel:Brehm07|BRU|exp:1|p30,RT,509,Q
+ivsel:Brehm07|BRU|exp:1|p30,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p35,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p35,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p35,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p35,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p35,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p35,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p35,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p35,RT,371,A
+ivsel:Brehm07|BRU|exp:1|p35,RT,371,V
+ivsel:Brehm07|BRU|exp:1|p35,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p35,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p35,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p35,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p35,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p35,RT,509,L
+ivsel:Brehm07|BRU|exp:1|p35,RT,509,Q
+ivsel:Brehm07|BRU|exp:1|p35,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p40,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p40,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p40,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p40,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p40,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p40,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p40,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p40,RT,371,A
+ivsel:Brehm07|BRU|exp:1|p40,RT,371,V
+ivsel:Brehm07|BRU|exp:1|p40,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p40,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p40,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p40,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p40,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p40,RT,509,L
+ivsel:Brehm07|BRU|exp:1|p40,RT,509,Q
+ivsel:Brehm07|BRU|exp:1|p40,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p55,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p55,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p55,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p55,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p55,RT,215,I
+ivsel:Brehm07|BRU|exp:1|p55,RT,215,T
+ivsel:Brehm07|BRU|exp:1|p55,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p55,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p55,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p55,RT,371,A
+ivsel:Brehm07|BRU|exp:1|p55,RT,371,V
+ivsel:Brehm07|BRU|exp:1|p55,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p55,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p55,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p55,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p55,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p55,RT,509,L
+ivsel:Brehm07|BRU|exp:1|p55,RT,509,Q
+ivsel:Brehm07|BRU|exp:1|p55,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p60,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p60,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p60,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p60,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p60,RT,215,I
+ivsel:Brehm07|BRU|exp:1|p60,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p60,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p60,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p60,RT,371,A
+ivsel:Brehm07|BRU|exp:1|p60,RT,371,V
+ivsel:Brehm07|BRU|exp:1|p60,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p60,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p60,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p60,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p60,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p60,RT,509,L
+ivsel:Brehm07|BRU|exp:1|p60,RT,519,N
+ivsel:Brehm07|BRU|exp:1|p65,RT,67,N
+ivsel:Brehm07|BRU|exp:1|p65,RT,70,R
+ivsel:Brehm07|BRU|exp:1|p65,RT,122,E
+ivsel:Brehm07|BRU|exp:1|p65,RT,214,L
+ivsel:Brehm07|BRU|exp:1|p65,RT,215,F
+ivsel:Brehm07|BRU|exp:1|p65,RT,215,I
+ivsel:Brehm07|BRU|exp:1|p65,RT,272,P
+ivsel:Brehm07|BRU|exp:1|p65,RT,277,R
+ivsel:Brehm07|BRU|exp:1|p65,RT,357,T
+ivsel:Brehm07|BRU|exp:1|p65,RT,371,A
+ivsel:Brehm07|BRU|exp:1|p65,RT,371,V
+ivsel:Brehm07|BRU|exp:1|p65,RT,376,T
+ivsel:Brehm07|BRU|exp:1|p65,RT,400,T
+ivsel:Brehm07|BRU|exp:1|p65,RT,447,S
+ivsel:Brehm07|BRU|exp:1|p65,RT,460,N
+ivsel:Brehm07|BRU|exp:1|p65,RT,468,T
+ivsel:Brehm07|BRU|exp:1|p65,RT,509,L
+ivsel:Brehm07|BRU|exp:1|p65,RT,519,N
+LAI (M41L/L210W/T215Y),RT,41,L
+LAI (M41L/L210W/T215Y),RT,122,E
+LAI (M41L/L210W/T215Y),RT,210,W
+LAI (M41L/L210W/T215Y),RT,214,L
+LAI (M41L/L210W/T215Y),RT,215,Y
+LAI (M41L/L210W/T215Y),RT,272,P
+LAI (M41L/L210W/T215Y),RT,277,R
+LAI (M41L/L210W/T215Y),RT,357,T
+LAI (M41L/L210W/T215Y),RT,376,T
+LAI (M41L/L210W/T215Y),RT,400,T
+LAI (M41L/L210W/T215Y),RT,447,S
+LAI (M41L/L210W/T215Y),RT,460,N
+LAI (M41L/L210W/T215Y),RT,468,T
+LAI (M41L/L210W/T215Y),RT,519,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,41,L
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,67,D
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,67,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,122,E
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,210,W
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,215,Y
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,272,P
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,277,R
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,357,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,376,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,400,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,447,S
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,460,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,468,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,519,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,41,L
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,67,D
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,67,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,122,E
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,210,W
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,215,Y
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,272,P
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,277,R
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,357,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,376,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,400,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,447,S
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,460,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,468,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,519,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,41,L
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,67,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,122,E
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,210,W
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,215,Y
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,272,P
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,277,R
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,357,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,376,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,400,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,447,S
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,460,N
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,468,T
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,519,N
 HIVRTMZ (41L+74V+215Y),RT,41,L
 HIVRTMZ (41L+74V+215Y),RT,74,V
 HIVRTMZ (41L+74V+215Y),RT,122,E

@@ -50,6 +50,17 @@ ivsel:Boucher93|RF|exp:A,NULL
 ivsel:Boucher93|HXB2|exp:B,NULL
 C19,NULL
 ivsel:Boucher93|C19|exp:B,NULL
+ivsel:Brehm07|BRU|exp:1|p25,NULL
+ivsel:Brehm07|BRU|exp:1|p30,NULL
+ivsel:Brehm07|BRU|exp:1|p35,NULL
+ivsel:Brehm07|BRU|exp:1|p40,NULL
+ivsel:Brehm07|BRU|exp:1|p55,NULL
+ivsel:Brehm07|BRU|exp:1|p60,NULL
+ivsel:Brehm07|BRU|exp:1|p65,NULL
+LAI (M41L/L210W/T215Y),B
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,NULL
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,NULL
+ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,NULL
 HIVRTMZ (41L+74V+215Y),B
 ivsel:Larder93|NVP|exp:1|p1,NULL
 ivsel:Larder93|NVP|exp:1|p2,NULL

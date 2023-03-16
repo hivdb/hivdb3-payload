@@ -1,0 +1,11 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Brehm07,AZT,MT-2,0.7uM,LAI,LAI,,1,25,,RT,D67DN+K70KR,Table 1
+Brehm07,AZT,MT-2,3uM,LAI,LAI,,1,30,,RT,D67DN+K70KR+A371AV+Q509QL,Table 1
+Brehm07,AZT,MT-2,10uM,LAI,LAI,,1,35,,RT,D67N+K70R+A371AV+Q509QL,Table 1
+Brehm07,AZT,MT-2,10uM,LAI,LAI,,1,40,,RT,D67N+K70R+A371AV+Q509QL,Table 1
+Brehm07,AZT,MT-2,39uM,LAI,LAI,,1,55,,RT,D67N+K70R+T215TI+A371AV+Q509QL,Table 1
+Brehm07,AZT,MT-2,56uM,LAI,LAI,,1,60,,RT,D67N+K70R+T215I+A371AV+Q509L,Table 1
+Brehm07,AZT,MT-2,810uM,LAI,LAI,,1,65,,RT,D67N+K70R+T215IF+A371AV+Q509L,Table 1
+Brehm07,AZT,MT-2,126uM,LAI,LAI (M41L/L210W/T215Y),M41L+L210W+T215Y,1,25,,RT,M41L+D67DN+L210W+L214F+T215Y,"Table 1, section ""Selection of AZT-resistant virus"" of ""Results"""
+Brehm07,AZT,MT-2,181uM,LAI,LAI (M41L/L210W/T215Y),M41L+L210W+T215Y,1,30,,RT,M41L+D67DN+L210W+L214F+T215Y,"Table 1, section ""Selection of AZT-resistant virus"" of ""Results"""
+Brehm07,AZT,MT-2,>810uM,LAI,LAI (M41L/L210W/T215Y),M41L+L210W+T215Y,1,35,,RT,M41L+D67N+L210W+L214F+T215Y,"Table 1, section ""Selection of AZT-resistant virus"" of ""Results"""

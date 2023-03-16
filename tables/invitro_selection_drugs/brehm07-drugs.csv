@@ -1,0 +1,11 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Brehm07,ivsel:Brehm07|BRU|exp:1|p25,AZT,=,0.7,µM,False
+Brehm07,ivsel:Brehm07|BRU|exp:1|p30,AZT,=,3.0,µM,False
+Brehm07,ivsel:Brehm07|BRU|exp:1|p35,AZT,=,10.0,µM,False
+Brehm07,ivsel:Brehm07|BRU|exp:1|p40,AZT,=,10.0,µM,False
+Brehm07,ivsel:Brehm07|BRU|exp:1|p55,AZT,=,39.0,µM,False
+Brehm07,ivsel:Brehm07|BRU|exp:1|p60,AZT,=,56.0,µM,False
+Brehm07,ivsel:Brehm07|BRU|exp:1|p65,AZT,=,810.0,µM,False
+Brehm07,ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,AZT,=,126.0,µM,False
+Brehm07,ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,AZT,=,181.0,µM,False
+Brehm07,ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,AZT,>,810.0,µM,False

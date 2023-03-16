@@ -1,3 +1,3 @@
 ﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
-Gao92,AZT,MT-4,1.9uM,IIIB,IIIB,,1,7,41d,RT,N67H+K70R+V108A+I135T,Table 1
-Gao92,AZT,MT-4,1.9uM,Consensus B,Strain 187,,1,7,44d,RT,I50V+K70R+I135V+T215Y,Table 1
+Gao92,AZT,MT-4,1.9uM,IIIB,IIIB,,1,7,41d,RT,N67H+K70R+V108A+I135T,"Table 1, sub section ""Cloning and sequencing"" of ""Results"""
+Gao92,AZT,MT-4,1.9uM,Consensus B,Strain 187,,1,7,44d,RT,I50V+K70R+I135V+T215Y,"Table 1, sub section ""Cloning and sequencing"" of ""Results"""
