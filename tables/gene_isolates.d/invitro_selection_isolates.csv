@@ -1279,6 +1279,8 @@ ivsel:Wu12|exp:2a|p25,RT,NULL
 ivsel:Wu12|exp:2b|p25,RT,NULL
 ivsel:Wu12|exp:3|p25,RT,NULL
 ivsel:Wu12|exp:4|p25,RT,NULL
+ivsel:Gao92|IIIB|exp:1,RT,NULL
+ivsel:Gao92|Strain 187|exp:1,RT,NULL
 ivsel:Cilento21|BRU|exp:1|p6,RT,NULL
 ivsel:Cilento21|BRU|exp:1|p9,RT,NULL
 ivsel:Cilento21|LAI (K65R)|exp:1|p6,RT,NULL

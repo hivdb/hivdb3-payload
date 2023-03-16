@@ -1,5 +1,6 @@
 ﻿ref_name,doi,medline_id,url,first_author,title,year,published
 Richman91,10.1073/pnas.88.24.11241,NULL,NULL,"Richman, D.",Human immunodeficiency virus type 1 mutants resistant to nonnucleoside inhibitors of reverse transcriptase arise in tissue culture,1991,TRUE
+Gao92,10.1128/JVI.66.1.12-19.1992,NULL,NULL,"Gao, Q.","In vitro selection of variants of human immunodeficiency virus type 1 resistant to 3'-azido-3'-deoxythymidine and 2',3'-dideoxyinosine",1992,TRUE
 Boucher93,10.1128/AAC.37.10.2231,NULL,NULL,"Boucher, C. A.","High-level resistance to (-) enantiomeric 2'-deoxy-3'-thiacytidine in vitro is due to one amino acid substitution in the catalytic site of human immunodeficiency virus type 1 reverse transcriptase",1993,TRUE
 Gao93,10.1128/AAC.37.6.1390,NULL,NULL,"Gao, Q.","The same mutation that encodes low-level human immunodeficiency virus type 1 resistance to 2',3'-dideoxyinosine and 2',3'-dideoxycytidine confers high-level resistance to the (-) enantiomer of 2',3'-dideoxy-3'-thiacytidine",1993,TRUE
 Larder93,10.1038/365451a0,NULL,NULL,"Larder, B. A.",Convergent combination therapy can select viable multidrug-resistant HIV-1 in vitro,1993,TRUE

@@ -10526,6 +10526,27 @@ ivsel:Wu12|exp:4|p25,RT,106,M
 ivsel:Wu12|exp:4|p25,RT,135,T
 ivsel:Wu12|exp:4|p25,RT,178,M
 ivsel:Wu12|exp:4|p25,RT,382,L
+ivsel:Gao92|IIIB|exp:1,RT,67,H
+ivsel:Gao92|IIIB|exp:1,RT,70,R
+ivsel:Gao92|IIIB|exp:1,RT,108,A
+ivsel:Gao92|IIIB|exp:1,RT,122,E
+ivsel:Gao92|IIIB|exp:1,RT,135,T
+ivsel:Gao92|IIIB|exp:1,RT,214,L
+ivsel:Gao92|IIIB|exp:1,RT,272,P
+ivsel:Gao92|IIIB|exp:1,RT,277,R
+ivsel:Gao92|IIIB|exp:1,RT,376,T
+ivsel:Gao92|IIIB|exp:1,RT,400,T
+ivsel:Gao92|IIIB|exp:1,RT,460,N
+ivsel:Gao92|IIIB|exp:1,RT,461,K
+ivsel:Gao92|IIIB|exp:1,RT,468,P
+ivsel:Gao92|IIIB|exp:1,RT,471,N
+ivsel:Gao92|IIIB|exp:1,RT,483,Y
+ivsel:Gao92|IIIB|exp:1,RT,519,N
+ivsel:Gao92|IIIB|exp:1,RT,559,I
+ivsel:Gao92|Strain 187|exp:1,RT,50,V
+ivsel:Gao92|Strain 187|exp:1,RT,70,R
+ivsel:Gao92|Strain 187|exp:1,RT,135,V
+ivsel:Gao92|Strain 187|exp:1,RT,215,Y
 ivsel:Cilento21|BRU|exp:1|p6,RT,122,E
 ivsel:Cilento21|BRU|exp:1|p6,RT,184,I
 ivsel:Cilento21|BRU|exp:1|p6,RT,214,L
