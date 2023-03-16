@@ -1,0 +1,2 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Gao93,ivsel:Gao93|exp:1,IIIB,MT-4,1,=,8,False,=,62,day,False,"Table 1 and section ""cloning and sequencing"""

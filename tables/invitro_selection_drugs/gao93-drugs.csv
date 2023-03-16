@@ -1,0 +1,2 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Gao93,ivsel:Gao93|exp:1,3TC,=,800.0,µM,False

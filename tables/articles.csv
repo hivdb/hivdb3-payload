@@ -1,6 +1,7 @@
 ﻿ref_name,doi,medline_id,url,first_author,title,year,published
 Richman91,10.1073/pnas.88.24.11241,NULL,NULL,"Richman, D.",Human immunodeficiency virus type 1 mutants resistant to nonnucleoside inhibitors of reverse transcriptase arise in tissue culture,1991,TRUE
 Boucher93,10.1128/AAC.37.10.2231,NULL,NULL,"Boucher, C. A.","High-level resistance to (-) enantiomeric 2'-deoxy-3'-thiacytidine in vitro is due to one amino acid substitution in the catalytic site of human immunodeficiency virus type 1 reverse transcriptase",1993,TRUE
+Gao93,10.1128/AAC.37.6.1390,NULL,NULL,"Gao, Q.","The same mutation that encodes low-level human immunodeficiency virus type 1 resistance to 2',3'-dideoxyinosine and 2',3'-dideoxycytidine confers high-level resistance to the (-) enantiomer of 2',3'-dideoxy-3'-thiacytidine",1993,TRUE
 Larder93,10.1038/365451a0,NULL,NULL,"Larder, B. A.",Convergent combination therapy can select viable multidrug-resistant HIV-1 in vitro,1993,TRUE
 Tisdale93,10.1073/pnas.90.12.5653,NULL,NULL,"Tisdale, M. J.",Rapid in vitro selection of human immunodeficiency virus type 1 resistant to 3'-thiacytidine inhibitors due to a mutation in the YMDD region of reverse transcriptase.,1993,TRUE
 Lacey94,10.1128/AAC.38.6.1428,NULL,NULL,"Lacey, S. F.","Novel mutation (V75T) in human immunodeficiency virus type 1 reverse transcriptase confers resistance to 2',3'-didehydro-2',3'-dideoxythymidine in cell culture",1994,TRUE

@@ -1,0 +1,2 @@
+﻿RefName,Regimen,Cell line,Concentration,BaselineRefSeq,Strain,Baseline mutations,Experiment,Passage,Cumulative culture time,Gene,Delta mutations,Source
+Gao93,3TC,MT-4,800uM,IIIB,IIIB,,1,8,62d,RT,E89G+M184V,"Table 1 and section ""cloning and sequencing"""

@@ -950,6 +950,7 @@ ivsel:Asahchop11|BG 05|EFV|exp:1|25-30w,RT,NULL
 ivsel:Asahchop11|Strain 10680|EFV|exp:1|25-30w,RT,NULL
 ivsel:Lacey94|HXB2|exp:1,RT,NULL
 ivsel:Lacey94|RTMC|exp:1,RT,NULL
+ivsel:Gao93|exp:1,RT,NULL
 ivsel:Shimura08|exp:1|p12,IN,NULL
 ivsel:Shimura08|exp:1|p32,IN,NULL
 ivsel:Shimura08|exp:1|p48,IN,NULL
