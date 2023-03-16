@@ -46,6 +46,10 @@ ivsel:Oliveira17|Strain 14624|RPV|exp:1|37w,NULL
 ivsel:Oliveira17|Strain 14514|RPV|exp:1|37w,NULL
 Strain 12217,B
 ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,NULL
+ivsel:Boucher93|RF|exp:A,NULL
+ivsel:Boucher93|HXB2|exp:B,NULL
+C19,NULL
+ivsel:Boucher93|C19|exp:B,NULL
 HIVRTMZ (41L+74V+215Y),B
 ivsel:Larder93|NVP|exp:1|p1,NULL
 ivsel:Larder93|NVP|exp:1|p2,NULL

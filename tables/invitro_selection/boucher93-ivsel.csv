@@ -1,0 +1,4 @@
+ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
+Boucher93,ivsel:Boucher93|RF|exp:A,RF,C8166,A,=,10,False,NULL,NULL,NULL,True,
+Boucher93,ivsel:Boucher93|HXB2|exp:B,HXB2,MT-2,B,=,9,False,NULL,NULL,NULL,True,
+Boucher93,ivsel:Boucher93|C19|exp:B,C19,MT-2,B,=,9,False,NULL,NULL,NULL,True,

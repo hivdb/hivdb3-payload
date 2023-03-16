@@ -612,6 +612,58 @@ ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,RT,297,H
 ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,RT,358,K
 ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,RT,435,I
 ivsel:Oliveira17|Strain 12217|RPV|exp:1|23w,RT,468,P
+ivsel:Boucher93|RF|exp:A,RT,123,E
+ivsel:Boucher93|RF|exp:A,RT,141,R
+ivsel:Boucher93|RF|exp:A,RT,172,K
+ivsel:Boucher93|RF|exp:A,RT,177,E
+ivsel:Boucher93|RF|exp:A,RT,184,I
+ivsel:Boucher93|RF|exp:A,RT,200,I
+ivsel:Boucher93|RF|exp:A,RT,207,E
+ivsel:Boucher93|RF|exp:A,RT,211,K
+ivsel:Boucher93|RF|exp:A,RT,293,V
+ivsel:Boucher93|RF|exp:A,RT,294,Q
+ivsel:Boucher93|RF|exp:A,RT,297,K
+ivsel:Boucher93|RF|exp:A,RT,375,V
+ivsel:Boucher93|RF|exp:A,RT,435,I
+ivsel:Boucher93|RF|exp:A,RT,505,V
+ivsel:Boucher93|RF|exp:A,RT,529,G
+ivsel:Boucher93|RF|exp:A,RT,550,R
+ivsel:Boucher93|RF|exp:A,RT,554,T
+ivsel:Boucher93|HXB2|exp:B,RT,122,E
+ivsel:Boucher93|HXB2|exp:B,RT,184,I
+ivsel:Boucher93|HXB2|exp:B,RT,214,L
+ivsel:Boucher93|HXB2|exp:B,RT,272,P
+ivsel:Boucher93|HXB2|exp:B,RT,277,R
+ivsel:Boucher93|HXB2|exp:B,RT,376,T
+ivsel:Boucher93|HXB2|exp:B,RT,400,T
+ivsel:Boucher93|HXB2|exp:B,RT,460,N
+ivsel:Boucher93|HXB2|exp:B,RT,468,T
+ivsel:Boucher93|HXB2|exp:B,RT,483,Y
+ivsel:Boucher93|HXB2|exp:B,RT,512,Q
+ivsel:Boucher93|HXB2|exp:B,RT,519,N
+C19,RT,122,E
+C19,RT,214,L
+C19,RT,272,P
+C19,RT,277,R
+C19,RT,376,T
+C19,RT,400,T
+C19,RT,460,N
+C19,RT,468,T
+C19,RT,483,Y
+C19,RT,512,Q
+C19,RT,519,N
+ivsel:Boucher93|C19|exp:B,RT,122,E
+ivsel:Boucher93|C19|exp:B,RT,184,I
+ivsel:Boucher93|C19|exp:B,RT,214,L
+ivsel:Boucher93|C19|exp:B,RT,272,P
+ivsel:Boucher93|C19|exp:B,RT,277,R
+ivsel:Boucher93|C19|exp:B,RT,376,T
+ivsel:Boucher93|C19|exp:B,RT,400,T
+ivsel:Boucher93|C19|exp:B,RT,460,N
+ivsel:Boucher93|C19|exp:B,RT,468,T
+ivsel:Boucher93|C19|exp:B,RT,483,Y
+ivsel:Boucher93|C19|exp:B,RT,512,Q
+ivsel:Boucher93|C19|exp:B,RT,519,N
 HIVRTMZ (41L+74V+215Y),RT,41,L
 HIVRTMZ (41L+74V+215Y),RT,74,V
 HIVRTMZ (41L+74V+215Y),RT,122,E

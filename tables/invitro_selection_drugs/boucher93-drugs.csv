@@ -1,0 +1,4 @@
+ref_name,isolate_name,drug_name,concentration_cmp,concentration,concentration_unit,concentration_unknown
+Boucher93,ivsel:Boucher93|RF|exp:A,3TC,=,457.0,µM,False
+Boucher93,ivsel:Boucher93|HXB2|exp:B,3TC,=,51.2,µM,False
+Boucher93,ivsel:Boucher93|C19|exp:B,3TC,=,51.2,µM,False
