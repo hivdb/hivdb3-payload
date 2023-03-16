@@ -1,8 +1,0 @@
-ref_name,isolate_name,baseline_isolate_name,cell_line,experiment,passage_cmp,passage,passage_unknown,cumulative_culture_time_cmp,cumulative_culture_time,cumulative_culture_time_unit,cumulative_culture_time_unknown,section
-Larder93,ivsel:Larder93|NVP|exp:1|p1,HIVRTMZ (41L+74V+215Y),MT-2,1,=,1,False,NULL,NULL,NULL,True,"Figure 1a, 1b"
-Larder93,ivsel:Larder93|NVP|exp:1|p2,HIVRTMZ (41L+74V+215Y),MT-2,1,=,2,False,NULL,NULL,NULL,True,"Figure 1a, 1b"
-Larder93,ivsel:Larder93|NVP|exp:1|p4,HIVRTMZ (41L+74V+215Y),MT-2,1,=,4,False,NULL,NULL,NULL,True,Figure 1a
-Larder93,ivsel:Larder93|NVP+AZT|exp:1|p3,HIVRTMZ (41L+74V+215Y),MT-2,1,=,3,False,NULL,NULL,NULL,True,Figure 1b
-Larder93,ivsel:Larder93|NVP+AZT|exp:1|p4,HIVRTMZ (41L+74V+215Y),MT-2,1,=,4,False,NULL,NULL,NULL,True,Figure 1b
-Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,HIVRTMZ (41L+74V+215Y),MT-2,1,=,2,False,NULL,NULL,NULL,True,Figure 1c
-Larder93,ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,HIVRTMZ (41L+74V+215Y),MT-2,1,=,3,False,NULL,NULL,NULL,True,Figure 1c

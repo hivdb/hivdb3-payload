@@ -61,14 +61,6 @@ LAI (M41L/L210W/T215Y),RT,NULL
 ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p25,RT,NULL
 ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p30,RT,NULL
 ivsel:Brehm07|LAI (M41L/L210W/T215Y)|exp:1|p35,RT,NULL
-HIVRTMZ (41L+74V+215Y),RT,NULL
-ivsel:Larder93|NVP|exp:1|p1,RT,NULL
-ivsel:Larder93|NVP|exp:1|p2,RT,NULL
-ivsel:Larder93|NVP|exp:1|p4,RT,NULL
-ivsel:Larder93|NVP+AZT|exp:1|p3,RT,NULL
-ivsel:Larder93|NVP+AZT|exp:1|p4,RT,NULL
-ivsel:Larder93|NVP+AZT+DDI|exp:1|p2,RT,NULL
-ivsel:Larder93|NVP+AZT+DDI|exp:1|p3,RT,NULL
 ivsel:Watkins03|SQV|exp:1|p4,PR,NULL
 ivsel:Watkins03|SQV|exp:1|p10,PR,NULL
 ivsel:Watkins03|SQV|exp:1|p15,PR,NULL
